@@ -134,7 +134,7 @@ stands turned to face the room.]
 ---
 
 The neighbour's account was found the next morning, in her flat, by the police, and it is the
-document that made them reopen four deaths.
+document that made them reopen five deaths.
 
 She had not written it on a phone. She had written it on the back of a photograph, the one on
 the shelf by the door, the one of her grandmother in the doorway with the wrapped bundle, and

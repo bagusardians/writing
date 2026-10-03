@@ -175,3 +175,37 @@ five for Frame Three, plus the three pre-existing Frame Three plates renumbered 
 chapter now carries five or more plates and the "five or more per chapter" claim is
 literally true. The image sheet was regenerated to 129 plates with unique labels and
 per-plate camera and lighting. No narrative prose changed; the additions are captions only.
+
+
+## Post-release revision (v1.4.1) — reviewer-critic response
+
+A full reviewer-critic appraisal of v1.4.0 scored the manuscript 7.1/10 (4.0 stars) and found
+the architecture and voice publishable but the ending unfair and overdetermined. This round
+implements the review's top findings. One decision governed the rest: the ending had to stop
+killing the narrator and then keeping her alive.
+
+### Findings addressed
+
+| # | Finding | Change |
+|---|---|---|
+| F1 | The 1958 blank tag (*she's you*) cannot name an unborn Aoi | Reframed as an address (the place in the gap), with the anachronism made explicit |
+| F6 | Ending simultaneously kills and preserves the narrator | The narrator withdraws from the gap, gives the room the reading and not the body, and survives |
+| F2 | Came-after is variously Hana's son / grandson / unrelated | Fixed as Hana's son (Aoi's uncle) throughout; "my grandmother"/"grandfathers" corrected |
+| F3 | Hana's death year is 1989, 1991, and ~2003 in different chapters | Anchored to the period that lets her raise Aoi to fourteen; the 1991 comb is its *owner's* death |
+| F4 | The two hands both claim the shop-door and stairwell deaths | Divided cleanly: driver's line walks the living; records-keeper files |
+| F1b | Six agencies converge on the ending | The causal chain is stated once, plainly, in the Unlock |
+| F2b | Aoi is a reader, not an agent | Added an act of will (writing *THE READER* on the blank tag) that the room answers |
+| F5 | Death count is four and five without reconciliation | Standardized to five reopened deaths, matching the Tea Set |
+| F6b | Chest and mirror both leave "with Hana" | Mirror given to Hana (1961 discharge); chest carried out by the driver |
+| F8 | Supernatural contract unmarked | The room's "reads back" quality is signalled; the bible records the ambiguity as deliberate |
+| — | Sheet chapter-15 rotation and chapter-20 label disorder | Both corrected; captions and prompts are now one-to-one |
+
+### Deliberately deferred
+
+The identity of the chapter-1 narrator (The Mirror) remains ambiguous by design; a one-line
+clarification in Frame One or the finder's note would resolve it, but it is left to the author.
+
+### Outcome
+
+Applied. Prose delta +575 words, all in the ending and the continuity threads. Captions remain
+135 and unique; the illustration sheet and manuscript reconcile one-to-one.

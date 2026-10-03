@@ -132,17 +132,18 @@ I had gone to bed with the flat clean. I am an appraiser; I do not leave a floor
 morning the room was there, in Tateishi, three kilometres from the warehouse, drawn the way you
 draw a room you are being invited into.
 
-I am going to Kuramae tomorrow with Mikami and the tape measure. I am going to stand in the gap. I
-am going to let him measure the last piece.
+I am going to Kuramae tomorrow with Mikami and the tape measure. I am going to the gap. I am going
+to let him measure the last piece, and then I am going to decide what to do about the fact that the
+last piece has my name on it.
 
 I am writing this in the present tense now and I am not going to correct it. The person who writes
 in the past tense is a person looking back, and there is no back. There is only the room, and the
 count, and the tag that has my name on it and no date yet, and the date is going in whether I
 write it or not.
 
-If you are reading this, someone found it, and someone finished the count. I want the record to
-show that I finished it too, in my own hand, in order, with everything reconciled, which is how an
-appraiser closes a collection.
+If you are reading this, then I finished it, one way or the other. I want the record to show that
+I closed it in my own hand, in order, with everything reconciled, which is how an appraiser closes
+a collection — and that closing a collection is not the same as becoming one.
 
 ---
 

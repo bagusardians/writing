@@ -43,9 +43,15 @@ because saying it would make it real.
 the tooth. She asked me to write nothing on the ticket. I wrote HANA because I always
 write a name; it's how I know a job is done."
 
-"And she died."
+"And the owner died."
 
-"The week I gave it back."
+"The week I gave it back. Hana brought it in and Hana came for it, and a week later the woman
+it belonged to was dead, and Hana was the one who had to carry it back to her. That's what the
+comb is. It's a thing Hana kept for someone who was going to die."
+
+Aoi asked whether Hana had seemed like a woman in mourning.
+
+"No," Mikami said. "She seemed like a woman doing a job. That's worse."
 
 [IMAGE 11.2 — a lacquer comb on a bench, restored, one tooth replaced in slightly different
 lacquer; beside it, a receipt book open to a page where the name HANA appears in pencil, in
@@ -61,9 +67,10 @@ Mikami had thought about that for thirty-three years, on and off, the way you th
 draft in a room. He said: "Because your mother lived in Sendagi then. With Hana. Three
 streets from me. I didn't know. I didn't know any of it, then."
 
-Aoi did the arithmetic. If Hana died in 1991 and Aoi's mother lived in Sendagi with her in
-1991, then Aoi's mother had been there when the comb was returned. When Hana died. On the
-street Mikami walked to work for thirty years.
+Aoi did the arithmetic. If her mother lived in Sendagi with Hana in 1991 — the year the comb
+was returned, the year its owner died — then her mother had been a child in that flat on the
+street Mikami walked to work for thirty years, and Hana had been raising her there, and the
+whole of it had been three streets from the shop the whole time.
 
 "They knew where to look," Mikami said. "That's what frightens me. Whoever wrote those tags
 knew where everyone would be. She knew where I was. She knew where your family was."

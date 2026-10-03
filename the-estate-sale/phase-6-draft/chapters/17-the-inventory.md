@@ -94,7 +94,7 @@ reassembled in the only form available to her: a copy. The room she built was a 
 built from memory, one object at a time, because the originals were gone.
 
 Except the two that were removed while she watched: the mirror, which went to the servant,
-and the chest, which went to no one, and which had come back.
+and the chest, which the driver carried out, and which had come back.
 
 She had been doing what the priest did. She had been keeping a record of presence in a room
 she could not enter, and the only way she could hold the record was to buy the room's copies,

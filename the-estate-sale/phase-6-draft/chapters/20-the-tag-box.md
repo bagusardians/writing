@@ -42,12 +42,12 @@ And thirteen others, all living, all tagged, all with dates still to come.
 Aoi copied them onto the back of a market flyer and arranged them before she understood why. It
 took her an hour to see it. It is below.
 
-[IMAGE 20.6 — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
+[IMAGE 20.2 — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
 surname-only labels with districts, set out like furniture around a central blank; no two
 related names adjacent; three labels ringed in red; a margin note reads "reads like a room, not
 a phone book."]
 
-[IMAGE 20.2 — a diagram: a two-column chart, drawn by hand. Left column: the twelve 1958
+[IMAGE 20.3 — a diagram: a two-column chart, drawn by hand. Left column: the twelve 1958
 names and their front dates. Right column: the nineteen living names and the blurry
 future dates on the reverse. Arrows connect a 1958 name to a living name, showing the
 tags pair the dead with the living in a chain.]
@@ -99,19 +99,25 @@ there were two words, written very small.
 *she's you.*
 
 Aoi sat with that for a long time. She did not understand it. She would understand it in the
-room, three days later, when she measured the gap and stood in it, and the count came out
-even.
+room, three days later, when she came to the gap.
 
-She put the tags back in the box.
+She put the tags back in the box. Then she took one out again — the blank one, the 1958 one —
+and she did something she had not done all winter, and which she would not be able to explain
+afterward except to say that it was the only thing in the flat she could reach that was a
+decision and not a document.
 
-[IMAGE 20.3 — the blank tag held to a lamp: a small white tag with a faint pencil drawing of
-a tansu and the words YANAKA, 1958; on its reverse, two small words in a steadier hand; the
-lamp is the only light in the frame.]
+She wrote on the front of it, in her own hand, a name that was not a person.
+
+*THE READER.*
+
+Then she put it in the box with the others, and closed the lid, and called Mikami, and her
+voice did not shake, and that frightened her more than the tags had.
+
+[IMAGE 20.4 — the blank tag held to a lamp: a small white tag with a faint pencil drawing of
+a tansu and the words YANAKA, 1958; on its reverse, two small words in a steadier hand; on its
+front, in a different hand, the words THE READER; the lamp is the only light in the frame.]
 
 ---
-
-She called Mikami. Her voice, she noticed, did not shake, and that frightened her more than
-the tags.
 
 "Bring a tape measure," she said. "We're going to Kuramae."
 
@@ -183,7 +189,7 @@ begun to believe that the paperwork *was* the room, which is the professional de
 my trade and the reason I am writing this in the past tense and will finish it in the
 present.
 
-[IMAGE 20.4 — a stopped car at night in Kuramae: two people in the front seats, the folder
+[IMAGE 20.5 — a stopped car at night in Kuramae: two people in the front seats, the folder
 on the seat between them; out the windscreen, a warehouse wall and a locked gate; the street
 is empty and the engine is off.]
 
@@ -210,6 +216,6 @@ editing a list for sixty years and was not going to let the last entry fall out 
 
 The last entry on the list had always been a Shirai. It had just not always been me.
 
-[IMAGE 20.5 — the tag box open on a car seat under an interior light: nineteen tags laid out;
+[IMAGE 20.6 — the tag box open on a car seat under an interior light: nineteen tags laid out;
 six show evidence of erasure and corrected pencil dates; the tags are in date order; a hand
 holds one tag; through the window, a dark street.]

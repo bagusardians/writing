@@ -4,7 +4,7 @@
 
 | Name | Role | First seen | Status |
 |---|---|---|---|
-| Shirai Aoi | Frame narrator, buyer | Frame 1 | Dies in Unlock |
+| Shirai Aoi | Frame narrator, buyer | Frame 1 | Survives; refuses the gap (v1.4.1) |
 | Mikami Toru | Restorer, specialist | Frame 1 | Survives; confesses |
 | Kanzaki Mitsuko | Dead collector | Frame 1 | Dead 2023 |
 | Kanzaki Sada | Mitsuko's mother | Ep 10 | Dead (1971) |
@@ -15,11 +15,11 @@
 | Hoshino | Filed, rescheduled | Inventory | Died later |
 | Sakaguchi | Filed, rescheduled | Inventory | Died later |
 | The Visitor | Neighbour; live POV | The Visitor | Died; absent from the paperwork |
-| Hana | Servant; Aoi's grandmother | Ep 6 | Dead (1989) |
+| Hana | Servant; Aoi's grandmother; keeper of the mirror | Ep 6 | Dead (c.2008; Aoi aged 14) |
 | Kanzaki Kei | Mitsuko's son | Frame 2 | Alive; last custodian of the house |
 | Kuroda Jun | Kuroda grandson; buys the estate back | Coat/Swords/Tea Set | Killed by Toyama Reiko (Tea Set) |
-| Toyama Reiko | Driver's granddaughter; clears the living | The Tea Set | One of two hands; dies in the room |
-| "The came-after" | Hana's son (Aoi's uncle); steadies the records | The Comb onward | Second hand; reveals the whole in Unlock |
+| Toyama Reiko | Driver's granddaughter; clears the living | The Tea Set | One of two hands; dies before the room closes |
+| "The came-after" | Hana's son (Aoi's uncle); steadies the records | The Comb onward | Second hand; reveals the whole in Unlock; alive |
 | The finder | Recovers the document | Unlock | Unnamed |
 
 ## The two hands (revision note)
@@ -53,21 +53,28 @@ Mitsuko kept two hands, deliberately apart so neither knew the whole route:
 | Date | Event | Chapter |
 |---|---|---|
 | 1958 | Kuroda dies; Mitsuko strikes; Sada takes responsibility | Unlock |
-| 1959 | Hana paid the mirror; leaves down the Sumida | Ep 6 |
+| 1959 | Hana paid the mirror; leaves the Kanzaki house | Ep 6 |
 | 1971 | Sada dies | Ep 10 |
-| 1989 | Hana dies | Ep 6 |
-| 1991 | Mikami restores the comb; owner dies | Ep 8 |
-| 2003 | Aoi's mother dies; mirror taken | Frame 2 |
+| 1989 | Mitsuko writes to the two families; the route begins | Tea Set / Swords / Unlock |
+| 1991 | Mikami restores the comb; its owner dies; Hana keeps it | Ep 8 |
+| 2003 | Aoi's mother dies; Aoi, 9, goes to Hana | Frame 2 |
 | 2023 | Mitsuko dies; estate sold | Frame 1 |
 | June–Dec | The chain's scheduled deaths, one per month | Chain |
 | Present | The survey, chain, and convergence | 1–21 |
-| Present | Aoi completes the room; dies | The Room |
+| c.2008 | Hana dies; Aoi is 14 | Frame 2 |
+| Present | Aoi completes the room; refuses the gap; survives | The Room |
 
 ## Rules
 
-- Everything is explicable; nothing supernatural is confirmed.
+- The mundane reading is always available and always the one the documents support; the room's
+  effect is left deliberately unresolved (F8, v1.4.1). The book is a mystery with a haunted
+  room, not a ghost story with a mystery attached.
 - The tags name the 1958 attendees; later tags name the living as heirs of the dead.
-- Two hands write: a small upright hand (Mitsuko) and a steadier hand (enforcement).
+- Two hands write: a small upright hand (Mitsuko) and a steadier hand (the came-after).
+- The two hands do not overlap (F4, v1.4.1): the driver's line (Reiko) *walks the living* — the
+  confrontations and "conversation" deaths; the records-keeper (the came-after) *files* — the
+  plastered wall, the keys on the hook, the drawn room, and the quiet disappearances of the
+  record-keepers. Neither knows the other.
 - Images must carry each solution; the four resolving documents are the ledger, the album,
   the family register, and the temple inventory.
 
@@ -90,6 +97,7 @@ Mitsuko kept two hands, deliberately apart so neither knew the whole route:
 | The tansu | Ep 1 | Unlock dimensions |
 | The Buyer's lineage | Ep 4 | Ep 10 |
 | Why present tense | Ep 1 | The Room |
+| The blank tag ("she's you") | Ep 1 | The Room (role, not person) |
 | The second hand | The Comb | The Room |
 | The count ("one left") | Frame 3 | The Room |
 | The Visitor's absence from the paperwork | The Visitor | The Room |

@@ -113,11 +113,11 @@ a transfer out of the Kanzaki household. The reason given is one word."
 
 Aoi was quiet.
 
-"The same year the first tag is dated," Hoshino said. "1961. Your grandmother left the house
-the year Mitsuko started collecting. She was paid — we know that from the mirror — and she
-left, and she took the mirror, which was the weapon, and she never spoke, and her daughter
-never spoke, and you grew up in Tateishi not knowing any of it. That's the last silence, and
-it's the one that kept you alive until April."
+"The same year the first tag is dated," Hoshino said. "1961. Your grandmother was discharged
+from the house the year Mitsuko started collecting. She had been paid — we know that from the
+mirror — and she had kept the mirror since the night, which was the weapon, and she never
+spoke, and her daughter never spoke, and you grew up in Tateishi not knowing any of it. That's
+the last silence, and it's the one that kept you alive until April."
 
 [IMAGE 16.3 — two certified documents side by side on the archive table: the Kanzaki
 register and the Kuroda register, each with a single line circled; between them, a small
@@ -233,7 +233,7 @@ of all. It says a man died by misadventure and a mother took the blame. It does 
 child did, because the child was never asked, and because a note a researcher is permitted to
 file can only hold what the registers were willing to admit. The whole truth of the blow was not
 in any archive. It was on the inside cover of a ledger, in a child's hand, and Aoi would not find
-it until she stood in the room.
+it until she came to the room.
 
 Aoi folded the note into the folder and looked out the window at the lights of Mitaka. She had,
 at last, the one thing the account had been missing since April.

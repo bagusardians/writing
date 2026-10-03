@@ -26,15 +26,16 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.4.0/the-estate-sale-v1.4.0.md`** (~44,955 words excl.
-image prompts; v1.4.0 is the illustration-specification pass — unique plate labels and
-standalone prompts — on top of v1.3.0's page-turner pass and v1.2.0's continuity fix).
+The finished book is **`releases/v1.4.1/the-estate-sale-v1.4.1.md`** (~45,530 words excl.
+image prompts; v1.4.1 is the post-review ending-and-continuity revision — the narrator now
+refuses the gap and completes the testimony by reading it — on top of v1.4.0's
+illustration-specification pass, v1.3.0's page-turner pass and v1.2.0's continuity fix).
 See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
 
 ## Files
 
 ```
-releases/v1.1.0/the-estate-sale-v1.1.0.md final manuscript (frozen, current)
+releases/v1.4.1/the-estate-sale-v1.4.1.md final manuscript (frozen, current)
 phase-1-worldbuilding/world-bible.md      cast, setting (real Tokyo districts), spine
 phase-2-style/style-guide.md              locked voice decisions and house rules
 phase-3-voice/style-fingerprint.md        feature-only voice profile
@@ -61,10 +62,11 @@ the prose.
 
 ## Status
 
-- **Final, v1.4.0** — released to `releases/v1.4.0/` (v1.2.0 continuity revision; v1.3.0
-  page-turner pass; v1.4.0 illustration-specification pass).
+- **Final, v1.4.1** — released to `releases/v1.4.1/` (v1.2.0 continuity revision; v1.3.0
+  page-turner pass; v1.4.0 illustration-specification pass; v1.4.1 ending-and-continuity
+  revision from the reviewer-critic appraisal).
 - All eight phase artifacts complete; nine editorial rounds documented in
   `phase-7-editorial/edit-report.md`.
-- ~44,955 words excluding image prompts; target met.
+- ~45,530 words excluding image prompts; target met.
 - Illustrations specified (135 plates) but not generated. Each prompt in
   `phase-8-visuals/illustration-prompts.md` is standalone and embeds the house style.

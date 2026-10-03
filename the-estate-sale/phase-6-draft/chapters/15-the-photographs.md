@@ -228,31 +228,33 @@ had not read to her because he had not understood it until now.
 
 He read it.
 
-It said: *a servant girl came for the chest, and the family gave it to her, and she was seen
-carrying it toward the river. Ask after the servant.*
+It said: *a servant girl was promised the mirror, and the driver carried out a chest and was
+seen driving toward the river. Ask after the servant. Ask after the driver.*
 
 Aoi stood in the empty house with the torch on the list and the phone to her ear, and put the
 last pieces together, the way an appraiser closes a provenance.
 
-The chest went out with Hana, the servant, the same night the mirror did. The mirror went to
-Hana as payment. The chest went too, because the chest was where the child hid.
-
-Hana could not carry the mirror *and* the chest. She chose — or was told — to take the chest.
+The mirror was promised to Hana, the servant, on the night of the death — payment for a silence
+she kept for three more years — and she took it with her when she was discharged in 1961, and it
+went down the servant's line: to Aoi's mother, to Aoi. The chest was too big for a woman to carry
+on foot; the driver, Toyama, took it out in the car that same night, and it went down the
+driver's line.
 
 The chest went down the Sumida and into the hands of whichever family member kept it for sixty
 years. It surfaced in a warehouse in Kuramae in the autumn, placed by someone who knew exactly
 what it was, in the corner of the room, where it had always stood.
 
 Somebody had kept the chest. Somebody had brought it back. And the only person who could have
-had it, if it went out with Hana, was the person on the other end of the mirror's line.
+had it, if it went out with the driver, was the driver's line — the same line that had driven
+the night, and been paid, and been kept quiet for sixty years.
 
 Aoi looked at her own hand, holding the keys, in the torchlight, in her mother's story.
 
-Her grandmother had carried the chest out of Yanaka. It had passed to Aoi's mother. It had
-passed, somehow, to someone, and it had come back to the room, and Aoi was holding the keys to
-the house where the room had been.
+Her grandmother had carried the mirror out of Yanaka. It had passed to Aoi's mother. It had
+passed to Aoi. And the chest had gone the other way, with the driver, and had come back, and
+Aoi was holding the keys to the house where the room had been.
 
-She understood that she had been carrying the chest her whole life without knowing it, in the
+She understood that she had been carrying the mirror her whole life without knowing it, in the
 only form a thing can survive when no one will speak its name: as a fact in a family that had
 been turned into a story, and then into a silence, and then into nothing at all.
 
