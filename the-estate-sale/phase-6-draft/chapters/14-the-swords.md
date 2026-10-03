@@ -84,14 +84,16 @@ She cried when I told her. It's the only time I saw her cry."
 
 The swords that did the talking.
 
-Ito looked at the two blades in their plain scabbards and understood, the way you understand
-a valuation before you can name it, that these were not weapons of the night. They were the
-Kuroda family's formal pair, the pair a patron wears when he goes to a house to be
+Ito looked at the two blades in their plain scabbards and understood, the way you understand a
+valuation before you can name it, that these were not weapons of the night.
+
+They were the Kuroda family's formal pair. The pair a patron wears when he goes to a house to be
 important and to be seen. Kuroda Genji had gone to the Kanzaki house in 1958 carrying the
-family's pride, and had done something unspeakable while wearing it, and someone — not the
-Kanzakis, who had no swords — had polished the blades afterward, and had put them back on
-the stand, and had kept them, and had cried, and had brought them back to the woman's room
-fifteen years ago because the room had a place for the blades and he could not finish
+family's pride, and had done something unspeakable while wearing it.
+
+And someone — not the Kanzakis, who had no swords — had polished the blades afterward, and put
+them back on the stand, and kept them, and cried, and brought them back to the woman's room
+fifteen years ago. Because the room had a place for the blades. And because he could not finish
 keeping them alone.
 
 [IMAGE 12.3 — the tsuba's reverse: an iron guard photographed close, showing a worn plum
@@ -159,17 +161,15 @@ a date, and the date was today.
 She put it in her pocket and did not read it until she was home.
 
 Then she went to the storage room behind the shop, because the door was unlocked and because
-she had become the kind of person who tries doors, and inside there were the blades, in
-shirasaya, on the stand, and the stand was the one from the estate, and the two blades were
-on it, and on the stand there was a tag, and the tag said KURODA — 1958 — YANAKA, and it was
-the original tag, which the estate had sold with the stand, which meant the blades had been
-brought back.
+she had become the kind of person who tries doors.
 
-Which meant Kuroda Jun had already been here.
+Inside were the blades, in shirasaya, on the stand. The stand was from the estate. On it there
+was a tag, and the tag said KURODA — 1958 — YANAKA. It was the original tag, which the estate
+had sold with the stand. Which meant the blades had been brought back.
 
-Which meant Kuroda Jun had stood in this room and put the blades back on the stand that the
-dead woman had tagged, and had left them, and had left the shop open, and had left a tag under
-the door with no name and today's date.
+Which meant Kuroda Jun had already been here. He had stood in this room and put the blades back
+on the stand that the dead woman had tagged, and had left them, and had left the shop open, and
+had left a tag under the door with no name and today's date.
 
 Aoi understood, standing in the storage room with the blades, that Kuroda Jun was not tidying.
 He was *returning*. He had been returning the pieces to the room for years — the coat, the

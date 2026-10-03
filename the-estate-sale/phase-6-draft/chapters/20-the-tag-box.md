@@ -39,6 +39,14 @@ SAKAGUCHI RIE — this year.
 
 And thirteen others, all living, all tagged, all with dates still to come.
 
+Aoi copied them onto the back of a market flyer and arranged them before she understood why. It
+took her an hour to see it. It is below.
+
+[IMAGE 20.1b — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
+surname-only labels with districts, set out like furniture around a central blank; no two
+related names adjacent; three labels ringed in red; a margin note reads "reads like a room, not
+a phone book."]
+
 [IMAGE 20.2 — a diagram: a two-column chart, drawn by hand. Left column: the twelve 1958
 names and their front dates. Right column: the nineteen living names and the blurry
 future dates on the reverse. Arrows connect a 1958 name to a living name, showing the

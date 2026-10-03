@@ -235,11 +235,12 @@ file can only hold what the registers were willing to admit. The whole truth of 
 in any archive. It was on the inside cover of a ledger, in a child's hand, and Aoi would not find
 it until she stood in the room.
 
-Aoi folded the note into the folder and looked out the window at the lights of Mitaka and
-understood that she had, at last, the one thing the account had been missing since April: a
-document, in an official file, in a government archive, that a stranger could read, that did
-not rely on a ghost or a curse or a room, and that said, in plain bureaucratic Japanese, that a
-man had attacked a child and the child's mother had stopped him and the world had agreed not to
+Aoi folded the note into the folder and looked out the window at the lights of Mitaka. She had,
+at last, the one thing the account had been missing since April.
+
+A document. In an official file, in a government archive. Something a stranger could read, that
+did not rely on a ghost or a curse or a room. It said, in plain bureaucratic Japanese, that a man
+had attacked a child and the child's mother had stopped him, and that the world had agreed not to
 say so.
 
 It was not justice. It was a note in a file.

@@ -26,8 +26,9 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.2.0/the-estate-sale-v1.2.0.md`** (v1.1.0: 50,326 words;
-v1.2.0 revision adds ~1,700 words of continuity and logic fixes).
+The finished book is **`releases/v1.2.0/the-estate-sale-v1.2.0.md`** (~44,955 words excl.
+image prompts; v1.2.0 is a continuity fix plus a page-turner prose pass — see the release
+changelog).
 See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
 
 ## Files
@@ -63,5 +64,5 @@ the prose.
 - **Final, v1.1.0** — released to `releases/v1.1.0/`.
 - All eight phase artifacts complete; nine editorial rounds documented in
   `phase-7-editorial/edit-report.md`.
-- 50,326 words excluding image prompts; target met.
-- Illustrations specified (129 plates) but not generated.
+- ~44,955 words excluding image prompts; target met.
+- Illustrations specified (134 plates) but not generated.

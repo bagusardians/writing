@@ -2,7 +2,8 @@
 
 **Status:** Final release (current).
 **Manuscript:** `the-estate-sale-v1.2.0.md`
-**Word count:** 46,667 excluding image prompts (v1.1.0, same method: 44,951; delta +1,716).
+**Word count:** 44,955 excluding image prompts (v1.1.0, same method: 44,951; delta +4 on the
+continuity pass plus the page-turner pass, which cut roughly as much as it added).
 **Structure:** 22 units across three movements (survey, chain, convergence).
 
 ## Changes since v1.1.0
@@ -44,12 +45,33 @@ Interlude, the Tag Box, the Unlock) is unchanged.
 8. **A starved kill count was corrected.** Reiko's "nine times" is recast to fit the
    one-a-month route without contradicting the three exploration deaths.
 
+## Page-turner revision (second pass, same release)
+
+After the continuity pass, a second pass reset the prose toward a page-turner register:
+shorter, plainer, faster, with the hooks front-loaded and the drag cut. The model is Jim
+Rion's translation of Uketsu for Pushkin Vertigo — "simple phrasing," a "very easy read" —
+while keeping the book's own voice.
+
+- **Frame chapters rewritten for momentum.** Frames One, Two, Three, and Four were rebuilt
+  with shorter paragraphs, a faster open, and scene breaks as beats. Average sentence length
+  across the five frame/interlude units fell from 17.0 words to 12.2.
+- **The Interlude was tightened in place** (it is the tense pivot and was largely left alone).
+- **Run-on sentences split.** Across the whole book, average sentence length fell from 18.1
+  words to 16.6; sentences over 50 words fell from 149 to 125; sentences over 70 words fell
+  from 29 to 16.
+- **Dense paragraphs split** in The Tea Set, The Swords, The Doll, and The Room; paragraphs
+  over 120 words fell from 4 to 2 (both remaining are in-world bureaucratic documents).
+- **Five new hand-drawn plates** added at clue points, to carry pace and clue-work in the
+  drawn-artifact medium (floor plan, timeline chart, two-column chart, name table, seating
+  chart). Plates: 129 → 134.
+- **A duplicated Swords passage was de-duplicated.**
+
 ## What this release does not change
 
-The prose style, voice, structure, chapter titles, and all 129 image plates are unchanged.
-No chapter was cut or merged. The plan to compress the repetitive case chapters was
-considered and deliberately deferred: this pass was scoped to the logic and continuity
-defects, not to structure.
+The structure, chapter titles, POV scheme, and the eleven-case architecture are unchanged. No
+chapter was cut or merged. The plan to compress the repetitive case chapters was considered
+and deliberately deferred: the case chapters were sped up at the sentence and paragraph level,
+but their architecture (eleven statements, one discovery beat each) is unchanged.
 
 ## Contents
 

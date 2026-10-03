@@ -200,12 +200,17 @@ the four documents laid side by side; the doorway open behind him.]
 And there it was. The whole account, turned over one last time.
 
 Kanzaki Mitsuko, the collector. The woman who bought a room back one object at a time. The
-witness who could not speak. And — the thing no one had seen, not Aoi, not Mikami, not me —
-the *author*. She had not just built the room. She had built the *route*. She had spent
-thirty-five years, through two hired hands she kept from ever meeting, moving the pieces of
-her testimony into the only arrangement that could deliver it: a chain of people who each held
-one document, and one person, at the end, who held none, and who would have to walk into the
-room and read it, and the room would be complete, and the truth would be told.
+witness who could not speak.
+
+And the thing no one had seen, not Aoi, not Mikami, not me: the *author*.
+
+She had not just built the room. She had built the *route*. She had spent thirty-five years,
+through two hired hands she kept from ever meeting, moving the pieces of her testimony into the
+only arrangement that could deliver it.
+
+A chain of people who each held one document. And one person, at the end, who held none — who
+would have to walk into the room and read it. Then the room would be complete, and the truth
+would be told.
 
 The deaths were not the crime. The deaths were the *delivery*. And the man in the grey coat
 was not the villain in the way the account had wanted one. He was half a messenger, and he had

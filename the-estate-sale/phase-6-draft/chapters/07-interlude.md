@@ -20,12 +20,13 @@ reason I have taken the ledger home with me: I do not think I am going to surviv
 
 I do not mean that as fear. I mean it as an appraisal.
 
-I have spent eleven years pricing things, and the trade gives you one gift, which is
-judgement without attachment. You look at a lacquer box with a cracked lid and you see the
-crack, and you see the box, and you do not confuse the two. I have been looking at this
-account the way I look at a box. There is a crack in it. The crack is not me. But the crack
-runs from the first page to this one, and I have begun to think it was there before I
-started writing, and that I have merely been tracing it.
+I have spent eleven years pricing things. The trade gives you one gift: judgement without
+attachment. You look at a lacquer box with a cracked lid and you see the crack, and you see the
+box, and you do not confuse the two.
+
+I have been looking at this account the way I look at a box. There is a crack in it. The crack is
+not me. But it runs from the first page to this one, and I have begun to think it was there before
+I started writing, and that I have only been tracing it.
 
 The ledger says my name. The tags say my name. The mirror came back to me. A woman I never
 met, dead in March, arranged her whole estate around my mother, and my mother's mirror, and

@@ -363,7 +363,7 @@ and lighting. Apply the house style and the negative prompt to every plate. Labe
 
 **21.4** — _document photograph, 3:2._ From inside the arrangement: the narrator standing in the central gap facing the doorway; the two hundred tagged objects turned toward her; a man's silhouette entering the doorway, backlit by the corridor; the chest in the foreground corner with the blank tag. **Camera:** 50mm, natural perspective. **Light:** soft north-window light; muted, slightly muddy palette.
 
-**21.5** — _document photograph, 3:2._ Two figures at the edge of the arranged room: the narrator standing in the central gap; the Buyer seated on the floor, hands still folded; between them, on the floor, the four documents laid side by side; the doorway open behind him. **Camera:** 24mm wide, stopped down for depth. **Light:** soft north-window light; muted, slightly muddy palette.
+**21.5** — _document photograph, 3:2._ Two figures at the edge of the arranged room: the narrator standing in the central gap; the came-after seated on the floor, hands still folded; between them, on the floor, the four documents laid side by side; the doorway open behind him. **Camera:** 24mm wide, stopped down for depth. **Light:** soft north-window light; muted, slightly muddy palette.
 
 **21.6** — _document photograph, 3:2._ The phone, later, found on the floor of the warehouse: a notes app open, mid-sentence, the cursor blinking; the arranged room around it begins to be taken apart; a single tag lies beside the phone; the doorway is empty. **Camera:** 24mm wide, stopped down for depth. **Light:** phone flash or screen glow as the only source; hard falloff.
 
@@ -373,4 +373,21 @@ and lighting. Apply the house style and the negative prompt to every plate. Labe
 
 ---
 
-_Total plates: 129. Images are not generated in this phase; this is the generation brief. Aspect ratios: 3:2 landscape, 3:4 vertical, 1:1 plan/map._
+## Plate additions for v1.2.0 (page-turner pass)
+
+Five new hand-drawn plates were added to the manuscript to carry pacing and clue-work in
+the drawn-artifact medium. All are 1:1 or 3:2, flat reproduction unless noted.
+
+**6.2b** — _diagram / hand-drawn plate, 1:1._ A locksmith's pencil floor plan on the back of a printed job sheet: the six mats ruled to scale; a doorway slot at the bottom; a doorway-shaped blank at the exact centre; small ticks for each wall object, clustered so that every one faces the centre; a pencilled arc from the door to the gap, labelled "sightline"; the paper creased and smudged. **Camera:** flat reproduction, no perspective. **Light:** single bulb from the left; hard falloff.
+
+**7.4b** — _diagram / hand-drawn plate, 3:2._ A hand-ruled chart in Aoi's notebook: a horizontal axis of years 1961 to 2023, a vertical axis of names; two hundred small crosses marching in a single file, one per year; every seventh cross circled; a red thread running left to right along the file; the last circle empty, its margin note "the one with no name yet." **Camera:** flat reproduction. **Light:** bench lamp from above; warm pool, dark edges.
+
+**9.7** — _diagram / hand-drawn plate, 1:1._ A two-column chart drawn on the ruled flyleaf of a bank ledger, in the tea narrator's hand: the left column headed "the ones who held a piece," names in a firm upright hand, each struck through; the right column headed "the ones who kept the records," ruled off by a vertical double line, with a single unreadable signature at the foot; the two columns never join. **Camera:** flat reproduction. **Light:** fluorescent office light, slightly green.
+
+**11.2b** — _diagram / hand-drawn plate, 3:2._ A hand-copied table on a repair-shop memo slip: two columns headed ORDER and NAME; twelve numbered rows in a child's rounded script traced faithfully; a ruled line across the full width beneath the twelfth; a thirteenth line below the rule in a different, steadier hand, with a blank left for the year. **Camera:** flat reproduction. **Light:** shop daylight, overcast.
+
+**20.1b** — _diagram / hand-drawn plate, 1:1._ A hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen surname-only labels with districts, set out like furniture around a central blank; no two related names adjacent; three labels ringed in red; a margin note reads "reads like a room, not a phone book." **Camera:** flat reproduction. **Light:** market daylight, dappled.
+
+---
+
+_Total plates: 134. Images are not generated in this phase; this is the generation brief. Aspect ratios: 3:2 landscape, 3:4 vertical, 1:1 plan/map._

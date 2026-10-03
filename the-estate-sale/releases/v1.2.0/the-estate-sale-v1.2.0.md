@@ -2,114 +2,102 @@
 
 # Frame One — The Tag
 
-*[Editor's note, found with the manuscript: This was recovered from a flat in Tateishi. The
-pages were numbered in a hand that is small and upright, the way a person writes when they
-expect the writing to outlast them. I have transcribed them as they were. I have not
+*[Editor's note, found with the manuscript: recovered from a flat in Tateishi. The pages were
+numbered in a hand that is small and upright. I have transcribed them as they were. I have not
 corrected the places where the tense changes.]*
 
 ---
 
-The hall smelled of wet cardboard and floor polish. Two hundred lots on eight trestle
-tables, each tagged in the same hand, small and upright. I had come for one lot. I told
-myself that.
+The hall smelled of wet cardboard and floor polish.
 
-The sale was in Kiyosumi-Shirakawa, in a warehouse someone had swept out and strung with
-bulbs. The canal was two streets over and you could feel it in the floor, a coldness that
-came up through the concrete the way water does. Kanzaki Mitsuko had died in March, at
-seventy-eight, in a house in Yanaka she had not left in eleven years. Her son had emptied
-the house into this room and was selling it by the piece.
+Two hundred lots on eight trestle tables. Every lot tagged, every tag in the same hand, small
+and upright. The sale was in Kiyosumi-Shirakawa, in a warehouse someone had swept out and strung
+with bulbs.
 
-I buy estates. I price the dead for strangers, and I am good at it, and I have never once
-told myself it was anything else. You learn the trade the way you learn a language you
-will never be fluent in: valuation, condition, provenance, reserve. You learn to hold a
-thing without wanting it. The ones who cannot do that leave the trade, or they keep
-everything, and their flats fill up, and I have seen both.
+Kanzaki Mitsuko had died in March, at seventy-eight, in a house in Yanaka she had not left in
+eleven years. Her son had emptied the house into this room and was selling it by the piece.
 
-[IMAGE 1.1 — wide photograph of the estate hall: eight trestle tables, hanging bulbs,
-cardboard, a crowd of anonymous buyers. One tag, on the nearest table, in focus.]
+I buy estates. I price the dead for strangers. I am good at it, and I have never once told
+myself it was anything else.
+
+I had come for one lot. I told myself that.
+
+[IMAGE 1.1 — wide photograph of the estate hall: eight trestle tables, hanging bulbs, cardboard,
+a crowd of anonymous buyers. One tag, on the nearest table, in focus.]
 
 The tag on the mirror said:
 
 *SHIRAI — 2003 — TATEISHI*
 
-A dressing mirror, black lacquer, a hairline crack down the glass. Reserve eight thousand
-yen. It was not worth eight thousand yen. It was worth more to me than the whole table,
-because it had been my mother's, and it had disappeared from her flat in Tateishi in 2003,
-the year she died, and I had spent twenty years deciding that memory was a liar.
+A dressing mirror. Black lacquer, a hairline crack down the glass. Reserve eight thousand yen.
 
-I did not buy it. That is the thing I want on the record. I stood in front of it for a long
-time with a stub of pencil and I priced everything else in the hall, and I did not buy it,
-and by the time I left, someone had.
+It was not worth eight thousand yen. It was worth more to me than the whole table.
 
-A man was watching me from the door. Older, well-cut coat, the kind of politeness that
-costs money. He did not approach. He was doing what I was doing: reading tags. He read them
-the way a man reads a menu he intends to order from — not idly, but with his hand already
-half-raised.
+It had been my mother's. It disappeared from her flat in Tateishi in 2003, the year she died,
+and I had spent twenty years deciding that memory was a liar.
+
+I did not buy it. That is the thing I want on the record. I stood in front of it with a stub of
+pencil and priced everything else in the hall. I did not buy it. By the time I left, someone
+had.
+
+A man watched me from the door. Older, well-cut coat, the kind of politeness that costs money.
+He did not approach. He was reading tags, the way a man reads a menu he intends to order from —
+hand already half-raised.
 
 ---
 
-Let me put down what I know about the sale itself, because everything after it depends on
-this room, and I have learned that the room is always the evidence.
+Let me put down what I know about the sale, because everything after it depends on this room.
 
-Two hundred and eleven lots, by Kei's own count. Every lot tagged. Every tag the same hand.
-Every tag carrying three things: a name, a year, and a place. Not the object's name; the
-maker's mark was often there too, on the object. The tag named something else. A person.
+Every tag carried three things: a name, a year, a place. Not the object's name. The maker's mark
+was on the object. The tag named a person.
 
-At the time I assumed, as anyone would, that the tag named the previous owner. Estate
-sellers do this. *Tanaka — 1974 — Ueno.* Who had it, when they had it, where they had it.
-It is a courtesy and a sales tool at once: an object with a history sells faster than an
-object with none.
+At the time I assumed it named the previous owner. Estate sellers do this. *Tanaka — 1974 —
+Ueno.* Who had it, when, where. An object with a history sells faster than one with none.
 
-I spent three hours in that hall and I read perhaps sixty tags, and I did the thing I am
-paid to do, which is to notice patterns without yet knowing what they mean.
+[IMAGE 1.2 — the anatomy of a tag, hand-drawn beside a photograph of one: three ruled fields
+labelled NAME / YEAR / DISTRICT; over the year field, a pencilled note reads "the year the
+holder came to it"; the tag is creased and tea-stained.]
 
-The places were all Tokyo. Ueno, Asakusa, Sendagi, Nezu, Kuramae, Tateishi, and one that
-repeated more than any other: Yanaka. Thirty-one tags said Yanaka. Thirty-one objects, out
-of two hundred and eleven, had come through a house in the same small quarter of Taitō
-ward.
+I read perhaps sixty tags that afternoon. The places were all Tokyo: Ueno, Asakusa, Sendagi,
+Nezu, Kuramae, Tateishi. One repeated more than the rest. Thirty-one tags said Yanaka.
 
-The years ran from 1961 to 2023. Not one tag was dated earlier than 1961. I noticed that
-and filed it and did not think about it again for two months, which is the single largest
-mistake of my professional life.
+The years ran from 1961 to 2023. Not one was dated earlier than 1961. I noticed that, filed it,
+and did not think about it again for two months. That was the largest mistake of my professional
+life.
 
-And the names.
+And the names. I have a good memory for names; a chain of names is a provenance, and provenance
+is the trade. So when I say I did not recognise them as *owners*, I mean something precise. Twice
+that afternoon a name gave me the small electric jolt of a word heard in the wrong context.
 
-I have a good memory for names because names are the currency of my trade; you cannot
-appraise provenance if you cannot hold a chain of names in your head. So when I say I did
-not recognise the names on the tags, I mean something precise. I did not recognise them as
-*owners*. But twice that afternoon, a name on a tag produced in me the small electric jolt
-of a word heard in the wrong context — a name I knew from somewhere that was not an
-object, and could not place.
+One was Kuroda.
 
-One was Kuroda. The other was my own.
+The other was my own.
 
-[IMAGE 1.2 — a photograph of a table of lots: lacquerware, a ceramic vase, a stack of
-folding fans, a small brass clock; in the foreground, three or four tags legible, all in
-the same small upright hand, each showing a name, a year, and a district.]
+[IMAGE 1.3 — a photograph of a table of lots: lacquerware, a vase, folding fans, a brass clock;
+in the foreground, three tags legible, same small upright hand, name and year and district.]
 
 ---
 
 That night I called Mikami.
 
-He restores furniture out of a timber row-house in Sendagi, and he has the manner of a man
-who thinks in materials. He will not tell you what a thing is worth. He will tell you what
-it is made of, and when, and who has repaired it, and from that you can price the world.
-His shop smells of shellac and dust and cold tea. He had known Kanzaki Mitsuko as a
-customer for thirty years and he had never once been inside her house.
+He restores furniture out of a timber row-house in Sendagi. He will not tell you what a thing is
+worth. He will tell you what it is made of, and when, and who repaired it, and from that you can
+price the world. His shop smells of shellac and cold tea. He knew Kanzaki Mitsuko as a customer
+for thirty years and had never once been inside her house.
 
 "I found my mother's mirror in a dead woman's sale," I said.
 
-"Then it wasn't your mother's," he said. "It was the dead woman's, and your mother had it
-before her, and someone had it before your mother. That's all a mirror is. A queue."
+"Then it wasn't your mother's," he said. "It was the dead woman's, and your mother had it before
+her, and someone had it before your mother. That's all a mirror is. A queue."
 
-"There was a tag. It had my name on it. And a date. And a place."
+"There was a tag. My name. A date. A place."
 
-There was a pause long enough that I heard him put something down — a chisel, by the sound,
-set flat on the bench, the way he sets everything down as if it might run.
+There was a pause long enough that I heard him set something down — a chisel, by the sound, flat
+on the bench, the way he sets everything down as if it might run.
 
 "Read me the tag," he said.
 
-I read it to him. *Shirai. 2003. Tateishi.*
+I read it. *Shirai. 2003. Tateishi.*
 
 "Don't buy the mirror," he said.
 
@@ -117,14 +105,12 @@ I read it to him. *Shirai. 2003. Tateishi.*
 
 "Someone did," he said. "Don't find out who."
 
-I asked him why, and he said a thing I wrote down in my notebook, because I did not yet
-understand that he was telling me the truth and not being poetic.
+"Why."
 
-He said: "Because a tag is a name and a date and a place, and if she put your mother's name
-on something, then she knew your mother, and she knew the year, and she knew the place, and
-your mother has been dead twenty years. A dead woman in Yanaka knew a dead woman in
-Tateishi well enough to write it down. That's the part you should be afraid of. Someone
-kept track."
+"Because a tag is a name and a date and a place. If she put your mother's name on something, she
+knew your mother, and the year, and the place. Your mother has been dead twenty years. A dead
+woman in Yanaka knew a dead woman in Tateishi well enough to write it down. That's the part you
+should be afraid of. Someone kept track."
 
 I said it was probably nothing. Old women keep things.
 
@@ -132,165 +118,124 @@ I said it was probably nothing. Old women keep things.
 
 ---
 
-I want to be honest here, at the start, about the thing I have been least honest about.
+I want to be honest about the thing I have been least honest about.
 
-When Mikami told me not to find out who bought the mirror, I hung up and I opened my laptop
-and I found out. It took four minutes. The sale listing had the buyer's initial and a
-deposit date. That was all. But four minutes was enough to learn that the buyer had paid in
-cash, in person, an hour after I left, and had asked, the seller told me later, for the tag
-to be left on the mirror, which is not a thing buyers ask, because a tag on a mirror is
-ugly.
+I hung up and opened my laptop and found out. It took four minutes. The listing had a buyer's
+initial and a deposit date. That was all. But four minutes told me the buyer had paid in cash,
+in person, an hour after I left, and had asked for the tag to be left on the mirror. Buyers do
+not ask that. A tag on a mirror is ugly.
 
-I did not know what it meant. I told myself I was pursuing a valuation. I told myself I was
-protecting an interest — that if the mirror had been stolen from my mother, I had a stake.
-Those were both true and both false.
+I told myself I was protecting an interest. If the mirror had been stolen from my mother, I had a
+stake. That was both true and false.
 
-What I actually felt, sitting in the dark in my flat in Tateishi with the laptop open, was
-the thing the whole trade trains you never to feel, and which is why they say you should
-not price your own possessions: I wanted it. Not the mirror. The answer. I wanted to know
-who had come for my mother's mirror in 2003, and who had come for it again, twenty years
-later, in a dead woman's sale.
+What I actually felt was the thing the trade trains you never to feel, and the reason they say
+you should not price your own possessions. I wanted it. Not the mirror. The answer.
 
-That want is the engine of everything that follows. I am writing it down plainly because
-the reader is owed the cause, and the cause is older than the mirror.
+That want is the engine of everything that follows. The cause is older than the mirror.
 
-When I was nine, and my mother died, the landlord changed the lock while I was at my
-grandmother's. I came back to a door I could not open, and a man with a key I had never
-seen, and a two-room flat that had been emptied while I stood outside it. The mirror was
-already gone; so was everything. I did not cry. I did the thing I have done ever since,
-which is to make an inventory of what is missing. And I made a decision that year, the
-way a child decides, which was that I would be the one who held the key. It was not a
-child's wish to be let in. It was a child's decision never to be the one locked out.
+When I was nine, my mother died. The landlord changed the lock while I was at my grandmother's. I
+came back to a door I could not open, a man with a key I had never seen, and a flat emptied while
+I stood outside it. The mirror was gone. So was everything.
 
-I have spent twenty years pricing other people's rooms so that I would never have to
-stand outside my own. I have never once noticed that the door I keep opening is the same
-door.
+I did not cry. I made an inventory of what was missing, which is the thing I have done ever
+since, and I decided — the way a child decides — that I would be the one who held the key. Not a
+wish to be let in. A decision never to be locked out again.
 
+I have spent twenty years pricing other people's rooms so I would never have to stand outside my
+own. I have never once noticed that the door I keep opening is the same door.
 
 ---
 
-I went back to the warehouse in June, which I have not yet described, and which belongs here
-because it is where the trade taught me the first real lesson of the account.
+I went back to the warehouse in June, in Kuramae, and read all two hundred and eleven tags over
+four days.
 
-The lots were in Kuramae, on shelving, and Kei let me read them without a sale and without a
-buyer, which is the only way to read a collection. I spent four days there. I read all two
-hundred and eleven tags, and I wrote them in a book, and I sorted them, which is what an
-appraiser does when she cannot afford to feel.
+The names were not random. Forty-one appeared more than once, on objects with nothing in common,
+bought years apart. The same person had held both, and died between.
 
-Here is what four days of reading told me, before I understood any of it.
+I wrote that down as a pattern. I should have written it down as an *address*.
 
-The names were not random. Forty-one of the two hundred and eleven names appeared more than
-once, across different objects, in different years. A name would appear on a lacquer box
-bought in 1974 and again on a pair of tongs bought in 1988, and the two objects had nothing
-in common, and the two purchase years had nothing in common, and the only thing they had in
-common was that the same person had held both, fourteen years apart, and had died between.
-
-I wrote that down as a pattern and left it. I should have written it down as an *address*.
-
-The places were not random either. I mapped them, because I map things; it is the only
-unambiguously useful habit I have. Every place on every tag fell inside a rough circle three
-kilometres across, centred not on the Kanzaki house but on a point between Yanaka and Nezu,
-and there was one name — a family name, a name that appeared seven times — whose every
-appearance was farther out, at the edge of the circle, as if the family had been moving away
-from the centre for sixty years and had never quite escaped.
+The places were not random either. Every one fell inside a rough circle three kilometres across,
+centred not on the Kanzaki house but on a point between Yanaka and Nezu. One family name appeared
+seven times, and every appearance was farther out, at the edge of the circle — as if the family
+had been moving away from the centre for sixty years and had never quite escaped.
 
 That name was Kuroda.
 
-[IMAGE 1.3 — a hand-drawn map of central Tokyo with two hundred and eleven place-names
-plotted as dots; the dots form a dense ring around Yanaka and Nezu, with a scatter of seven
-points trailing off to the north-east; the map is annotated in pencil.]
+[IMAGE 1.4 — a hand-drawn map of central Tokyo with place-names plotted as dots; the dots form a
+dense ring around Yanaka and Nezu, with seven points trailing north-east; annotated in pencil.]
 
 I asked Kei, on the fourth day, whether the name Kuroda meant anything to him.
 
-He was quiet for longer than the question deserved.
+He was quiet longer than the question deserved.
 
-"No," he said. "Not to me. My mother never said it. But the house had a deed in the back of
-a cupboard with a Kuroda listed as a former resident, and I asked her once, and she said the
-deed was wrong and burned it."
+"No," he said. "My mother never said it. But the house had a deed in a cupboard with a Kuroda
+listed as a former resident. I asked her once. She said the deed was wrong and burned it."
 
-"Burned it," I said.
+"Burned it."
 
 "She burned a deed," he said. "The deed to her own house. I was eighteen. I thought she was
-losing her mind." He looked at the shelving, at two hundred tagged things. "Now I think she
-was filing it. The way she filed everything. In a place no one could read."
+losing her mind." He looked at the shelving, at two hundred tagged things. "Now I think she was
+filing it. The way she filed everything. Where no one could read it."
 
-I asked him where the ashes went.
+I asked where the ashes went.
 
-He said he didn't know, and then he said something that I have thought about every day since,
-and that I am going to put here, because it is the first sentence in this account that was
-aimed at me and I did not know it.
+He said he didn't know. Then he said the first sentence in this account that was aimed at me and
+I did not know it.
 
 He said: "She swept them into the storage room. She swept them under the wall."
 
 Under the wall. Into the one room in the house that had no door.
 
-
 ---
 
-I am going to add the thing I learned about my mother, because this account began with a
-mirror and the mirror was never the first object.
+This account began with a mirror, and the mirror was never the first object.
 
-My mother's name was Naoko. She worked at a laundry in Tateishi. She was thirty-four. And
-there is one thing about her that I did not put in this account the first time, because I did
-not know it until November, and because it is the reason I am in the room at all.
+My mother's name was Naoko. She worked at a laundry in Tateishi. She was thirty-four.
 
-She kept a notebook. Not a diary; a notebook, the way a person keeps accounts. I found it in
-the box of her papers, the same box as the dry cleaner's receipt, and it is the most ordinary
-document in the whole account and it is the one that made me certain.
+She kept a notebook. Not a diary — a notebook, the way a person keeps accounts. I found it in the
+box of her papers, the same box as a dry cleaner's receipt, and it is the most ordinary document
+in the whole account, and the one that made me certain.
 
-In the notebook, in her hand, in the year before she died, my mother wrote a list. It is not a
-list of anything. It is a list of objects, and beside each object, a name and a place, and the
-names are not family names and the places are not places she ever went.
+In the year before she died, my mother wrote a list. Objects, and beside each, a name and a
+place. Nineteen objects. Every one of them is in the Kanzaki estate.
 
-There are nineteen objects on the list. Nineteen. And every one of them is in the Kanzaki
-estate.
+She made a list of the things a woman in Yanaka would sell two decades later. She could not have
+known — unless someone had been sending her the record, one piece at a time, the way a person
+sends a will to its heirs in advance.
 
-My mother spent the last year of her life making a list of the things a woman in Yanaka was
-going to sell two decades later. She could not have known. Unless she had been given the list
-— unless someone had been sending her the record, one piece at a time, the way a person sends
-a will to its heirs in advance.
-
-The last entry on the list is the mirror. And beside it, in her hand, in the final year, a
-note to herself, which is the first sentence in this whole account that was written to me.
+The last entry is the mirror. Beside it, in her hand, in the final year, a note to herself. The
+first sentence in this account written to me.
 
 It says: *this one comes to the child.*
 
-[IMAGE 1.4 — a small soft-cover notebook, open, in a woman's hand: a numbered list of
-household objects with names and districts beside them; the last entry, the mirror, is
-underlined; below it, one short line; the notebook is creased and water-stained.]
-
+[IMAGE 1.5 — a small soft-cover notebook, open, in a woman's hand: a numbered list of objects
+with names and districts; the last entry, the mirror, underlined; below it, one short line.]
 
 ---
 
 *Note on the documents, added by the finder.*
 
-The account that follows was not written as a book. It was written in three places: in a
-notebook, in a folder of statements, and on a phone, and the three were assembled by me after
-the fact, in the order the writer intended, and I have changed nothing but the order of the
-folder.
+The account that follows was not written as a book. It was written in three places: a notebook, a
+folder of statements, and a phone. I assembled the three after the fact, in the order the writer
+intended, and changed nothing but the order of the folder.
 
-The notebook pages are the frame — the writer's own account of how she came to the room. The
-statements are the eleven stories, which she collected from the people who held the pieces, in
-her own hand or theirs, and which she labelled in the folder as the collection. The phone pages
-are the end, and the phone pages are in the present tense, and the writer never explained why,
-and I have decided that she did not need to.
+The notebook pages are the frame — how she came to the room. The statements are the eleven
+stories she collected from the people who held the pieces. The phone pages are the end, and the
+phone pages are in the present tense, and the writer never explained why, and I have decided she
+did not need to.
 
-I have put the statements where she put them. I have kept her headings. Where a statement is
-in the third person, it is because the writer took it down that way, and where a statement is
-in the first person and present tense, it is because the phone was still running.
-
-I am not the writer. I did not know her. I found the folder on a table in a flat in Tateishi
-with the door open and the mirror turned to the wall, and I am the person the last page of the
-account is addressed to, and I have done the only thing a reader can do with a thing like this,
-which is to put it where someone else will find it.
+I am not the writer. I did not know her. I found the folder on a table in a flat in Tateishi,
+with the door open and the mirror turned to the wall, and I am the person the last page is
+addressed to, and I have done the only thing a reader can do with a thing like this: put it where
+someone else will find it.
 
 If you are reading this, it has been found twice.
 
 The second finder is you.
 
-[IMAGE 1.1 — a low table in a small flat: an open notebook, a folder tied with tape, a phone
-face up; a mirror in the corner, turned to the wall; morning light through a window with a
-laundromat sign beyond it.]
+[IMAGE 1.6 — a low table in a small flat: an open notebook, a folder tied with tape, a phone
+face up; a mirror in the corner turned to the wall; morning light and a laundromat sign beyond
+the window.]
 
 
 <!-- 01-the-mirror.md -->
@@ -1060,16 +1005,16 @@ the lamplight; outside the window, the alley and a laundromat sign.]
 
 I took the job because the mirror told me to.
 
-That is not true. I took the job because Kanzaki Kei called me three days after the sale
-and said he had two hundred lots still in the warehouse in Kuramae, unsold, and would I
-appraise them, and I said yes before he finished the sentence, because a mirror had walked
-into my mother's flat in 2003 and walked out again wearing a stranger's name.
+That is not true. I took it because Kanzaki Kei called three days after the sale and said he had
+two hundred lots still in the warehouse in Kuramae, unsold, and would I appraise them. I said yes
+before he finished the sentence, because a mirror had walked into my mother's flat in 2003 and
+walked out again wearing a stranger's name.
 
-Mikami told me not to. He said it twice, once on the phone and once in the workshop, where
-he was repairing a joint on a tansu and would not look up.
+Mikami told me not to. He said it twice. The second time he was repairing a joint on a tansu and
+would not look up.
 
-"You thought this was about a mirror," he said. "It's about a queue. You don't want to know
-where the queue leads."
+"You thought this was about a mirror," he said. "It's about a queue. You don't want to know where
+the queue leads."
 
 "I know where it leads," I said. "Yanaka. 1958."
 
@@ -1077,34 +1022,31 @@ He put the tansu down.
 
 ---
 
-I have not written down, until now, what I know about my mother, and I find that I have
-been avoiding it, and that the avoidance has a shape, which is the shape of the year 2003.
+My mother was named Shirai Naoko. She was thirty-four when she died.
 
-My mother was named Shirai Naoko. She was thirty-four when she died. She worked in a
-laundry in Tateishi and we lived in a two-room flat above a bar, and the bar was loud until
-two and then it was not, and I learned to sleep in the space after two. She was not ill
-that I remember. She was tired, which I took for granted, because everyone in Tateishi was
-tired, and then one week she did not get up, and then she did not wake up, and the doctor
-said a word I did not know and would not explain to a child of nine.
+She worked in a laundry in Tateishi. We lived in a two-room flat above a bar. The bar was loud
+until two and then it was not, and I learned to sleep in the space after two.
 
-What I remember is the mirror. Black lacquer, a dressing mirror on a stand, with a crack
-down the glass that I was told was there before I was born. It stood in the corner of her
-room. She used it every morning. When she died, the landlord came and changed the lock
-while I was at my grandmother's, and by the time I was allowed back, the mirror was gone,
-and so was everything else, and I was told that things like that happen and that I should
-not ask.
+She was tired, which I took for granted, because everyone in Tateishi was tired. Then one week
+she did not get up. Then she did not wake up. The doctor said a word I did not know and would not
+explain to a child of nine.
 
-I asked for one year. Then I stopped. I have not thought about the mirror as a fact for
-twenty years; I have thought about it as a mood, the way you think about a smell.
+What I remember is the mirror. Black lacquer, a dressing mirror on a stand, a crack down the
+glass that was there before I was born. It stood in the corner of her room. She used it every
+morning. When she died, the landlord changed the lock while I was at my grandmother's. By the
+time I was allowed back, the mirror was gone, and so was everything else, and I was told that
+things like that happen and that I should not ask.
 
-My grandmother raised me. Her name was Hana. She died when I was fourteen, and she never
-once spoke about my mother's death, and the only thing she ever told me about the mirror
-was that it was old and came from her family, which told me nothing, because I did not know
-what her family was.
+I asked for one year. Then I stopped. I have not thought about the mirror as a fact for twenty
+years. I have thought about it as a mood, the way you think about a smell.
 
-She used to say one thing, though. When I asked where things came from, she would say:
-"Everything in this flat came from somewhere, and everything that came from somewhere came
-from someone, and some of the someones you do not want to meet."
+My grandmother raised me. Her name was Hana. She died when I was fourteen. She never spoke about
+my mother's death. The only thing she told me about the mirror was that it was old and came from
+her family, which told me nothing, because I did not know what her family was.
+
+She used to say one thing. When I asked where things came from: "Everything in this flat came
+from somewhere, and everything that came from somewhere came from someone, and some of the
+someones you do not want to meet."
 
 I thought it was a saying. Grandmothers have sayings.
 
@@ -1112,210 +1054,186 @@ I thought it was a saying. Grandmothers have sayings.
 
 Kei was waiting at the warehouse.
 
-He is forty-nine and he looks like a man who has spent his life moving furniture out of a
-room he was not allowed into. He showed me the lots. Two hundred tags. Every lot tagged,
-every tag the same hand, and every tag carrying a name, a date, and a place, and none of
-them the name of anyone I had ever met, until he handed me a cassette recorder and said his
-mother kept ledgers too, and did I want to hear the last one.
+He is forty-nine and looks like a man who has spent his life moving furniture out of a room he
+was not allowed into. He showed me the lots: two hundred tags, all the same hand, each with a
+name, a date, a place. None of them anyone I had ever met.
+
+Then he handed me a cassette recorder and said his mother kept ledgers too, and did I want to
+hear the last one.
+
+[IMAGE 5.1 — inside the Kuramae warehouse: two hundred tagged lots on shelving, one hanging bulb,
+the tags catching light; in the foreground a cassette recorder on a crate, counter at 000.]
 
 On the tape, Kanzaki Mitsuko, seventy-eight, reads a purchase from 1991. Then she stops
-mid-sentence. Then, very quietly, she says one line to herself, not for the tape:
+mid-sentence. Then, very quietly, one line, not for the tape:
 
 *"It was me. It has always been me. But she said it was her, and I let her."*
 
-[IMAGE 5.1 — photograph inside the Kuramae warehouse: two hundred tagged lots on shelving,
-a single hanging bulb, the tags catching light; in the foreground, a cassette recorder on a
-crate, its counter at 000.]
+I played it three times and wrote the words in a column, because that is what I do with things
+that do not fit.
 
-I rewound it. I played it again. I played it a third time and wrote the words down, because
-that is what I do with things that do not fit: I put them in a column and wait for the
-column to make a shape.
-
-The shape was this. A confession, made to no one, by a woman who had spent her life
-collecting. *It was me.* And then: *she said it was her.* Someone had taken the blame.
+The column made this shape. A confession, made to no one. *It was me.* And then: *she said it was
+her.* Someone had taken the blame.
 
 Behind me, Kei said the thing that turned the book over in my hands.
 
-"Your name's in there," he said. "On a lot you already sold. That means my mother had
-already met you. Before you were born."
+"Your name's in there," he said. "On a lot you already sold. That means my mother had already met
+you. Before you were born."
 
 ---
 
-I told him that was impossible. He agreed with me. He said it in a way that suggested he had
-been waiting a long time for someone to whom he could say the impossible thing out loud.
+I told him that was impossible. He agreed with me, in a way that suggested he had been waiting a
+long time for someone he could say it to.
 
-"She started in 1961," he said. "That's the first tag. She was fourteen. She bought a tray
-in Asakusa, and she wrote a name on it, and she never stopped. Fifty-eight years. Two
-hundred and eleven things. I grew up in that house and I was not allowed to touch any of
-them, and I was not allowed to ask why, and when I did ask, she would say the same thing."
+"She started in 1961," he said. "She was fourteen. She bought a tray in Asakusa and wrote a name
+on it, and she never stopped. Fifty-eight years. Two hundred and eleven things. I grew up in that
+house. I was not allowed to touch any of them, and not allowed to ask why, and when I did ask,
+she said the same thing."
 
 "What thing."
 
-Kei looked at the floor.
+He looked at the floor.
 
-"She'd say, 'Because it's not finished.'" He looked up. "It's finished now. She's dead. So
-why are the buyers dying?"
+"She'd say, 'Because it's not finished.'" He looked up. "It's finished now. She's dead. So why
+are the buyers dying?"
 
-I asked him what he meant, and he told me, and I have written it below exactly, because from
-that moment the account stops being about a mirror.
-
-He said the sale was in April. He said there were thirty-one buyers, and that he had kept
-their names because he is the kind of man who keeps sales records. And he said that in the
-six months since, four of the thirty-one had died.
+He said the sale was in April. Thirty-one buyers. He had kept their names, because he keeps sales
+records. In the six months since, four of the thirty-one had died.
 
 "Four," I said.
 
-"Four," he said. "And they were all in the hall at the same time. I checked. I have the
-attendance sheet."
+"Four. And they were all in the hall at the same time. I have the attendance sheet."
 
-He handed it to me. Thirty-one names, in his hand, with the amounts paid. Four of them had
-a small mark beside them, a dot, and I asked what the dot was.
+He handed it to me. Thirty-one names in his hand, with the amounts paid. Four had a small dot
+beside them.
 
-"The date they died," he said. "I started marking it in June. My mother marked her ledger
-the same way. I didn't understand why I did it until I saw the marks in her book."
+"What's the dot," I said.
 
-[IMAGE 5.2 — the attendance sheet: a handwritten list of thirty-one buyer names with
-amounts; four names have a small dot beside them with a date; the sheet is photographed on
-the warehouse floor beside the tagged lots.]
+"The date they died," he said. "I started marking it in June. My mother marked her ledger the
+same way. I didn't understand why I did it until I saw the marks in her book."
+
+[IMAGE 5.2 — the attendance sheet: thirty-one buyer names with amounts; four names have a dot
+beside them with a date; photographed on the warehouse floor beside the tagged lots.]
 
 ---
 
-I stood in the warehouse and looked at two hundred tagged objects and thirty-one names with
-four dots, and I did the arithmetic that I would have done for any collection, which is
-provenance.
-
-Four deaths in six months, out of thirty-one buyers. That is not a coincidence you can
-appraise away. Something in that hall, or something before it, had put those four in the
-same column.
+Four deaths in six months, out of thirty-one buyers. That is not a coincidence you can appraise
+away.
 
 I asked Kei the only question that mattered.
 
 "Did your mother ever buy anything back? After she sold it?"
 
-He thought about it. He said yes. He said she had bought back eleven things over the years,
-always quietly, always through a third party, and she had never explained, and he had found
-the receipts after she died, and he had not understood them.
+He said yes. Eleven things over the years, always quietly, always through a third party. She
+never explained. He found the receipts after she died and did not understand them.
 
 "Which eleven," I said.
 
-He said he did not know. He said the receipts used a different name each time, and he had
-thought it was a habit, or a shame about the money.
+He did not know. The receipts used a different name each time. He had thought it was a habit, or
+a shame about the money.
 
-And then I understood the thing that I have been carrying since, which is this: Kanzaki
-Mitsuko did not sell her collection. She sold it, and then she bought back eleven pieces,
-and then she died, and now the buyers are dying, and every piece she bought back was a
-piece she could no longer let go of.
+Then I understood the thing I have carried since. Kanzaki Mitsuko did not sell her collection.
+She sold it, and bought back eleven pieces, and died. Every piece she bought back was a piece she
+could no longer let go of.
 
-She was not a collector. She was a woman taking back the parts of a room, one at a time,
-from people who died, and the dying had already started before I got there, and the only
-question left was why the room was worth the deaths.
+She was not a collector. She was a woman taking back the parts of a room, one at a time, from
+people who died. The dying had started before I got there. The only question left was why the
+room was worth the deaths.
 
-I told Kei I would take the job. I told him I would appraise the lots and find out what the
-tags meant. I did not tell him about my mother, or the mirror, or my grandmother Hana,
-because by then I had begun to suspect that the name Shirai on a tag was not a coincidence,
-and I did not want him to know that I was, in some way I could not yet prove, part of the
-estate.
-
+I told Kei I would take the job. I did not tell him about my mother, or the mirror, or Hana.
+By then I suspected the name Shirai on a tag was not a coincidence, and I did not want him to
+know I was, in some way I could not yet prove, part of the estate.
 
 ---
 
-I want to set down the month of May, because it is the month I stopped being an appraiser and
-became, instead, a person doing research, and the distinction matters to what happened later.
+In May I read everything I could about the estate without asking anyone. The listing, the lot
+photographs, the terms. And twenty times, the two sentences Kei had given me:
 
-In May I read everything I could about the estate without asking anyone. I read the sale
-listing, the lot photographs, the terms. I read, twenty times, the two sentences Kei had
-given me: *she'd say, 'because it's not finished,'* and the tape's confession, *it was me, it
-has always been me, but she said it was her.* I made columns. I made a timeline of the four
-buyers who had died and the four dates they had died, and I noticed that the dates were one a
-month, and that they were in the same order as the sale's checkout sequence, which is to say
-the order in which people had paid.
+*she'd say, 'because it's not finished,'*
+
+*it was me, it has always been me, but she said it was her.*
+
+I made columns. I made a timeline of the four buyers and the four dates. The dates were one a
+month. They were in the same order as the sale's checkout sequence — the order in which people
+had paid.
 
 The deaths followed the till roll.
 
-That is the kind of fact an appraiser notices and a detective misses, because a detective
-looks for a motive and an appraiser looks for a *sequence*, and the sequence was the thing
-that carried the meaning. Whoever had the attendance sheet — and only Kei and I had the
-attendance sheet — could read the order of the deaths off the order of the purchases, and the
-order of the purchases was the order of the queue.
+That is the kind of fact an appraiser notices and a detective misses. A detective looks for a
+motive. An appraiser looks for a *sequence*, and the sequence was carrying the meaning. Whoever
+had the attendance sheet could read the order of the deaths off the order of the purchases. And
+the order of the purchases was the order of the queue.
 
-I called Kei and I asked him who else had seen the attendance sheet.
+[IMAGE 5.3 — a kitchen table covered with papers: a sale listing, a till roll, a timeline of four
+deaths; red pencil joins each death to a line on the till roll; a cup of coffee gone cold.]
 
-He said: "Nobody. I made it after the sale, from the receipts."
+Only Kei and I had the attendance sheet. I called him and asked who else had seen it.
 
-I asked where the receipts were.
+"Nobody," he said. "I made it after the sale, from the receipts."
 
-He said: "In the storage room. With everything else." And then, after a pause, he said the
-thing that told me the room was not a room: "I mean the storage room in the house. The one
-with no door."
+"Where are the receipts."
 
-[IMAGE 5.3 — a kitchen table covered with papers: a sale listing, a till roll, a handwritten
-timeline of four deaths; red pencil joins each death to a line on the till roll; a cup of
-coffee has gone cold.]
+"In the storage room. With everything else." A pause. "I mean the storage room in the house. The
+one with no door."
 
 ---
 
 I asked him to go to the house and look at the wall.
 
-He did not want to. He said he had not been back since March. I said I would pay him for his
-time, which is the only way I know to ask a person to do something they are afraid of, and he
-said it was not about money, and I said nothing, and he went.
+He did not want to. He had not been back since March. I said I would pay him for his time, which
+is the only way I know to ask a person to do something they are afraid of. He said it was not
+about money. I said nothing. He went.
 
-He called me that night from Yanaka. He said the wall was there. He said it had been replastered,
-recently, within the year — he could tell by the colour, and by the smell, and because his
-mother had replastered it every few years for as long as he could remember, "the way you paint
-a door you don't want anyone to open."
+He called me that night from Yanaka. The wall was there. It had been replastered recently, within
+the year. He could tell by the colour and the smell, and because his mother had replastered it
+every few years for as long as he could remember, "the way you paint a door you don't want anyone
+to open."
 
-He said he had put his hand on it, and it was cold in a rectangle, and he had knocked, and it
-had sounded hollow, and he had sat down on the floor of the passage and cried, at forty-nine,
-because he had grown up with a room he was not allowed to enter that was not on any plan, and
-because his mother had died in March, and because the wall was the only thing she had ever
-kept from him.
+He put his hand on it. It was cold in a rectangle. He knocked. It sounded hollow. Then he sat
+down on the floor of the passage and cried, at forty-nine, because he had grown up with a room he
+was not allowed to enter that was not on any plan, and because his mother had died in March, and
+because the wall was the only thing she had ever kept from him.
 
 Then he said: "There are keys in the house. A ring of them, on a hook by the front door. They
 were not there when I cleared it in April."
 
 "What do you mean they weren't there."
 
-"I cleaned that house," Kei said. "I took everything. There was no ring of keys on the hook by
-the front door on the day I emptied it, I would swear to it. There is a ring of keys on the
-hook now."
+"I cleaned that house," Kei said. "I took everything. There was no ring of keys on that hook on
+the day I emptied it. I would swear to it. There is a ring of keys on the hook now."
 
-I did not tell him, then, what I already suspected: that the keys had not appeared. That the
-keys had been put there — by someone who wanted a locksmith to find them, and who knew that a
-locked room with a key ring is the one thing a man in that trade cannot leave alone.
+I did not tell him what I already suspected. That the keys had not appeared. That the keys had
+been *put* there — by someone who knew a locked room with a key ring is the one thing a man in
+the locksmith trade cannot leave alone.
 
-[IMAGE 5.4 — a timber passage in an old Yanaka row-house, evening: a plaster wall with a
-faint rectangular coldness; on a hook by the front door, a ring of keys, the oldest brass;
-the passage floor carries the marks of a person who sat down and stood up.]
-
+[IMAGE 5.4 — a timber passage in a Yanaka row-house, evening: a plaster wall with a faint
+rectangular coldness; on a hook by the front door, a ring of old brass keys; the floor carries
+the marks of a person who sat down and stood up.]
 
 ---
 
-I want to write down the June night I first dreamt of the room, because everyone in this
-account has dreamt of it and the account should record what it is like before it is believed.
+The dream came in June.
 
-I dreamt I was lying on a floor of six mats, low, at the height of a child, and the room was
-full of objects on the walls, and through the doorway a woman stood with her back to me. She
-was not looking at me. She was counting, and the count was one I could follow, and the count
-was the objects, and then the count stopped, and she turned, and she had no face.
+I was lying on a floor of six mats, low, at the height of a child. The room was full of objects on
+the walls. Through the doorway a woman stood with her back to me. She was not looking at me. She
+was counting. The count was the objects. Then the count stopped, and she turned, and she had no
+face.
 
-That is the first dream and it is the one everyone has. The faceless woman counting. Mikami
-had it in October. The screen restorer had it in December. The locksmith wrote it down before
-he went to Yanaka, though I did not find that until later, in his van, on a page torn from a
-notepad.
+That is the first dream and it is the one everyone has. The faceless woman counting. Mikami had it
+in October. The screen restorer had it in December. The locksmith wrote it down before he went to
+Yanaka, though I did not find that until later, in his van, on a page torn from a notepad.
 
-The dream is not a warning. I have decided that. A warning would name the danger; the dream
-does not; the dream only establishes that you have been *entered in the count*, and that the
-count is in you now, the way a price is in an object once you have said it out loud. You cannot
-un-know a count.
+The dream is not a warning. I have decided that. A warning would name the danger. The dream only
+establishes that you have been *entered in the count*, and that the count is in you now, the way a
+price is in an object once you have said it out loud. You cannot un-know a count.
 
-I did not tell Mikami about the dream when he told me about his. We each held it and did not
-compare, which is, I have come to think, exactly what the room wanted — a room full of people
+I did not tell Mikami about my dream when he told me about his. We each held it and did not
+compare, which is, I have come to think, exactly what the room wanted: a room full of people
 holding the same thing and not comparing.
 
-[IMAGE 5.5 — a dark bedroom seen from the floor, low angle, child's eye height: the edge of a
-bed above, a doorway opposite, a faint room laid out on the floor in the dark; the composition
-is deliberately low, as if the viewer is lying down.]
+[IMAGE 5.5 — a dark bedroom seen from the floor, low angle, child's eye height: the edge of a bed
+above, a doorway opposite, a faint room laid out on the floor in the dark; the composition is
+deliberately low, as if the viewer is lying down.]
 
 
 <!-- 05-the-keys.md -->
@@ -1405,6 +1323,15 @@ faced it, the way furniture faces a bed, or a stage, or a grave.
 [IMAGE 6.2 — the interior of the room: walls lined floor-to-ceiling with tagged objects
 (mirror, coat, boxes, tea set, doll, combs); in the centre of the six mats, an empty
 standing-place; the doorway's light falls on the floor in a long rectangle.]
+
+I sketched it on the back of the job sheet before the door closed, because that is what I do
+with a lock, and a room like that is a lock. Keep the drawing. It is the only plan of the room
+ever made from the inside.
+
+[IMAGE 6.2b — a locksmith's pencil floor plan on the back of a printed job sheet: six mats ruled
+to scale; a doorway slot at the bottom; a doorway-shaped blank at the exact centre; small ticks
+for each wall object clustered so that every one faces the centre; a pencilled arc from the door
+to the gap, labelled "sightline"; the paper is creased and smudged.]
 
 ---
 
@@ -1520,10 +1447,12 @@ finished, and that a finished count is a kind of permission.
 The client, through the door, said something I could not hear.
 
 I am writing this in the gap, with the phone at six percent, and I am going to write until the
-count does whatever a finished count does, and I want whoever reads this to know that I did
-not run, not because I was brave, but because a locksmith knows a thing about doors that no
-one else knows: a door that has been opened from the outside is not, by the time you are on
-the inside of it, a door any more. It is a wall with a history. And you do not run at walls.
+count does whatever a finished count does.
+
+I want whoever reads this to know that I did not run. Not because I was brave. Because a
+locksmith knows a thing about doors that no one else knows: a door that has been opened from the
+outside is not, by the time you are on the inside of it, a door any more. It is a wall with a
+history. And you do not run at walls.
 
 [IMAGE 6.5 — the phone screen in the dark, low battery: a notes app open, the text of a first-
 person account; behind the screen, in the room, the walls of tagged objects are in shadow; one
@@ -1665,6 +1594,14 @@ She asked him to go through the ledger with her, page by page, and they did, and
 until midnight, and by the end they had a table in her notebook: two hundred and eleven
 objects, two hundred and eleven names, two hundred and eleven dates of death, and a
 pattern.
+
+Aoi drew it out as a chart and pinned it to the bench, because a pattern you can see is a
+pattern you cannot argue with.
+
+[IMAGE 7.4b — a hand-ruled chart in Aoi's notebook: a horizontal axis of years 1961 to 2023, a
+vertical axis of names; two hundred small crosses; the crosses march in a single file, one per
+year, and every seventh cross is circled; a red thread runs left to right along the file; the
+last circle is empty, its margin note reading "the one with no name yet."]
 
 The pattern was a chain. Each name on a tag was the previous holder of an object, and each
 death cleared the object for the next purchase, and each purchase moved the object one step
@@ -1809,12 +1746,13 @@ reason I have taken the ledger home with me: I do not think I am going to surviv
 
 I do not mean that as fear. I mean it as an appraisal.
 
-I have spent eleven years pricing things, and the trade gives you one gift, which is
-judgement without attachment. You look at a lacquer box with a cracked lid and you see the
-crack, and you see the box, and you do not confuse the two. I have been looking at this
-account the way I look at a box. There is a crack in it. The crack is not me. But the crack
-runs from the first page to this one, and I have begun to think it was there before I
-started writing, and that I have merely been tracing it.
+I have spent eleven years pricing things. The trade gives you one gift: judgement without
+attachment. You look at a lacquer box with a cracked lid and you see the crack, and you see the
+box, and you do not confuse the two.
+
+I have been looking at this account the way I look at a box. There is a crack in it. The crack is
+not me. But it runs from the first page to this one, and I have begun to think it was there before
+I started writing, and that I have only been tracing it.
 
 The ledger says my name. The tags say my name. The mirror came back to me. A woman I never
 met, dead in March, arranged her whole estate around my mother, and my mother's mirror, and
@@ -2128,65 +2066,63 @@ street; a stamp lies on the table beside it, unused.]
 
 ---
 
-By October I had a folder, and the folder had a method, and the method was the only thing
-that made the nights bearable.
+By October I had a folder. The folder had a method, and the method was the only thing that made
+the nights bearable.
 
 [IMAGE 9.1 — a cardboard folder open on a workbench, seen from above, each document on its own
-sheet: a ledger leaf, a torn photograph, two tags, a repair ticket, a register extract; a
-pencil and a loupe lie across the edge; the light is a single bench lamp.]
+sheet: a ledger leaf, a torn photograph, two tags, a repair ticket, a register extract; a pencil
+and a loupe lie across the edge; the light is a single bench lamp.]
 
-I am an appraiser, and an appraiser does not solve a crime; an appraiser prices a collection.
-So I stopped trying to solve the room and I started to price it, and the pricing told me
-everything I had not been able to see.
+I am an appraiser. An appraiser does not solve a crime; an appraiser prices a collection. So I
+stopped trying to solve the room and started pricing it. The pricing told me everything I had not
+been able to see.
 
 Here is what I had.
 
-Eleven stories. Eleven people who had held a tagged thing, or been named on one, or come
-close enough to the room to be given a tag of their own. Four of them were dead. Two —
-Mikami and Kubo — had been *filed*, which was Kubo's word, and I had adopted it because it
-was exact: kept alive, kept silent, kept in place like an object on a shelf.
+Eleven stories. Eleven people who had held a tagged thing, or been named on one, or come close
+enough to the room to be given a tag of their own. Four were dead. Two — Mikami and Kubo — had
+been *filed*. That was Kubo's word. I adopted it because it was exact: kept alive, kept silent,
+kept in place like an object on a shelf.
 
-And there was a document. That was the thing the folder finally held: not a theory but a
-document, or a set of documents, that did not care what I believed.
+And there were the documents. Not a theory. A set of things that did not care what I believed.
 
-The tags were documents. The ledger was a document. The album was a document. The register
-was a document. The repair tickets were documents. Dozens of them, in three hands — Mitsuko's,
-mostly; Hana's on the 1991 ticket; and a third hand, steadier, that had written the line on
-the back of the comb and on the back of Yano's photograph — a hand I had begun to call, in
-the folder, the hand of the *came-after*, because the child's list in the doll had a
-thirteenth name below a line, *the one who came after*.
+The tags. The ledger. The album. The register. The repair tickets. Dozens of them, in three
+hands. Mitsuko's, mostly. Hana's on the 1991 ticket. And a third hand, steadier, that had written
+the line on the back of the comb and on the back of Yano's photograph.
 
-I did not know whose hand it was. I know now. But in October I did not, and I want the
-record to show how close I got and how wrong I was at the same time.
+A hand I had begun to call, in the folder, the hand of the *came-after*. The child's list in the
+doll had a thirteenth name below a line. *The one who came after.*
 
-[IMAGE 9.2 — three tags side by side on a dark bench, macro: the same small upright hand on
-each, a name, a year, and a district; on the third the strokes are visibly steadier, the
-pressure different; a finger enters the frame at the edge, not yet touching.]
+I did not know whose hand it was. I know now. In October I did not, and I want the record to show
+how close I got and how wrong I was at the same time.
+
+[IMAGE 9.2 — three tags side by side on a dark bench, macro: the same small upright hand on each,
+name, year, district; on the third the strokes are steadier, the pressure different; a finger
+enters the frame at the edge, not yet touching.]
 
 ---
 
-Mikami and I laid the folder out on his bench, one document to a page, and I did what I do
-for any collection: I made a catalogue.
+Mikami and I laid the folder out on his bench, one document to a page, and I did what I do for
+any collection. I made a catalogue.
 
-Two hundred and eleven objects. Two hundred and eleven names. Two hundred and eleven dates.
-And when I sorted them the way I sort any estate — by year, by place, by the order they
-were acquired — the shape that came out was not a room.
+Two hundred and eleven objects. Two hundred and eleven names. Two hundred and eleven dates. And
+when I sorted them the way I sort any estate — by year, by place, by the order they were acquired
+— the shape that came out was not a room.
 
 It was a *route*.
 
-Every object had come from someone who lived within three kilometres of Yanaka, except
-eleven. Those eleven had come from farther out — Mitaka, Fuchū, Kasukabe — and every one of
-the eleven was a person who held a *document* rather than an object: a genealogist, a
-registrar, a dealer in signed pieces.
+Every object had come from someone who lived within three kilometres of Yanaka. Except eleven.
+Those eleven had come from farther out — Mitaka, Fuchū, Kasukabe — and every one was a person who
+held a *document* rather than an object. A genealogist. A registrar. A dealer in signed pieces.
 
-"She wasn't collecting the room," I said. "She was collecting the *proof*. The objects were
-the room, but the eleven were the paperwork. You, Mikami. You kept the repair tickets.
-Hoshino keeps the registers. Ito kept the blades, and blades have tangs, and tangs carry
-marks. She bought silence by owning the people who filed things."
+"She wasn't collecting the room," I said. "She was collecting the *proof*. The objects were the
+room. The eleven were the paperwork. You kept the repair tickets, Mikami. Hoshino keeps the
+registers. Ito kept the blades, and blades have tangs, and tangs carry marks. She bought silence
+by owning the people who filed things."
 
-[IMAGE 9.3 — the catalogue spread: a long sheet ruled into two hundred-odd lines, each a name,
-a year, and a district; eleven lines ringed in pencil; a hand-drawn route on a map beside it,
-three roads running out to Mitaka, Fuchū, and Kasukabe; a cup has left a ring on the corner.]
+[IMAGE 9.3 — the catalogue spread: a long sheet ruled into two hundred-odd lines, each a name, a
+year, a district; eleven lines ringed in pencil; a hand-drawn route on a map beside it, three
+roads running out to Mitaka, Fuchū, and Kasukabe; a cup has left a ring on the corner.]
 
 Mikami looked at the catalogue and said the thing I had been avoiding.
 
@@ -2196,177 +2132,166 @@ Mikami looked at the catalogue and said the thing I had been avoiding.
 
 I told him he was being dramatic.
 
-He said he was being technical. He said: count the eleven. Count the people who hold
-records. Then look at the twelfth column in the ledger, the name she wrote and rubbed out
-and wrote again, dated forward, in a handwriting that was steadying, page by page, as if the
-writer were getting better at it.
+He said he was being technical. He said: count the eleven. Count the people who hold records. Then
+look at the twelfth column in the ledger — the name she wrote, rubbed out, and wrote again, dated
+forward, in a hand that was steadying page by page, as if the writer were getting better at it.
 
 "I don't hold a record," I said. "I have a mirror."
 
-"You have the mirror," he said. "The mirror is the weapon. A weapon is the first document.
-The first thing anyone wants is the thing that did it."
+"You have the mirror," he said. "The mirror is the weapon. A weapon is the first document. The
+first thing anyone wants is the thing that did it."
 
-I did not answer him. I was looking at the twelfth column, at the rubbed-out date beside my
-own surname, and I was doing the arithmetic I had been avoiding since April.
+I did not answer. I was looking at the twelfth column, at the rubbed-out date beside my own
+surname, doing the arithmetic I had avoided since April.
 
-If the eleven were the people who held the paperwork, then the twelfth was not a witness and
-not a record. The twelfth was the *conclusion*. The twelfth was the person who, when the
-room was assembled, would stand in the gap and make the count come out even, because a
-collection of two hundred and eleven things arranged around a space is not complete until
-the space has someone in it.
+If the eleven were the people who held the paperwork, the twelfth was not a witness and not a
+record. The twelfth was the *conclusion*. The twelfth was the person who, when the room was
+assembled, would stand in the gap and make the count come out even. A collection of two hundred
+and eleven things arranged around a space is not complete until the space has someone in it.
 
 "She didn't tag me to kill me," I said.
 
-"No," Mikami said. "She tagged you to finish it. There's a difference. You've been finishing
-it since the day you read your mother's name."
+"No," Mikami said. "She tagged you to finish it. There's a difference. You've been finishing it
+since the day you read your mother's name."
 
 ---
 
-I called Kei that night and asked him one question, and it is the question that took the
-account from a mystery to the thing it became.
+I called Kei that night and asked him one question.
 
-I asked him: who found his mother.
+I asked him who found his mother.
 
-He said he did. He said he came to the house in March because she had not answered the phone
-for a week, and he found her in her chair, in the front room, in the ordinary way people are
-found, and there was no sign of anything, and the doctor said her heart, and it was written
-down as her heart.
+He said he did. He came to the house in March because she had not answered the phone for a week.
+He found her in her chair, in the front room, in the ordinary way people are found. No sign of
+anything. The doctor said her heart.
 
-Then he said something else, because he is the kind of man who tells you the whole of a
-thing if you ask, which is how I had learned to use him.
+Then he said something else, because he is the kind of man who tells you the whole of a thing if
+you ask.
 
-He said: "She had a tag on her. In her hand."
+"She had a tag on her. In her hand."
 
 "Her own tag."
 
-"Her own tag," he said. "With her name and her year and this place. And I burned it, because
-I thought it was the last thing that needed to be done, and because I didn't want it in the
-sale."
+"Her own tag. With her name and her year and this place. I burned it. I thought it was the last
+thing that needed to be done, and I didn't want it in the sale."
 
 I asked him what it said.
 
 [IMAGE 9.4 — a charred tag held on an open palm: mostly gone, one surviving corner with two
-legible characters and the year 1958; the ash has smudged the lines beneath; the hand holding
-it is unsteady, out of focus at the edge.]
+legible characters and the year 1958; the ash has smudged the lines beneath; the hand holding it
+is unsteady, out of focus at the edge.]
 
-He said he did not remember the exact characters. He said it was her name, and the year 1958,
-and the place Yanaka, and below that, one more line, in a hand that was *not* hers — he was
-sure of it, because he knew his mother's hand better than he knew anything — one line that he
-read once and then burned.
+He did not remember the exact characters. It was her name, the year 1958, the place Yanaka. And
+below that, one more line, in a hand that was *not* hers — he was sure, because he knew his
+mother's hand better than he knew anything — one line he read once and then burned.
 
 "What line," I said.
 
-He was quiet for a long time.
+He was quiet a long time.
 
-"It said 'one left,'" he said. "It said, 'one left,' and then there was a name, and the name
-was yours. But I burned it because I thought it was a shopping list, or a mistake, or her
-being ill. It was March. I didn't know."
+"It said 'one left,'" he said. "It said 'one left,' and then there was a name, and the name was
+yours. I burned it because I thought it was a shopping list, or a mistake, or her being ill. It
+was March. I didn't know."
 
-And there it was. The line, the last line, the one I had been walking toward since April,
-spoken out loud on the phone by a tired man in a house in Yanaka who had burned the only
-document that said my death was scheduled.
+There it was. The last line, the one I had been walking toward since April, spoken out loud by a
+tired man in a house in Yanaka who had burned the only document that said my death was scheduled.
 
-I thanked him and hung up and sat in the dark of my flat.
+I thanked him and hung up and sat in the dark.
 
 One left.
 
-I did not sleep that night, and in the morning I began to write the account the way you write
-an inventory: carefully, in order, and without knowing, yet, that I was writing it in the
-past tense because the person who writes in the present tense is the person who is still
-alive to be doing it.
+I did not sleep. In the morning I began to write this account the way you write an inventory:
+carefully, in order, and without knowing yet that I was writing it in the past tense because the
+person who writes in the present tense is the person who is still alive to be doing it.
 
 The account, as you have it, was never written looking back.
 
 It was written looking forward, from a chair, in a room, while something counted.
 
-
 ---
 
-I am going to add one more document to the folder, because I found it in November and because
-it is the strangest thing in the account and the most ordinary.
+I am adding one more document to the folder, because I found it in November and because it is the
+strangest thing in the account and the most ordinary.
 
-It is a receipt. A dry cleaner's receipt, from a shop in Nezu, dated 2003, for one item: a
-mirror cover, cleaned. One hundred and twenty yen. Paid in cash.
+A dry cleaner's receipt. A shop in Nezu, dated 2003, for one item: a mirror cover, cleaned. One
+hundred and twenty yen. Paid in cash.
 
-I found it in a box of my mother's papers that I had never opened, in a cupboard in my flat,
-where it had sat for twenty years, because when a parent dies and you are nine and you are
-passed to a grandmother, you do not open the box; you put the box on a shelf and you move it
-from flat to flat and you never open it.
+I found it in a box of my mother's papers I had never opened, in a cupboard in my flat, where it
+had sat for twenty years. When a parent dies and you are nine and you are passed to a
+grandmother, you do not open the box. You put it on a shelf and move it from flat to flat.
 
-The receipt has a phone number on it. I called the number. A woman answered; the shop is still
-there, in Nezu, and it is still run by the same family, and the daughter of the man who wrote
-the receipt listened to me describe a black-lacquer dressing mirror with a crack in the glass
-and a cloth cover, and she said, before I finished, "The mirror with the tag."
+The receipt has a phone number. I called it. A woman answered. The shop is still there, in Nezu,
+still run by the same family. The daughter of the man who wrote the receipt listened to me
+describe a black-lacquer dressing mirror with a crack in the glass and a cloth cover, and she
+said, before I finished: "The mirror with the tag."
 
-I asked her what she meant.
+I asked what she meant.
 
-She said her father had told her about it. He had told her that a woman used to bring a mirror
-cover in, every few years, to be cleaned, and that the cover had a tag sewn into the lining,
-and that she had asked him once what the tag said, and he had said it was a name and a year
-and a place, and that the name was not the name of the woman who brought it.
+Her father had told her about it. A woman used to bring a mirror cover in, every few years, to be
+cleaned. The cover had a tag sewn into the lining. She asked him once what the tag said. He said
+it was a name and a year and a place, and the name was not the name of the woman who brought it.
 
-He said the woman who brought it was not the owner. He said she was keeping it for someone.
+He said the woman who brought it was not the owner. She was keeping it for someone.
 
-[IMAGE 9.5 — a page from the folder held at an angle: the twelve-column ledger leaf, the
-twelfth column dated forward and rubbed out beside a surname; a hairline scratch runs across
-the page where the pen pressed too hard; the bench lamp throws the spine's shadow across the
-columns.]
+[IMAGE 9.5 — a page from the folder held at an angle: the twelve-column ledger leaf, the twelfth
+column dated forward and rubbed out beside a surname; a hairline scratch runs across the page
+where the pen pressed too hard; the bench lamp throws the spine's shadow across the columns.]
 
 [IMAGE 9.6 — a dry cleaner's receipt, 2003, for one mirror cover, one hundred and twenty yen,
 cash; on the reverse, in a hand that is not the shop's, a name and a year and a place; the
 receipt is creased from being carried in a wallet.]
 
-My mother was not the owner of the mirror. My grandmother Hana was not the owner. The mirror
-went from hand to hand down a line of women who each kept it for the next one, and it was
-never anyone's, and the tag on the cover named a woman in Tateishi and a year in 2003 and a
-place, and that woman was my mother, and she died, and the line arrived at me.
-
+My mother was not the owner of the mirror. My grandmother Hana was not the owner. The mirror went
+from hand to hand down a line of women who each kept it for the next one. It was never anyone's.
+The tag on the cover named a woman in Tateishi and a year in 2003, and that woman was my mother,
+and she died, and the line arrived at me.
 
 ---
 
-I am going to write down the arithmetic of the route, because I have the notebook in front of
-me and because arithmetic is the last honest thing I can do.
+I am going to write down the arithmetic of the route, because arithmetic is the last honest thing
+I can do.
 
 Eleven people held the room's proof. Four are dead: Yano, Sakai, Ito, Suzuki. Two are filed:
-Mikami, Kubo. Two are filed in the softer sense, which is to say they have the folder and are
-waiting: Hoshino, Yamamura. One took the room and left: the screen restorer's screen. One is not
-in the folder at all and should be, and I have added her: the nurse, Sakaguchi Rie, who is next
-door to my flat and who knocked on my wall three times in November and whom I did not answer,
-because I thought it was the building, and because I had begun, by then, to not answer doors.
+Mikami, Kubo. Two are filed in the softer sense — they have the folder and are waiting: Hoshino,
+Yamamura. One took the room and left: the screen restorer's screen. And one is not in the folder
+at all and should be, and I have added her: the nurse, Sakaguchi Rie, who lives next door to my
+flat and knocked on my wall three times in November, and whom I did not answer, because I thought
+it was the building, and because by then I had begun not to answer doors.
 
 That is eleven people, and eleven is not the number on the list. Nineteen tags. Nineteen living
-names. Which means eight of the nineteen have not appeared in the folder, and I do not know who
-they are, and the hand does.
+names. Eight of the nineteen have not appeared in the folder. I do not know who they are. The
+hand does.
 
-I have tried to work the eight out from the tags, and I cannot, because the tags give only a
-surname and a district, and because whoever wrote the list chose the surnames the way she chose
-everything: so that they would read as a seating chart and not as a phone book.
+I tried to work the eight out from the tags and could not. The tags give only a surname and a
+district, and whoever wrote the list chose the surnames the way she chose everything: so they
+would read as a seating chart and not as a phone book.
 
-But I have worked out one thing from the arithmetic, and it is the thing that decided the end.
+But I worked out one thing from the arithmetic, and it decided the end.
 
-Nineteen names. Twelve from 1958, which gives seven names that are not from the room at all.
-Seven names with no ancestor on the guest list. Seven people who are in the collection because
-of something else.
+Nineteen names. Twelve from 1958. That gives seven names that are not from the room at all. Seven
+people with no ancestor on the guest list. Seven people who are in the collection because of
+something else.
 
-I counted my own family. My mother. My grandmother. The mirror. That is three of the seven if
-you count the line rather than the person, and the seven does not come out even, and an
-appraiser does not let a column not come out even.
+I counted my own family. My mother. My grandmother. The mirror. That is three of the seven, if you
+count the line rather than the person. And the seven does not come out even, and an appraiser does
+not let a column not come out even.
 
 Which means the list has *two* kinds of people on it: the room's twelve, and the route's seven.
 The room's people are the testimony. The route's people are the *delivery* — the ones who carry
-the pieces, one per month, to the reader. And I am both: I am Hana's granddaughter, which puts
-me on the route, and I am the reader, which puts me in the gap, and if the list has both kinds
-of people on it, then the list was never a death list.
+the pieces, one a month, to the reader.
+
+And I am both. I am Hana's granddaughter, which puts me on the route. I am the reader, which puts
+me in the gap. And if the list has both kinds of people on it, then the list was never a death
+list.
 
 It was a *distribution list*.
 
-She was not killing nineteen people. She was *mailing the room*, one package a month, to
-nineteen addresses, and the deaths were the deliveries, and I was the last address, and the
-package was the account you are reading.
+She was not killing nineteen people. She was *mailing the room*, one package a month, to nineteen
+addresses. The deaths were the deliveries. I was the last address. The package was the account
+you are reading.
 
-[IMAGE 9.7 — a hand-drawn grid of nineteen names in two columns, twelve marked "room" and
-seven marked "route," the columns joined by arrows; one name sits in both columns; a note
-reads "distribution, not deaths"; the grid is drawn on the back of a sale listing.]
+[IMAGE 9.7 — a hand-drawn grid of nineteen names in two columns, twelve marked "room" and seven
+marked "route," the columns joined by arrows; one name sits in both columns; a note reads
+"distribution, not deaths"; the grid is drawn on the back of a sale listing.]
 
 
 <!-- 10-the-tea-set.md -->
@@ -2591,22 +2516,38 @@ I said yes.
 
 She divided the work the way you divide a ledger. The living names were mine: the ones who
 had held a piece in their hands and could still be talked to, and talked out of it. The ones
-who kept the *records* were handled by someone else — a second correspondent, she never said
-his name, only that he was owed the same thing my family was owed, a silence paid down. I
-never met him. For thirty years I believed I was the only hand; this year I found his
-signature on the backs of tags I had never written, in a hand steadier than mine, and I
-understood that the old woman had kept us apart the way she had kept everything apart — so
-that no one of us would ever know the whole of it.
+who kept the *records* were handled by someone else.
+
+A second correspondent. She never said his name, only that he was owed the same thing my family
+was owed: a silence paid down. I never met him.
+
+For thirty years I believed I was the only hand. This year I found his signature on the backs of
+tags I had never written, in a hand steadier than mine, and I understood that the old woman had
+kept us apart the way she kept everything apart — so that no one of us would ever know the whole
+of it.
+
+She kept the two lists in one book and never let the columns touch. I have drawn them the way she
+ruled them.
+
+[IMAGE 9.7 — a two-column chart drawn on the ruled flyleaf of a bank ledger, in the tea
+narrator's hand: the left column headed "the ones who held a piece," names in a firm upright
+hand, each struck through; the right column headed "the ones who kept the records," ruled off by
+a vertical double line, with a single unreadable signature at the foot; the two columns never
+join.]
 
 I want to be exact about the deaths, because the exactness is the only thing I have left that
-is mine. They were not murders in the way the reader is expecting. Every one of them was a
+is mine.
+
+They were not murders in the way the reader is expecting. Every one of them was a
 *conversation*, and every one ended in an explanation, and the explanation is the same in
-every case: I told them what the room was, and what their tag said, and what their family had
-done in 1958, and they died of the telling. Every one. The doctor wrote heart, or fall, or
-illness, and the doctors were not wrong. You can die of a truth you have been avoiding for
-sixty years. I have been present for every one I was sent to, and each one went quiet at the
-last, the way a person goes quiet when a sum finally comes out. It is faster than poison and
-tidier.
+every case. I told them what the room was, what their tag said, what their family had done in
+1958. And they died of the telling. Every one.
+
+The doctor wrote heart, or fall, or illness. The doctors were not wrong. You can die of a truth
+you have been avoiding for sixty years. I have been present for every one I was sent to, and
+each one went quiet at the last, the way a person goes quiet when a sum finally comes out.
+
+It is faster than poison and tidier.
 
 Except the cup. I did use the cup, tonight, for Kuroda Jun, and I want to say why, because it
 is the one death that was not clean.
@@ -2862,12 +2803,15 @@ The doll's face is turned away from the camera.]
 
 ---
 
-Kubo was sixty-eight and he had repaired dolls for forty-one years, and he could tell you
-that a doll is not a toy. A doll is a stand-in. A child gives a doll a name and a history
-and a set of injuries, and the child keeps the doll, and the doll keeps the child's
-childhood, and when the child grows up and cannot bear it, the doll comes to Kubo, and he
-mends it, and it goes back into a box, and the box goes into a cupboard, and that is the
-whole trade: mending the stand-in so the original can rest.
+Kubo was sixty-eight and he had repaired dolls for forty-one years, and he could tell you that a
+doll is not a toy.
+
+A doll is a stand-in. A child gives a doll a name and a history and a set of injuries. The child
+keeps the doll. The doll keeps the child's childhood. And when the child grows up and cannot
+bear it, the doll comes to Kubo, and he mends it, and it goes back into a box, and the box goes
+into a cupboard.
+
+That is the whole trade: mending the stand-in so the original can rest.
 
 He had four hundred dolls in his shop, in boxes, named on the boxes, waiting.
 
@@ -2890,6 +2834,19 @@ paper is water-stained and sewn-edge frayed.]
 On it, in a child's hand, a list of names. The names on the tags. All twelve of them, in the
 order they appear in the room, with a thirteenth written apart, below a line: *the one who
 came after.*
+
+Kubo spread it flat and copied it, because a mender keeps a record of what he touches. The
+copy is below, in his hand, the way he set it out.
+
+[IMAGE 11.2b — a hand-copied table on a repair-shop memo slip: two columns headed ORDER and
+NAME; twelve numbered rows in a child's rounded script traced faithfully; a ruled line drawn
+across the full width beneath the twelfth; a thirteenth line below the rule in a different,
+steadier hand, with a blank left for the year.]
+
+He set the copy down, and then he understood two things at once. The list was the room, in
+order, from the first object to the last. And the last object on the list was not an object.
+It was a name, and the name had no order number, because the list had run out of numbers at
+twelve, and the thirteenth was waiting for something that had not happened yet.
 
 The thirteenth was a child's name. Kubo looked it up because he could not stop himself,
 which is the whole disease of his trade and hers.
@@ -3043,12 +3000,13 @@ She had asked: "Is there any way to make a thing that has been read *unread*?"
 Kubo had told her no. You cannot unread a thing. You can only read it differently, or keep it
 from someone else.
 
-And the woman had nodded, and had said, "Then I will keep it from someone else," and had left,
-and Kubo had thought about it for years, and had never understood — until the Hana doll came
-into his shop this spring, with the child's list sewn into its sash, and he had understood that
-the woman in 1993 had been looking for the other slip of paper, the second one, the one he had
-found in the *other* sleeve, and had not found it, and had gone away believing the doll was
-clean.
+And the woman had nodded, and had said, "Then I will keep it from someone else," and had left.
+Kubo had thought about it for years and never understood.
+
+Then the Hana doll came into his shop this spring, with the child's list sewn into its sash. He
+understood then. The woman in 1993 had been looking for the other slip of paper — the second
+one, the one he had found in the *other* sleeve. She had not found it. She had gone away
+believing the doll was clean.
 
 Which meant the doll had been carrying the truth since 1958, and someone had been searching for
 it for thirty-five years, and it had come to Kubo, and he had found it, and he had read it, and
@@ -3107,11 +3065,10 @@ He knew what the mark was. He was fifty-three and he had restored screens for th
 and he had seen the mark three times, always on a panel that had been replaced without
 repainting, and every time it had been a death.
 
-Someone had bled on the fifth panel of the Kuroda screen in Yanaka in 1958, and someone had
-replaced the panel and never painted it, and the screen had been kept by the Kanzakis for
-sixty-five years with a blank fifth panel, and Mitsuko had bought it back and tagged it, and
-it had come to Yamamura, who was now looking at the mark of a man's death on a screen that
-was supposed to be a river.
+Someone had bled on the fifth panel of the Kuroda screen in Yanaka in 1958. Someone had replaced
+the panel and never painted it. The Kanzakis had kept the screen sixty-five years with a blank
+fifth panel. Mitsuko had bought it back and tagged it, and it had come to Yamamura, who was now
+looking at the mark of a man's death on a screen that was supposed to be a river.
 
 Yamamura called the estate. He got Kei, who was tired, and who said the screen had been in
 the storage room his whole childhood and that he had been told never to open it, and that he
@@ -3373,14 +3330,16 @@ She cried when I told her. It's the only time I saw her cry."
 
 The swords that did the talking.
 
-Ito looked at the two blades in their plain scabbards and understood, the way you understand
-a valuation before you can name it, that these were not weapons of the night. They were the
-Kuroda family's formal pair, the pair a patron wears when he goes to a house to be
+Ito looked at the two blades in their plain scabbards and understood, the way you understand a
+valuation before you can name it, that these were not weapons of the night.
+
+They were the Kuroda family's formal pair. The pair a patron wears when he goes to a house to be
 important and to be seen. Kuroda Genji had gone to the Kanzaki house in 1958 carrying the
-family's pride, and had done something unspeakable while wearing it, and someone — not the
-Kanzakis, who had no swords — had polished the blades afterward, and had put them back on
-the stand, and had kept them, and had cried, and had brought them back to the woman's room
-fifteen years ago because the room had a place for the blades and he could not finish
+family's pride, and had done something unspeakable while wearing it.
+
+And someone — not the Kanzakis, who had no swords — had polished the blades afterward, and put
+them back on the stand, and kept them, and cried, and brought them back to the woman's room
+fifteen years ago. Because the room had a place for the blades. And because he could not finish
 keeping them alone.
 
 [IMAGE 12.3 — the tsuba's reverse: an iron guard photographed close, showing a worn plum
@@ -3448,17 +3407,15 @@ a date, and the date was today.
 She put it in her pocket and did not read it until she was home.
 
 Then she went to the storage room behind the shop, because the door was unlocked and because
-she had become the kind of person who tries doors, and inside there were the blades, in
-shirasaya, on the stand, and the stand was the one from the estate, and the two blades were
-on it, and on the stand there was a tag, and the tag said KURODA — 1958 — YANAKA, and it was
-the original tag, which the estate had sold with the stand, which meant the blades had been
-brought back.
+she had become the kind of person who tries doors.
 
-Which meant Kuroda Jun had already been here.
+Inside were the blades, in shirasaya, on the stand. The stand was from the estate. On it there
+was a tag, and the tag said KURODA — 1958 — YANAKA. It was the original tag, which the estate
+had sold with the stand. Which meant the blades had been brought back.
 
-Which meant Kuroda Jun had stood in this room and put the blades back on the stand that the
-dead woman had tagged, and had left them, and had left the shop open, and had left a tag under
-the door with no name and today's date.
+Which meant Kuroda Jun had already been here. He had stood in this room and put the blades back
+on the stand that the dead woman had tagged, and had left them, and had left the shop open, and
+had left a tag under the door with no name and today's date.
 
 Aoi understood, standing in the storage room with the blades, that Kuroda Jun was not tidying.
 He was *returning*. He had been returning the pieces to the room for years — the coat, the
@@ -3763,12 +3720,13 @@ Aoi stood in the empty house with the torch on the list and the phone to her ear
 last pieces together, the way an appraiser closes a provenance.
 
 The chest went out with Hana, the servant, the same night the mirror did. The mirror went to
-Hana as payment. The chest went with the mirror, because the chest was where the child hid,
-and the servant who carried the child out could not carry the mirror *and* the chest, and
-chose — or was told — to take the chest, and the chest went down the Sumida and into the hands
-of whichever family member kept it for sixty years, and it surfaced in a warehouse in Kuramae
-in the autumn, placed by someone who knew exactly what it was, in the corner of the room,
-where it had always stood.
+Hana as payment. The chest went too, because the chest was where the child hid.
+
+Hana could not carry the mirror *and* the chest. She chose — or was told — to take the chest.
+
+The chest went down the Sumida and into the hands of whichever family member kept it for sixty
+years. It surfaced in a warehouse in Kuramae in the autumn, placed by someone who knew exactly
+what it was, in the corner of the room, where it had always stood.
 
 Somebody had kept the chest. Somebody had brought it back. And the only person who could have
 had it, if it went out with Hana, was the person on the other end of the mirror's line.
@@ -4027,11 +3985,12 @@ file can only hold what the registers were willing to admit. The whole truth of 
 in any archive. It was on the inside cover of a ledger, in a child's hand, and Aoi would not find
 it until she stood in the room.
 
-Aoi folded the note into the folder and looked out the window at the lights of Mitaka and
-understood that she had, at last, the one thing the account had been missing since April: a
-document, in an official file, in a government archive, that a stranger could read, that did
-not rely on a ghost or a curse or a room, and that said, in plain bureaucratic Japanese, that a
-man had attacked a child and the child's mother had stopped him and the world had agreed not to
+Aoi folded the note into the folder and looked out the window at the lights of Mitaka. She had,
+at last, the one thing the account had been missing since April.
+
+A document. In an official file, in a government archive. Something a stranger could read, that
+did not rely on a ghost or a curse or a room. It said, in plain bureaucratic Japanese, that a man
+had attacked a child and the child's mother had stopped him, and that the world had agreed not to
 say so.
 
 It was not justice. It was a note in a file.
@@ -4504,259 +4463,247 @@ in pencil; the flat behind is ordinary and lit by one lamp.]
 
 ---
 
-I have to write this part quickly, because I have come to understand that the account is
-not a record I am keeping. It is a thing I am being allowed to finish.
+I have to write this part quickly. The account is not a record I am keeping. It is a thing I am
+being allowed to finish.
 
-Mikami called me on the second of November and said we had to go to Kuramae. He said it in
-the voice he uses for materials, which is the voice that does not argue, and I asked him why,
-and he said: "Because the count is nearly complete, and I want to measure the room before
-the last piece goes in."
+Mikami called on the second of November and said we had to go to Kuramae. He said it in the voice
+he uses for materials, which is the voice that does not argue.
 
-I asked him what the last piece was.
+"Why," I said.
 
-He said, "You know what it is," and hung up, and I stood in my flat in Tateishi with the
-phone in my hand and the mirror in the corner, and I understood that he was right and that I
-had known since the album.
+"Because the count is nearly complete, and I want to measure the room before the last piece goes
+in."
+
+"What's the last piece."
+
+"You know what it is," he said, and hung up.
+
+I stood in my flat in Tateishi with the phone in my hand and the mirror in the corner, and I
+understood that he was right, and that I had known since the album.
 
 ---
 
-I want to record the hours before we went, because I have not been alone in them, and that
-is the part that no one will believe.
+I woke at four that night, and the mirror was turned to face the room.
 
-When I went to bed on the first, I woke at four, and the mirror was turned to face the room.
-I had turned it to the wall — I am certain; I turn every mirror to the wall now, the way
-Mikami turns his tags — and at four it was facing out, and in it, faintly, the six-mat room,
-and a child standing in the doorway with her hand on the frame.
+I had turned it to the wall. I am certain — I turn every mirror to the wall now, the way Mikami
+turns his tags. At four it was facing out, and in it, faintly, the six-mat room, and a child in
+the doorway with her hand on the frame.
 
-I did not get up. I lay in the dark and watched her in the glass, and she did not move, and
-neither did I, and after a while I understood that she was not looking at me.
+I did not get up. I lay in the dark and watched her in the glass. She did not move. Neither did
+I. After a while I understood that she was not looking at me.
 
 She was counting.
 
-Her lips moved, and I could not hear the number, but I could see her count, and when she
-reached the end she stopped, and then she started again, and it was the same count, and it
-was not a long one. Twelve. She counted twelve, and then she counted again.
+Her lips moved. I could not hear the number, but I could see her count. When she reached the end
+she stopped, then started again, and it was the same count. It was not a long one. Twelve. She
+counted twelve, then counted again.
 
-Twelve people in the room. And then — because the count did not come out right, because one
-of the twelve had been added and one had not been taken away — she counted a thirteenth.
+Twelve people in the room. And because the count did not come out right — because one of the
+twelve had been added and one had not been taken away — she counted a thirteenth.
 
-And the thirteenth, I am now certain, was the room itself.
+The thirteenth, I am now certain, was the room itself.
 
-[IMAGE 15.1 — a bedroom at night: a black-lacquer dressing mirror standing in the corner,
-turned to face the room; in the glass, faintly, a six-mat room and a small figure in the
-doorway; the bed is empty and the sheets are pulled back.]
+[IMAGE 15.1 — a bedroom at night: a black-lacquer dressing mirror in the corner, turned to face
+the room; in the glass, faintly, a six-mat room and a small figure in the doorway; the bed is
+empty and the sheets pulled back.]
 
 ---
 
-Mikami was waiting for me at Kuramae at nine, with a tape measure, and a torch, and the
-ledger, and a look I had not seen on him before, which was not fear. It was the look of a man
-who has decided to finish a repair he should never have taken in.
+Mikami was waiting at Kuramae at nine with a tape measure, a torch, the ledger, and a look I had
+not seen on him before. It was not fear. It was the look of a man who has decided to finish a
+repair he should never have taken in.
 
-The warehouse was cold. Kei had stopped locking it, or someone had. The two hundred lots
-were not on the shelving any more.
+The warehouse was cold. Kei had stopped locking it, or someone had. The two hundred lots were not
+on the shelving any more.
 
 They were on the floor.
 
 Someone had laid them out — the mirror, the coat on its hook, the music box, the tea set, the
-comb, the doll, the album, the blades on the daishō stand, the ledger itself, the tags, all
-of it — in the shape of a room. Mats drawn in the dust. A doorway marked by two upright
-posts. A gap in the centre the size of a standing person.
+comb, the doll, the album, the blades on the daishō stand, the ledger, the tags, all of it — in
+the shape of a room. Mats drawn in the dust. A doorway marked by two upright posts. A gap in the
+centre the size of a standing person.
 
-And in the corner, where the tansu should be, there was a large old chest that Mitsuko had
-never bought, and that the estate had never sold, and that no one could account for, and that
-had a tag on it in the small upright hand, and the tag was blank.
+And in the corner, where the tansu should be, a large old chest that Mitsuko had never bought,
+that the estate had never sold, that no one could account for, and that had a tag on it in the
+small upright hand, and the tag was blank.
 
 "Someone's been busy," Mikami said.
 
 "Someone's been arranging," I said. "There's a difference."
 
-[IMAGE 15.2 — the Kuramae warehouse: two hundred tagged objects laid out on the floor in
-the shape of a six-mat room; mats sketched in the dust; a doorway marked by two posts; a
-chest in the corner with a blank tag; two small figures at the edge with a tape measure.]
+[IMAGE 15.2 — the Kuramae warehouse: two hundred tagged objects laid out on the floor in the
+shape of a six-mat room; mats sketched in the dust; a doorway marked by two posts; a chest in the
+corner with a blank tag; two small figures at the edge with a tape measure.]
 
 ---
 
-Mikami measured it, and I wrote the numbers, and the numbers are the whole of the account,
-so I am putting them down exactly.
+Mikami measured. I wrote the numbers. The numbers are the whole of the account, so I am putting
+them down exactly.
 
 The arrangement was seven mats by twelve. The storage room in the Yanaka plan was eight by
-fourteen. The gap in the centre was not at the centre. It was set back, toward the corner
-with the chest, by about half a mat.
+fourteen. The gap in the centre was not at the centre. It was set back toward the corner with the
+chest, by about half a mat.
 
 "What does a half mat mean," I said.
 
-"It means the measurement is not a room," Mikami said. "It's a view. From here—" and he
-crouched, "—from here, at the chest, at a child's height, the mats shorten at this angle,
-and seven by twelve is what eight by fourteen looks like to a person lying on the floor in
-that corner."
+"It means the measurement is not a room," Mikami said. "It's a view. From here—" he crouched,
+"—from here, at the chest, at a child's height, the mats shorten at this angle, and seven by
+twelve is what eight by fourteen looks like to a person lying on the floor in that corner."
 
-He measured again, with the torch low, throwing shadows like a floor seen from the ground,
-and the shadow of every object fell the way it would fall on a child's retina: long, low, the
-ceiling out of frame.
+He measured again with the torch low, throwing shadows like a floor seen from the ground. The
+shadow of every object fell the way it would fall on a child's retina: long, low, the ceiling out
+of frame.
 
-"Forty to fifty centimetres," he said. "That's the camera height in the album. Same as here.
-She didn't build the room she remembered. She built the room she saw, from behind the chest,
-on the night, and she never corrected it, because she never wrote it down, and now it is the
-only true record of where everyone was standing."
+"Forty to fifty centimetres," he said. "That's the camera height in the album. Same as here. She
+didn't build the room she remembered. She built the room she saw, from behind the chest, on the
+night. She never corrected it, because she never wrote it down. Now it is the only true record of
+where everyone was standing."
 
-I asked him the question I had come to ask, which was not about the room.
+I asked him the question I had come to ask. It was not about the room.
 
 "Who's the chest?"
 
-Mikami did not answer for a while. Then he said, "It's not hers. It's not in the ledger. It's
-not in the album. It's been in this warehouse since before the sale and Kei doesn't know it.
-Someone put it here."
+Mikami did not answer for a while.
+
+"It's not hers. Not in the ledger. Not in the album. It's been in this warehouse since before the
+sale and Kei doesn't know it. Someone put it here."
 
 "And the blank tag?"
 
-He looked at the chest, and then at the gap beside it, and then at me.
+He looked at the chest, then at the gap beside it, then at me.
 
-"The blank tag is the last piece," he said. "The room is finished except for one, and the
-one is the person who sees it from the floor. She counted twelve, and she left a tag for the
-thirteenth, and she left the tag blank because she didn't know the name yet. But the chest is
-in the corner. And the chest is where you stand."
+"The blank tag is the last piece," he said. "The room is finished except for one, and the one is
+the person who sees it from the floor. She counted twelve and left a tag for the thirteenth, and
+she left the tag blank because she didn't know the name yet. But the chest is in the corner. And
+the chest is where you stand."
 
 [IMAGE 15.3 — a hand-annotated floor plan: the eight-by-fourteen room and the seven-by-twelve
-arrangement overlaid; the centre gap marked "set back half a mat"; a note measuring eye
-height at 45 cm; a chest symbol in the corner with a blank tag drawn beside it.]
+arrangement overlaid; the centre gap marked "set back half a mat"; a note measuring eye height at
+45 cm; a chest symbol in the corner with a blank tag drawn beside it.]
 
 ---
 
-I want to end this frame chapter with a fact and not a feeling, because I have started to
-notice that the feelings are the part the account is not interested in.
-
-The fact is this: this morning I woke, and the mirror was facing out, and on the floor of my
-flat, in the dust, someone had drawn a room.
+This morning I woke and the mirror was facing out. On the floor of my flat, in the dust, someone
+had drawn a room.
 
 Not a big one. Six mats. A doorway. A gap. A chest in the corner with a blank tag tied to its
 handle.
 
-I had gone to bed with the flat clean. I am an appraiser; I do not leave a floor in dust. And
-this morning the room was there, in my flat in Tateishi, three kilometres from the warehouse,
-and it was drawn the way you draw a room you are being invited into.
+I had gone to bed with the flat clean. I am an appraiser; I do not leave a floor in dust. And this
+morning the room was there, in Tateishi, three kilometres from the warehouse, drawn the way you
+draw a room you are being invited into.
 
-I am going to Kuramae tomorrow with Mikami and the tape measure. I am going to stand in the
-gap. I am going to let him measure the last piece.
+I am going to Kuramae tomorrow with Mikami and the tape measure. I am going to stand in the gap. I
+am going to let him measure the last piece.
 
-I am writing this in the present tense now and I am not going to correct it, because the
-person who writes in the past tense is a person looking back, and I have come to understand
-that there is no back. There is only the room, and the count, and the tag that has my name
-on it and no date yet, and the date is going in whether I write it or not.
+I am writing this in the present tense now and I am not going to correct it. The person who writes
+in the past tense is a person looking back, and there is no back. There is only the room, and the
+count, and the tag that has my name on it and no date yet, and the date is going in whether I
+write it or not.
 
-If you are reading this, someone found it, and someone finished the count, and I want the
-record to show that I finished it too, in my own hand, in order, with everything reconciled,
-which is how an appraiser closes a collection.
-
-
----
-
-I want to write down the night before, in full, because the night before is the part of the
-account that is not evidence and is therefore the part that has to be remembered.
-
-Mikami came to my flat in Tateishi. He did not want to, and he came, and we sat in the little
-room with the mirror in the corner facing the wall, and we ate something neither of us
-remembers, and we did not talk about the room.
-
-We talked about his wife, who had left him in 2004, and who he had not spoken to since, and
-about the fact that he had spent the years since repairing other people's furniture and
-keeping every ticket, and that he had understood, this year, that he had been keeping the
-tickets the way a man keeps a diary he is not writing. We talked about my mother, because I
-had found the notebook by then and had told him, and because he asked what she was like, and I
-told him I remembered three things: the sound of the bar below us, the smell of the laundry
-on her, and the mirror.
-
-And then, at some hour, Mikami asked me the question he had been carrying all winter.
-
-He asked me whether I thought Mitsuko was a monster.
-
-I said I did not know. I said I had spent nine months pricing her, and that a person you price
-is not a person you judge, and that I had learned this professionally and was refusing to
-unlearn it, and that it was a coward's answer and I knew it.
-
-Mikami said: "I mended for her for thirty years. She brought me things every few years. She
-was always polite and she never talked about why. And I want to say something, because I'm
-going to be the one measuring the room, and I need to have said it before."
-
-I asked him what.
-
-He said: "She was eleven. Whatever she did, she was eleven, and then she was a woman carrying
-it alone for sixty years, and then she was a woman who built a room so that someone would
-finally read it. I've spent thirty years mending the room's furniture. I've never once been
-able to say she was wrong."
-
-I did not answer. I was thinking about my mother's notebook, and the line at the end, *this
-one comes to the child*, and about the fact that a woman in Yanaka had been sending a list to
-a woman in Tateishi for years before either of us died, so that the child would arrive at the
-room knowing what was in it.
-
-She had not summoned me. She had *corresponded* with me, across two deaths, for twenty years,
-in the only language a woman like her had left, which was the language of objects and lists
-and things that can be held.
-
-[IMAGE 19.4 — a small Tateishi flat at night: two people at a low table, tea, the mirror
-turned to the wall in the corner; the room is warm and ordinary; through the window, the alley
-and a vending machine's glow.]
+If you are reading this, someone found it, and someone finished the count. I want the record to
+show that I finished it too, in my own hand, in order, with everything reconciled, which is how an
+appraiser closes a collection.
 
 ---
 
-Here is the last thing from that night, and it is the only thing in the account I cannot
-explain and will not pretend to.
+Mikami came to my flat that night. He did not want to, and he came.
 
-At about four in the morning, Mikami woke me. He had been sleeping on the floor by the window
-and I had been on the futon, and he was standing over me, and he said, quietly, "Look at the
-floor."
+We sat in the little room with the mirror facing the wall. We ate something neither of us
+remembers. We did not talk about the room. We talked about his wife, who left him in 2004, and
+about the years since, mending other people's furniture and keeping every ticket — keeping them
+the way a man keeps a diary he is not writing. We talked about my mother, because by then I had
+found the notebook and had told him. He asked what she was like. I said I remembered three things:
+the sound of the bar below us, the smell of the laundry on her, and the mirror.
 
-I looked. The room was drawn in the dust. Six mats. A doorway. A gap. A chest in the corner
-with a blank tag. And Mikami said the thing that made me get up and dress and start packing
-the folder.
+Then, at some hour, Mikami asked the question he had been carrying all winter.
 
-He said: "I watched it appear. I was awake. It came from the mirror."
+He asked whether I thought Mitsuko was a monster.
+
+I said I did not know. I said I had spent nine months pricing her, and a person you price is not a
+person you judge, and I had learned that professionally and was refusing to unlearn it. It was a
+coward's answer. I knew it.
+
+Mikami said: "I mended for her thirty years. She brought me things every few years. Always
+polite. Never talked about why. And I want to say something, because I'm going to be the one
+measuring the room, and I need to have said it before."
+
+"What."
+
+He said: "She was eleven. Whatever she did, she was eleven. Then she was a woman carrying it
+alone for sixty years. Then she was a woman who built a room so that someone would finally read
+it. I've spent thirty years mending the room's furniture. I've never once been able to say she
+was wrong."
+
+I did not answer. I was thinking about my mother's notebook, and the line at the end, *this one
+comes to the child*, and about the fact that a woman in Yanaka had been sending a list to a woman
+in Tateishi for years before either of us died, so that the child would arrive at the room knowing
+what was in it.
+
+She had not summoned me. She had *corresponded* with me, across two deaths, for twenty years, in
+the only language a woman like her had left: objects, and lists, and things that can be held.
+
+[IMAGE 19.4 — a small Tateishi flat at night: two people at a low table, tea, the mirror turned
+to the wall in the corner; the room is warm and ordinary; through the window, the alley and a
+vending machine's glow.]
+
+---
+
+At about four, Mikami woke me. He had been sleeping on the floor by the window. He was standing
+over me.
+
+"Look at the floor," he said.
+
+I looked. The room was drawn in the dust. Six mats. A doorway. A gap. A chest in the corner with a
+blank tag.
+
+"I watched it appear," he said. "I was awake. It came from the mirror."
 
 I said that was impossible.
 
-He said: "I know. But I was awake, and I watched. The mirror was against the wall, and then
-the light from the alley moved across it, and the light kept going, past the mirror, out onto
-the floor, and where the light went, the floor was drawn. It wasn't drawn *by* the light. It
-was drawn *with* it. Line by line. Mat by mat."
+"I know. But I was awake, and I watched. The mirror was against the wall. Then the light from the
+alley moved across it, and the light kept going, past the mirror, out onto the floor. Where the
+light went, the floor was drawn. Not drawn *by* the light. Drawn *with* it. Line by line. Mat by
+mat."
 
-He said he had not been afraid. He said he had felt, instead, the thing he feels in his shop
-when a repair finally sits true: a kind of *settling*. As if the room had been measuring
-itself against my flat for months and had finally got the dimensions right.
+He said he had not been afraid. He said he had felt the thing he feels in his shop when a repair
+finally sits true: a *settling*. As if the room had been measuring itself against my flat for
+months and had finally got the dimensions right.
 
-I did not argue with him, and I did not believe him, and the two are not the same as agreeing.
-I am an appraiser, and an appraiser does not accept a cause she cannot see. So I got up and I
-looked at the door, and the door was locked, and the chain was on — and the chain was on
-because I had put it on, and it was still on, which should have closed the question and did
-not. Then I looked at the floor the way I look at a lacquer: for the hand.
+I did not argue with him, and I did not believe him, and the two are not the same as agreeing. I
+am an appraiser. An appraiser does not accept a cause she cannot see. So I got up and looked at
+the door. The door was locked. The chain was on. It was on because I had put it on, and it was
+still on, which should have closed the question and did not.
 
-The line was too even. That was the first thing. Dust, drawn through, leaves a soft edge; this
-line had a hard one, a clean shoulder, the way a line looks when it is made with a straight
-edge and not a finger. And in the corner, where the doorway of the drawn room opened onto the
-mat, there was a smear the width of a shoe, and on the smear, faint, the smell that is in
-Mikami's shop and on a dead man's coat and on the damp cloth a polite man folds in his pocket —
-old tatami, shellac, cold tea. Not a ghost of it. The smell itself, on the floor of my flat,
-where someone had knelt to draw.
+Then I looked at the floor the way I look at a lacquer: for the hand.
 
-I found the key in the door's outside lock the next morning: my own key, the spare, which I
-had kept in the drawer by the door, and which is now one key short of what it was. Someone had
-let himself in, drawn the room, and left the key, which is what the second hand did, and which
-is how he had left a ring of keys on a hook in a house in Yanaka, for a locksmith, so that a
-door would be found.
+The line was too even. Dust drawn through leaves a soft edge. This line had a hard one, a clean
+shoulder — the way a line looks when it is made with a straight edge and not a finger. And in the
+corner, where the doorway of the drawn room opened onto the mat, there was a smear the width of a
+shoe, and on the smear, faint, the smell that is in Mikami's shop and on a dead man's coat and on
+the damp cloth a polite man folds in his pocket. Old tatami, shellac, cold tea. Not a ghost of
+it. The smell itself, on the floor of my flat, where someone had knelt to draw.
 
-I have decided to believe this. I am an appraiser; I believe what the object says. But I have
-also read every account in the folder, and one of them is a woman on a step who felt her hands
-go slow while a polite man stood outside, and I know that the two readings — a man with a key
-and a room that draws itself — are the same reading, and that I do not get to choose the one
-that lets me sleep. That is what the room has always done. It does not remove the cause. It
-puts a cause in your hand and dares you to price it.
+The next morning I found the key in the outside lock of my door: my own spare, which I kept in the
+drawer by the door, and which is now one key short of what it was. Someone had let himself in,
+drawn the room, and left the key. It is what the second hand did. It is how he left a ring of
+keys on a hook in a house in Yanaka, for a locksmith, so that a door would be found.
 
-We did not go back to sleep. We packed the ledger and the inventory and the album and the tags,
-and we sat up until dawn, and at dawn I wrote the note that the police would find on my table
-in December, and we went to Kuramae.
+I have decided to believe this. I am an appraiser; I believe what the object says. But I have also
+read every account in the folder, and one of them is a woman on a step who felt her hands go slow
+while a polite man stood outside. The two readings — a man with a key, and a room that draws
+itself — are the same reading, and I do not get to choose the one that lets me sleep.
 
-[IMAGE 19.5 — a flat floor at dawn, grey light: a six-mat room drawn in the dust, extending
-from the corner where a black-lacquer mirror stands; a tape measure lies at the edge of the
-drawing; two people's shoes at the door; the drawing's gap faces the mirror.]
+That is what the room has always done. It does not remove the cause. It puts a cause in your hand
+and dares you to price it.
+
+We did not go back to sleep. We packed the ledger and the inventory and the album and the tags. We
+sat up until dawn, and at dawn I wrote the note the police would find on my table in December, and
+we went to Kuramae.
+
+[IMAGE 19.5 — a flat floor at dawn, grey light: a six-mat room drawn in the dust, extending from
+the corner where a black-lacquer mirror stands; a tape measure lies at the edge of the drawing;
+two people's shoes at the door; the drawing's gap faces the mirror.]
 
 
 <!-- 20-the-tag-box.md -->
@@ -4801,6 +4748,14 @@ YAMAMURA — this year.
 SAKAGUCHI RIE — this year.
 
 And thirteen others, all living, all tagged, all with dates still to come.
+
+Aoi copied them onto the back of a market flyer and arranged them before she understood why. It
+took her an hour to see it. It is below.
+
+[IMAGE 20.1b — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
+surname-only labels with districts, set out like furniture around a central blank; no two
+related names adjacent; three labels ringed in red; a margin note reads "reads like a room, not
+a phone book."]
 
 [IMAGE 20.2 — a diagram: a two-column chart, drawn by hand. Left column: the twelve 1958
 names and their front dates. Right column: the nineteen living names and the blurry
@@ -5174,12 +5129,17 @@ the four documents laid side by side; the doorway open behind him.]
 And there it was. The whole account, turned over one last time.
 
 Kanzaki Mitsuko, the collector. The woman who bought a room back one object at a time. The
-witness who could not speak. And — the thing no one had seen, not Aoi, not Mikami, not me —
-the *author*. She had not just built the room. She had built the *route*. She had spent
-thirty-five years, through two hired hands she kept from ever meeting, moving the pieces of
-her testimony into the only arrangement that could deliver it: a chain of people who each held
-one document, and one person, at the end, who held none, and who would have to walk into the
-room and read it, and the room would be complete, and the truth would be told.
+witness who could not speak.
+
+And the thing no one had seen, not Aoi, not Mikami, not me: the *author*.
+
+She had not just built the room. She had built the *route*. She had spent thirty-five years,
+through two hired hands she kept from ever meeting, moving the pieces of her testimony into the
+only arrangement that could deliver it.
+
+A chain of people who each held one document. And one person, at the end, who held none — who
+would have to walk into the room and read it. Then the room would be complete, and the truth
+would be told.
 
 The deaths were not the crime. The deaths were the *delivery*. And the man in the grey coat
 was not the villain in the way the account had wanted one. He was half a messenger, and he had

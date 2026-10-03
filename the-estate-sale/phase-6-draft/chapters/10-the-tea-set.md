@@ -218,22 +218,38 @@ I said yes.
 
 She divided the work the way you divide a ledger. The living names were mine: the ones who
 had held a piece in their hands and could still be talked to, and talked out of it. The ones
-who kept the *records* were handled by someone else — a second correspondent, she never said
-his name, only that he was owed the same thing my family was owed, a silence paid down. I
-never met him. For thirty years I believed I was the only hand; this year I found his
-signature on the backs of tags I had never written, in a hand steadier than mine, and I
-understood that the old woman had kept us apart the way she had kept everything apart — so
-that no one of us would ever know the whole of it.
+who kept the *records* were handled by someone else.
+
+A second correspondent. She never said his name, only that he was owed the same thing my family
+was owed: a silence paid down. I never met him.
+
+For thirty years I believed I was the only hand. This year I found his signature on the backs of
+tags I had never written, in a hand steadier than mine, and I understood that the old woman had
+kept us apart the way she kept everything apart — so that no one of us would ever know the whole
+of it.
+
+She kept the two lists in one book and never let the columns touch. I have drawn them the way she
+ruled them.
+
+[IMAGE 9.7 — a two-column chart drawn on the ruled flyleaf of a bank ledger, in the tea
+narrator's hand: the left column headed "the ones who held a piece," names in a firm upright
+hand, each struck through; the right column headed "the ones who kept the records," ruled off by
+a vertical double line, with a single unreadable signature at the foot; the two columns never
+join.]
 
 I want to be exact about the deaths, because the exactness is the only thing I have left that
-is mine. They were not murders in the way the reader is expecting. Every one of them was a
+is mine.
+
+They were not murders in the way the reader is expecting. Every one of them was a
 *conversation*, and every one ended in an explanation, and the explanation is the same in
-every case: I told them what the room was, and what their tag said, and what their family had
-done in 1958, and they died of the telling. Every one. The doctor wrote heart, or fall, or
-illness, and the doctors were not wrong. You can die of a truth you have been avoiding for
-sixty years. I have been present for every one I was sent to, and each one went quiet at the
-last, the way a person goes quiet when a sum finally comes out. It is faster than poison and
-tidier.
+every case. I told them what the room was, what their tag said, what their family had done in
+1958. And they died of the telling. Every one.
+
+The doctor wrote heart, or fall, or illness. The doctors were not wrong. You can die of a truth
+you have been avoiding for sixty years. I have been present for every one I was sent to, and
+each one went quiet at the last, the way a person goes quiet when a sum finally comes out.
+
+It is faster than poison and tidier.
 
 Except the cup. I did use the cup, tonight, for Kuroda Jun, and I want to say why, because it
 is the one death that was not clean.
