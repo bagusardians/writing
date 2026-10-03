@@ -150,7 +150,19 @@ who had come for my mother's mirror in 2003, and who had come for it again, twen
 later, in a dead woman's sale.
 
 That want is the engine of everything that follows. I am writing it down plainly because
-the reader is owed the cause.
+the reader is owed the cause, and the cause is older than the mirror.
+
+When I was nine, and my mother died, the landlord changed the lock while I was at my
+grandmother's. I came back to a door I could not open, and a man with a key I had never
+seen, and a two-room flat that had been emptied while I stood outside it. The mirror was
+already gone; so was everything. I did not cry. I did the thing I have done ever since,
+which is to make an inventory of what is missing. And I made a decision that year, the
+way a child decides, which was that I would be the one who held the key. It was not a
+child's wish to be let in. It was a child's decision never to be the one locked out.
+
+I have spent twenty years pricing other people's rooms so that I would never have to
+stand outside my own. I have never once noticed that the door I keep opening is the same
+door.
 
 
 ---

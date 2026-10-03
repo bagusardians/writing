@@ -111,6 +111,15 @@ the people, and then one day you are standing in a dead woman's warehouse at mid
 tape measure, and you are not afraid of the room. You are *curious* about it. And curiosity,
 in a room like that, is the same as consent.
 
+I have to write the rest of it, because I have been careful with every disclosure but this one.
+The want did not begin with the mirror. It began when I was nine, on a landing, outside a door
+a landlord had locked against me. I decided that year that I would be the one who held the key,
+and I have been holding keys ever since — other people's flats, other people's locked rooms,
+other people's dead. The room in Yanaka is the first door I have ever been *offered*, and I do
+not know if what I feel when I stand at it is the child's want to be let in, or the child's
+want never to be locked out again, and I am afraid they are the same want, and I am afraid I
+will not find out which until I have opened it.
+
 I did not consent to the deaths. I want that on the record. But I consented to the *room*, and
 the room had a place for me, and it had been waiting for someone who would come to it
 *curious* and not *afraid*, and I had walked in on my own two feet, with a notebook.

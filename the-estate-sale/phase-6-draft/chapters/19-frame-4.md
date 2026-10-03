@@ -221,6 +221,33 @@ He said he had not been afraid. He said he had felt, instead, the thing he feels
 when a repair finally sits true: a kind of *settling*. As if the room had been measuring
 itself against my flat for months and had finally got the dimensions right.
 
+I did not argue with him, and I did not believe him, and the two are not the same as agreeing.
+I am an appraiser, and an appraiser does not accept a cause she cannot see. So I got up and I
+looked at the door, and the door was locked, and the chain was on — and the chain was on
+because I had put it on, and it was still on, which should have closed the question and did
+not. Then I looked at the floor the way I look at a lacquer: for the hand.
+
+The line was too even. That was the first thing. Dust, drawn through, leaves a soft edge; this
+line had a hard one, a clean shoulder, the way a line looks when it is made with a straight
+edge and not a finger. And in the corner, where the doorway of the drawn room opened onto the
+mat, there was a smear the width of a shoe, and on the smear, faint, the smell that is in
+Mikami's shop and on a dead man's coat and on the damp cloth a polite man folds in his pocket —
+old tatami, shellac, cold tea. Not a ghost of it. The smell itself, on the floor of my flat,
+where someone had knelt to draw.
+
+I found the key in the door's outside lock the next morning: my own key, the spare, which I
+had kept in the drawer by the door, and which is now one key short of what it was. Someone had
+let himself in, drawn the room, and left the key, which is what the second hand did, and which
+is how he had left a ring of keys on a hook in a house in Yanaka, for a locksmith, so that a
+door would be found.
+
+I have decided to believe this. I am an appraiser; I believe what the object says. But I have
+also read every account in the folder, and one of them is a woman on a step who felt her hands
+go slow while a polite man stood outside, and I know that the two readings — a man with a key
+and a room that draws itself — are the same reading, and that I do not get to choose the one
+that lets me sleep. That is what the room has always done. It does not remove the cause. It
+puts a cause in your hand and dares you to price it.
+
 We did not go back to sleep. We packed the ledger and the inventory and the album and the tags,
 and we sat up until dawn, and at dawn I wrote the note that the police would find on my table
 in December, and we went to Kuramae.

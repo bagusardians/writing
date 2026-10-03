@@ -130,7 +130,14 @@ I point at the third cup, the one facing the wall, the one I did not fill for hi
 "I'm not the only one with a motive," I say. "The whole estate is full of people the room
 touched. There were thirty-one buyers in that hall, and four of them are dead, and everyone
 who ever held a tagged thing has a reason to want the Kurodas gone. The police will spend a
-year on the tags and never once look at a tea set."
+year on the tags. Every tag points at the room, and the room points at no one, and a room with
+no one in it is exactly what a curse is. Nobody looks at a tea set."
+
+It was a good assumption, and it was wrong, and I did not live long enough to learn how wrong.
+I did not know there was a folder. I did not know an appraiser had spent nine months training
+herself to read a dead woman's hand, or that five deaths closed separately would one day be
+laid on one table and made to match. I understood the room better than the man across from me,
+and I understood the *police* not at all, and that is the whole of my mistake.
 
 He looks at the five cups and understands, finally, that I have made him one of two hundred
 and eleven objects, that his name will go on a blank tag tonight, that the room he spent
@@ -188,7 +195,8 @@ I have one more thing to write and then the tea is ready.
 I wrote to her in 1989. Let me begin there, because the beginning is the only part of this that
 anyone will be able to check.
 
-My name is Toyama Reiko and I am the hand.
+My name is Toyama Reiko and I am a hand. There is more than one of us; that is a thing I did
+not learn until this year, and it is the reason I am writing this down.
 
 That is the thing I have not said to anyone, and I am going to say it here, because this
 document will be found and because I am not going to be caught, and because a bank clerk knows
@@ -208,13 +216,24 @@ read once and then it is true.
 
 I said yes.
 
+She divided the work the way you divide a ledger. The living names were mine: the ones who
+had held a piece in their hands and could still be talked to, and talked out of it. The ones
+who kept the *records* were handled by someone else — a second correspondent, she never said
+his name, only that he was owed the same thing my family was owed, a silence paid down. I
+never met him. For thirty years I believed I was the only hand; this year I found his
+signature on the backs of tags I had never written, in a hand steadier than mine, and I
+understood that the old woman had kept us apart the way she had kept everything apart — so
+that no one of us would ever know the whole of it.
+
 I want to be exact about the deaths, because the exactness is the only thing I have left that
 is mine. They were not murders in the way the reader is expecting. Every one of them was a
 *conversation*, and every one ended in an explanation, and the explanation is the same in
 every case: I told them what the room was, and what their tag said, and what their family had
 done in 1958, and they died of the telling. Every one. The doctor wrote heart, or fall, or
 illness, and the doctors were not wrong. You can die of a truth you have been avoiding for
-sixty years. I have watched it happen nine times. It is faster than poison and tidier.
+sixty years. I have been present for every one I was sent to, and each one went quiet at the
+last, the way a person goes quiet when a sum finally comes out. It is faster than poison and
+tidier.
 
 Except the cup. I did use the cup, tonight, for Kuroda Jun, and I want to say why, because it
 is the one death that was not clean.
@@ -234,3 +253,13 @@ The tea is ready.
 [IMAGE 9.6 — a two-column list in a steady adult hand on a bank ledger sheet: names, dates,
 one a month; nine lines are struck through; the tenth line is a man's name; the sheet lies
 beside a tea service.]
+
+*[The following note is in a second steady hand, and was filed with the account. It is not in
+the bank clerk's.]*
+
+*One correction, for the reader, because a ledger should close clean. The bank clerk took the
+man Kuroda as the room's last word. He was not. He was the room's loudest nuisance and the
+Kurodas' last attempt to buy their name back, and she gave him a cup for it, and I let her,
+because a hand should not know the whole of the list. The room's last word is a reader, not a
+Kuroda, and the reader was not hers to serve and not mine. She died believing she had closed the
+account, and that was the old woman's one mercy, and it was mine to keep.*

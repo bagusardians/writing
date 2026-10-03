@@ -31,6 +31,18 @@ She looked at the ledger, then at him.
 "Look at the pattern. She buys in 1961, the seller dies in 1961. She buys in 1974, the date
 is 1974. She buys in 1991—"
 
+He stopped, and turned the book, and pointed at the top of the page, where the columns were
+ruled. The ledger ran to two columns on every line, and only one of them was ever labelled.
+The ruled heading over the first column read *bought*; over the second, the heading was a year,
+and the years in it ran one ahead of the purchases, and the year at the very top of the second
+column was not a date at all.
+
+"There are two years on every tag," he said. "The one the object remembers and the one the
+person came to. The front is where the object was, in 1958, in the house. The back is when the
+holder arrived — when they died, or when they were filed, or when they were left with the piece.
+She ruled the column for it in 1961 and never named it, because naming it would have made it a
+death list, and she needed it to be a distribution list."
+
 He stopped.
 
 [IMAGE 7.2 — a detail photograph of one ledger line, magnified: a purchase of a lacquer

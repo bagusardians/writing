@@ -26,7 +26,8 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.1.0/the-estate-sale-v1.1.0.md`** (50,326 words).
+The finished book is **`releases/v1.2.0/the-estate-sale-v1.2.0.md`** (v1.1.0: 50,326 words;
+v1.2.0 revision adds ~1,700 words of continuity and logic fixes).
 See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
 
 ## Files
