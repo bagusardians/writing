@@ -42,7 +42,7 @@ I said, tried what.
 He said, "You tried to warn her. That's what he'll write. It's better that way."
 
 I do not know who *he* is. I do not know who *she* is, except that Hana's granddaughter lives
-in the flat beside mine and works at an appraiser's office and has been quiet for a month and
+in the flat beside mine and is an appraiser and has been quiet for a month and
 has a mirror in her front room that she turns to the wall. I have heard her through the wall,
 some nights, moving furniture.
 
@@ -65,10 +65,18 @@ smaller than she is.]
 
 ---
 
-My grandmother did not work in a house in Yanaka. My grandmother was a seamstress. She never
-mentioned a house or a mirror or a payment, and she died when I was six, and I have one
+I told him he had the wrong woman. My grandmother was a seamstress. She never mentioned a
+house in Yanaka, or a mirror, or a payment, and she died when I was small, and I have one
 photograph of her, and I am looking at it now while I type, because it is on the shelf by the
 door, and the man on the step can see it.
+
+He does not argue. He just waits, the way a man waits for you to finish a sum, and I look at
+the photograph again, properly, for the first time in years. My grandmother, young, in a
+doorway, with something wrapped in cloth beside her.
+
+He has the wrong woman. I am not Hana's granddaughter; Hana's granddaughter lives next door.
+But he does not need the right woman. He needs a woman within a wall of her, and a photograph
+he can point at, and a door that opens when he knocks.
 
 He can see it. He has looked at it twice.
 
@@ -134,7 +142,7 @@ stands turned to face the room.]
 ---
 
 The neighbour's account was found the next morning, in her flat, by the police, and it is the
-document that made them reopen four deaths.
+document that made them reopen five deaths.
 
 She had not written it on a phone. She had written it on the back of a photograph, the one on
 the shelf by the door, the one of her grandmother in the doorway with the wrapped bundle, and

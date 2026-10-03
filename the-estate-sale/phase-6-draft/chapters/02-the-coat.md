@@ -155,7 +155,7 @@ sat with his back to the wall and looked at it.
 Around midnight he understood the thing that had been sitting under his skin for three
 weeks.
 
-The tag on the stand was his grandfather's name. But he did not have a grandfather on the
+He had assumed the tag on the stand was his grandfather's name. But he did not have a grandfather on the
 Yano side; his father had been raised by a stepfather, and the Yano name had come into the
 family in a way no one had ever explained. Which meant the tag did not name his
 grandfather.

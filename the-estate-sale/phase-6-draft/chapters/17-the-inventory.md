@@ -39,7 +39,9 @@ assumed the collection was the room. It was not. The room, when the priest bless
 1958, had held thirty-one things, and the rest — the two hundred and eleven of the estate —
 were not the room.
 
-They were the *replacements*.
+They were the *replacements*. The estate had been catalogued as two hundred lots; the
+ledger's count was two hundred and eleven, because a single lot can hold more than one
+tagged thing.
 
 Mitsuko had not been buying back the room. She had been buying back the room *and* its
 absence: every object that was in it when the man died, and every object that had been taken
@@ -94,7 +96,7 @@ reassembled in the only form available to her: a copy. The room she built was a 
 built from memory, one object at a time, because the originals were gone.
 
 Except the two that were removed while she watched: the mirror, which went to the servant,
-and the chest, which went to no one, and which had come back.
+and the chest, which the driver carried out, and which had come back.
 
 She had been doing what the priest did. She had been keeping a record of presence in a room
 she could not enter, and the only way she could hold the record was to buy the room's copies,
@@ -181,7 +183,7 @@ He said the record showed it was paid in 1961. By cash. By a woman.
 
 The same year as the first tag.
 
-Mitsuko had been thirteen in 1961. She had bought a lacquer tray in Asakusa and written a name
+Mitsuko had been fourteen in 1961. She had bought a lacquer tray in Asakusa and written a name
 on it, and she had also bought a stone for a child in the family that had killed her room, and
 she had left the death date blank, and she had kept it blank for sixty years.
 
@@ -211,7 +213,7 @@ The mother asked me to bless the chest, which was already gone, and I blessed th
 it had been. I have never been asked to bless a place before. I did it.*
 
 Aoi sat with that. The mother had asked the priest to bless the *place where the chest had
-been*, in 1958, in the week the chest went out with the servant, and the priest had done it,
+been*, in 1958, in the week the chest went out with the driver, and the priest had done it,
 and had noted it because it was strange, and the note had sat in a parish book for sixty-five
 years.
 

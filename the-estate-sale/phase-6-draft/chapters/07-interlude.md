@@ -100,7 +100,7 @@ discloses.
 The thing I have been hiding is this: I knew about the deaths before I understood the tags,
 and I did nothing, and the reason I did nothing is that I had already begun to want the room.
 
-I noticed the pattern in May. Four deaths, one a month, in the checkout order. I noticed it
+I noticed the pattern as the marks accumulated. Four deaths, one a month, in the checkout order. I noticed it
 and I did not call the police, because I did not have a crime, and because I did not want to
 be a person who had called the police about a coincidence, and because — and this is the
 disclosure — I did not want to be *removed from the room*. I wanted to be the one who

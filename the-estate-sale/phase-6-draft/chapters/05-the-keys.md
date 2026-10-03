@@ -236,7 +236,7 @@ The room is a lock. That is what I have understood in the gap. It was made to ad
 and the shape is a person who reads, and the room has been waiting sixty years for the right
 shape, and every person who touched a tagged thing was a *key* — tried, and some tried, and
 some turned partway. The dead were keys that broke. The filed were keys that fit a false
-tumbril and held. And the last key, the one the lock was cut for, is the one who can read the
+tumbler and held. And the last key, the one the lock was cut for, is the one who can read the
 whole room, and that is not a locksmith and it is not a dealer.
 
 It is a person who prices the dead for strangers, because that person has learned, over eleven

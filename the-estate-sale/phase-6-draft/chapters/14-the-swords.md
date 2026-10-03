@@ -210,7 +210,7 @@ the only person who has read the whole of it and a reader is owed a reason.*
 
 *In 1958 my mother carried a mirror out of that house and was paid to be silent for thirty
 years. She never told me; I found it in a register, the way I find everything, in the year she
-died, when I was fourteen, and I understood two things. First, that a silence can be paid for
+died, and I understood two things. First, that a silence can be paid for
 and passed down. Second, that the only cure for a paid silence is an unpaid truth.*
 
 *Kanzaki Mitsuko spent her life buying the truth back, object by object, and she could not
@@ -218,7 +218,7 @@ speak it, because she was eleven when it happened and because her mother had sig
 a register and because a woman in a house in Yanaka cannot accuse a Kuroda. She could only
 build. So she built, for sixty years, and then in 1989 she wrote to two families whose
 elder had carried her night and been paid to forget it — the driver's line and mine — and she
-asked us to carry it, and we did, because I was my mother's shame and she was my family's, and
+asked us to carry it, and we did, because I was Hana's son, and her shame, and she was my family's, and
 between us we could make one true thing.*
 
 *The deaths were not her design. They were ours, and I want that exact — mine among them. She
