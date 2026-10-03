@@ -60,7 +60,7 @@ name, a date, a place. None of them anyone I had ever met.
 Then he handed me a cassette recorder and said his mother kept ledgers too, and did I want to
 hear the last one.
 
-[IMAGE 5.1 — inside the Kuramae warehouse: two hundred tagged lots on shelving, one hanging bulb,
+[IMAGE 04.1 — inside the Kuramae warehouse: two hundred tagged lots on shelving, one hanging bulb,
 the tags catching light; in the foreground a cassette recorder on a crate, counter at 000.]
 
 On the tape, Kanzaki Mitsuko, seventy-eight, reads a purchase from 1991. Then she stops
@@ -111,7 +111,7 @@ beside them.
 "The date they died," he said. "I started marking it in June. My mother marked her ledger the
 same way. I didn't understand why I did it until I saw the marks in her book."
 
-[IMAGE 5.2 — the attendance sheet: thirty-one buyer names with amounts; four names have a dot
+[IMAGE 04.2 — the attendance sheet: thirty-one buyer names with amounts; four names have a dot
 beside them with a date; photographed on the warehouse floor beside the tagged lots.]
 
 ---
@@ -163,7 +163,7 @@ motive. An appraiser looks for a *sequence*, and the sequence was carrying the m
 had the attendance sheet could read the order of the deaths off the order of the purchases. And
 the order of the purchases was the order of the queue.
 
-[IMAGE 5.3 — a kitchen table covered with papers: a sale listing, a till roll, a timeline of four
+[IMAGE 04.3 — a kitchen table covered with papers: a sale listing, a till roll, a timeline of four
 deaths; red pencil joins each death to a line on the till roll; a cup of coffee gone cold.]
 
 Only Kei and I had the attendance sheet. I called him and asked who else had seen it.
@@ -205,7 +205,7 @@ I did not tell him what I already suspected. That the keys had not appeared. Tha
 been *put* there — by someone who knew a locked room with a key ring is the one thing a man in
 the locksmith trade cannot leave alone.
 
-[IMAGE 5.4 — a timber passage in a Yanaka row-house, evening: a plaster wall with a faint
+[IMAGE 04.4 — a timber passage in a Yanaka row-house, evening: a plaster wall with a faint
 rectangular coldness; on a hook by the front door, a ring of old brass keys; the floor carries
 the marks of a person who sat down and stood up.]
 
@@ -230,6 +230,6 @@ I did not tell Mikami about my dream when he told me about his. We each held it 
 compare, which is, I have come to think, exactly what the room wanted: a room full of people
 holding the same thing and not comparing.
 
-[IMAGE 5.5 — a dark bedroom seen from the floor, low angle, child's eye height: the edge of a bed
+[IMAGE 04.5 — a dark bedroom seen from the floor, low angle, child's eye height: the edge of a bed
 above, a doorway opposite, a faint room laid out on the floor in the dark; the composition is
 deliberately low, as if the viewer is lying down.]

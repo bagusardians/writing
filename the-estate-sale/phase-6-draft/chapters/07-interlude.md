@@ -6,7 +6,7 @@ I am writing this at Mikami's bench in Sendagi because my flat no longer feels s
 because his shop has a lock I do not have to think about, and because he has gone home and
 left me the kettle and the light.
 
-[IMAGE 7.1 — a repairer's bench at night, a single lamp: a notebook open under the light, a
+[IMAGE 07.1 — a repairer's bench at night, a single lamp: a notebook open under the light, a
 kettle steaming on a small gas ring, shellac tins and brushes pushed to the edge; the shop
 beyond the lamp is deep shadow; the bench shows the ghost-rings of many cups.]
 
@@ -32,7 +32,7 @@ The ledger says my name. The tags say my name. The mirror came back to me. A wom
 met, dead in March, arranged her whole estate around my mother, and my mother's mirror, and
 my mother's death, and she has been dead for six months and she is still arranging.
 
-[IMAGE 7.2 — the open ledger on the bench under the lamp: two facing pages of a small upright
+[IMAGE 07.2 — the open ledger on the bench under the lamp: two facing pages of a small upright
 hand, one unlabelled column of dates; on the verso, a name written, rubbed out, and written
 again, the paper furred from erasure; a thumb rests on the line, holding the page flat.]
 
@@ -71,7 +71,7 @@ Somewhere in this shop, in a drawer I have not opened, are thirty years of repai
 Mikami showed me one from 1991. He did not show me the rest. I have not asked to see them
 because I already know what I will find, and I am not ready, tonight, to be right.
 
-[IMAGE 7.3 — a shallow drawer pulled open a hand's width, seen from above: packed paper repair
+[IMAGE 07.3 — a shallow drawer pulled open a hand's width, seen from above: packed paper repair
 tickets with dates in the corner, a bound stub-book, a rubber stamp; the drawer's runners
 show bare wood; the light comes from the lamp behind, leaving the drawer's far end dark.]
 
@@ -86,7 +86,7 @@ sixty years for someone to stand in it has, I think, already chosen who.
 I am standing in it now. That is the sentence. I have written it, and it is true, and I am
 not going to cross it out.
 
-[IMAGE 7.4 — the notebook page itself, close, under the lamp: a line in a firm upright hand,
+[IMAGE 07.4 — the notebook page itself, close, under the lamp: a line in a firm upright hand,
 the last two words freshly written and the ink still wet; above it, the same line struck
 through twice and corrected; the page's shadow falls across the ledger beside it.]
 
@@ -128,5 +128,5 @@ the room had a place for me, and it had been waiting for someone who would come 
 That is the last honest thing I can write in the past tense. The rest is present, and the
 present is where the room is.
 
-[IMAGE 7.5 — a hand at a workbench, writing in a notebook by lamplight; the notebook page is
+[IMAGE 07.5 — a hand at a workbench, writing in a notebook by lamplight; the notebook page is
 headed with a date; beside the hand, the ledger lies open; the shop beyond the lamp is dark.]

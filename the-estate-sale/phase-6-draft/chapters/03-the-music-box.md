@@ -14,7 +14,7 @@ Tokyo tune would go down, the way the words would fit if there were words.
 
 He knew it the way you know a smell.
 
-[IMAGE 4.1 — a cylinder music box on a table, lid open, brass cylinder visible, a small
+[IMAGE 03.1 — a cylinder music box on a table, lid open, brass cylinder visible, a small
 tag tied to the winding key. The comb and pins are in focus; the room behind is dark.]
 
 The tag said *SAKAI — 1958 — YANAKA.*
@@ -48,7 +48,7 @@ when the true answer is a door you do not want a child to open.
 
 The box played the tune again. He had not wound it.
 
-[IMAGE 4.2 — the same box photographed from directly above: the interior lid carries a
+[IMAGE 03.2 — the same box photographed from directly above: the interior lid carries a
 faint hand-drawn diagram, lines and rectangles, the shape of a small room with a chest
 marked against one wall.]
 
@@ -102,7 +102,7 @@ and she could hear it over everything. She said it was the only thing that staye
 "While the rest of it happened," Kei said. "She said the tune stayed nice. She's been
 buying the boxes back for thirty years. There were four of them. You have the last one."
 
-[IMAGE 4.3 — a hallway at night: the music box on a shelf, the tag legible, a child's
+[IMAGE 03.3 — a hallway at night: the music box on a shelf, the tag legible, a child's
 silhouette at the far end of the hall seen only as a shadow on the wall, the photographer's
 own shadow missing.]
 
@@ -141,7 +141,7 @@ morning, he understood that the box had not been waiting for the last owner.
 
 It had been waiting for him.
 
-[IMAGE 4.4 — a hand-drawn map of the Yanesen lanes, in pencil, showing Yanaka Ginza, Nezu
+[IMAGE 03.4 — a hand-drawn map of the Yanesen lanes, in pencil, showing Yanaka Ginza, Nezu
 Shrine, and a lane that runs behind them and is marked with a small tansu symbol and the
 date 1958.]
 
@@ -197,6 +197,6 @@ think someone stopped it at eight."
 He wound it, then, once, at Aoi's nod, and the box played its eight bars, and stopped, and the
 silence that followed was not empty.
 
-[IMAGE 4.5 — a low table in a Tateishi flat: the open music box between two cups of tea; a
+[IMAGE 03.5 — a low table in a Tateishi flat: the open music box between two cups of tea; a
 woman's hand rests beside it; the box's cylinder is visible through the lid, its pins catching
 the lamplight; outside the window, the alley and a laundromat sign.]

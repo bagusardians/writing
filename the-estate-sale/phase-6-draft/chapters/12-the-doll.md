@@ -14,7 +14,7 @@ there.
 
 He read it in June.
 
-[IMAGE 11.1 — a bisque-headed doll on a bench, traditional Japanese costume, one hand
+[IMAGE 12.1 — a bisque-headed doll on a bench, traditional Japanese costume, one hand
 repaired; a small tag tied at the wrist in the same small upright hand as the other lots.
 The doll's face is turned away from the camera.]
 
@@ -46,7 +46,7 @@ feeling about the whole month of April.
 
 He opened it.
 
-[IMAGE 11.2 — the unfolded strip of paper: a child's handwriting, a numbered list of names,
+[IMAGE 12.2 — the unfolded strip of paper: a child's handwriting, a numbered list of names,
 the last one set below a ruled line and written in a steadier hand, reading SHIRAI; the
 paper is water-stained and sewn-edge frayed.]
 
@@ -57,7 +57,7 @@ came after.*
 Kubo spread it flat and copied it, because a mender keeps a record of what he touches. The
 copy is below, in his hand, the way he set it out.
 
-[IMAGE 11.2b — a hand-copied table on a repair-shop memo slip: two columns headed ORDER and
+[IMAGE 12.3 — a hand-copied table on a repair-shop memo slip: two columns headed ORDER and
 NAME; twelve numbered rows in a child's rounded script traced faithfully; a ruled line drawn
 across the full width beneath the twelfth; a thirteenth line below the rule in a different,
 steadier hand, with a blank left for the year.]
@@ -114,7 +114,7 @@ somewhere and make them stay thirty years. But you can choose who to buy from, a
 mend for, and whose child to give your card to. She was a customer of everyone in this
 city. She had sixty years to pick."
 
-[IMAGE 11.3 — a shelf in a repair shop at dawn: an open box, a doll inside it now facing
+[IMAGE 12.4 — a shelf in a repair shop at dawn: an open box, a doll inside it now facing
 outward toward the door; the tag on its wrist has been turned blank-side-up; a strip of
 paper lies on the shelf below.]
 
@@ -139,7 +139,7 @@ piece of the room safe, and the room had come to collect.
 In the morning there was a stamp on his counter, and an envelope, addressed in a hand he
 recognised from the tag.
 
-[IMAGE 11.4 — a photograph of a Tateishi drinking-alley (yokochō) at night, narrow, lantern
+[IMAGE 12.5 — a photograph of a Tateishi drinking-alley (yokochō) at night, narrow, lantern
 lit; in the far frame, a child-sized figure seen only from behind, walking away; the
 photographer's presence is implied by a shadow entering the bottom of the frame.]
 
@@ -183,7 +183,7 @@ Inside the doll's other sleeve, sewn into the lining, there was a second slip of
 the small upright hand, older than the first, and on it: *if a child ever comes for you,
 give her this. Tell her she can keep it. Tell her I'm sorry about the room.*
 
-[IMAGE 11.5 — the interior of a doll's sleeve, held open: a slip of paper sewn into the
+[IMAGE 12.6 — the interior of a doll's sleeve, held open: a slip of paper sewn into the
 lining in an old hand; the doll lies on a bench beside a needle and thread; the tag at the
 wrist is visible.]
 
@@ -237,6 +237,6 @@ Kubo said no. But he said she had left a *district*, because he had asked where 
 receipt, and she had said Sendagi, and had given an address three streets from Mikami's
 workshop, and had asked him not to write it down.
 
-[IMAGE 11.6 — a doll repair bench with two dolls, one open-boxed and one wrapped; a ticket
+[IMAGE 12.7 — a doll repair bench with two dolls, one open-boxed and one wrapped; a ticket
 book open to a blank line; a small slip of paper held under a lamp; in the background, the
 shelves of four hundred named boxes.]

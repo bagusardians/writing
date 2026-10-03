@@ -22,7 +22,7 @@ He knew the hand. He had seen it three times that month, on three lots he had bo
 Kanzaki estate, and he had sold two of them, and he had kept the third in the back because
 he could not find a buyer who did not stop reading the tag.
 
-[IMAGE 3.1 — a reuse-shop rack: a heavy grey overcoat on a hanger; a small handwritten tag
+[IMAGE 02.1 — a reuse-shop rack: a heavy grey overcoat on a hanger; a small handwritten tag
 tied with cotton thread, reading KURODA, 1958, YANAKA.]
 
 ---
@@ -82,7 +82,7 @@ born, and whose life was a set of facts his family had never once narrated. A gr
 he never met could have stood in a room in Yanaka in 1958. A name on a tag is not a
 person. It is an heir.
 
-[IMAGE 3.2 — a separate lot in the back room: a dark wooden daishō stand, two sword hooks,
+[IMAGE 02.2 — a separate lot in the back room: a dark wooden daishō stand, two sword hooks,
 with a small tag reading YANO, 1958, YANAKA. It is photographed in dim light.]
 
 ---
@@ -102,7 +102,7 @@ other side of the glass, someone knock politely and wait.
 
 He turned the tag over. On the back, in pencil, small: *still here?*
 
-[IMAGE 3.3 — the reverse of a tag, held in a hand: in faint pencil, the words "still
+[IMAGE 02.3 — the reverse of a tag, held in a hand: in faint pencil, the words "still
 here?" with a date, 1958.]
 
 ---
@@ -138,7 +138,7 @@ already decided and is only waiting for the seller to agree.
 
 "Everything's for sale," the man said, not unkindly. "That's the trade."
 
-[IMAGE 3.4 — the shop exterior at night from across the street: the closed sign, a figure
+[IMAGE 02.4 — the shop exterior at night from across the street: the closed sign, a figure
 seen through the glass standing where the counter is, facing the racks; the photographer is
 outside, at a distance, and the shop's reflection in the window shows one more person than
 the room contains.]
@@ -245,7 +245,7 @@ Aoi asked who he had meant.
 "I thought he meant Mr Yano," Emi said. "Now I think he meant all of us. Anyone who keeps a
 thing another person died holding."
 
-[IMAGE 3.5 — the back room of the reuse shop: a young part-time worker seated beside the
+[IMAGE 02.5 — the back room of the reuse shop: a young part-time worker seated beside the
 daishō stand, a notebook on her knee; the stand's tag is turned to the wall; the shop's front
 window, out of focus, shows a street.]
 
@@ -279,6 +279,6 @@ the journey was a loop, and the loop began at Yanaka and ended at Yanaka, and th
 spent sixty-five years going around it, from hand to hand, while a woman in a house at the
 centre of the loop bought it back every time it reached her.
 
-[IMAGE 3.6 — a stock notebook open on a shop counter: eleven pages of a traced chain, each
+[IMAGE 02.6 — a stock notebook open on a shop counter: eleven pages of a traced chain, each
 owner dated and caused; a margin note at 1958; on the last page, a rough drawn loop from
 Yanaka back to Yanaka; the shop's grey light.]

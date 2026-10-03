@@ -21,7 +21,7 @@ because the panel was *damaged*, and a repaired panel is repainted. A blank pane
 panel was replaced and the painting was never restored, which means whoever owned it wanted
 the screen whole but did not want the fifth panel to show anything.
 
-[IMAGE 17.1 — a six-panel folding screen in a workshop, lit from the side: five panels
+[IMAGE 13.1 — a six-panel folding screen in a workshop, lit from the side: five panels
 painted with a river and bridge scene in gold and ink; the fifth panel is blank, later paper,
 visibly a different age; a small tag hangs from the frame.]
 
@@ -52,7 +52,7 @@ had opened it once, at twelve, and had seen the blank panel, and had been beaten
 "Not beaten," Kei said. "Held. She held me by the arm and made me look at it for an hour.
 She said, 'Now you've seen it, you carry it.' I was twelve. I didn't understand."
 
-[IMAGE 17.2 — a raking-light detail of the blank fifth panel: the faint dark stain bleeding
+[IMAGE 13.2 — a raking-light detail of the blank fifth panel: the faint dark stain bleeding
 through later paper from behind, roughly the shape of a pressed and dragged hand; the paper
 grain is visible; a scale rule lies at the edge.]
 
@@ -83,7 +83,7 @@ And then, in the margin, smaller, in a hand that had steadied with age:
 kept the screen so the river stays next to the blank, and so that the last thing the room
 held is the thing I look at. I am not afraid of it. I am keeping it company.*
 
-[IMAGE 17.3 — the reverse of the detached fifth panel: a brush-written note on the raw back
+[IMAGE 13.3 — the reverse of the detached fifth panel: a brush-written note on the raw back
 of the panel, dark ink, in a careful hand, with a smaller marginal line in an older,
 steadier hand; the panel rests on a workbench beside its frame.]
 
@@ -129,7 +129,7 @@ Yamamura stood in his open workshop and understood, as Kubo had understood, and 
 understood, that he had been filed — that reading the back of a panel is a way of being
 counted, and that the room had been counting readers, not owners, all along.
 
-[IMAGE 17.4 — a workshop at dawn: the space where the screen stood is empty; on the
+[IMAGE 13.4 — a workshop at dawn: the space where the screen stood is empty; on the
 workbench, a single white tag with a name and a date; the door is open onto an empty
 Kagurazaka street; a cup of tea has gone cold.]
 

@@ -14,7 +14,7 @@ in a tagged house is a hole in the record.
 He was a proofreader. He spent his days finding the one wrong word in a page, and he
 recognised the feeling of a document with something missing.
 
-[IMAGE 8.1 — an open photograph album on a low table: black-and-white prints corner-mounted
+[IMAGE 08.1 — an open photograph album on a low table: black-and-white prints corner-mounted
 on card; the album's board cover is water-stained; a slip of paper between two pages is
 blank.]
 
@@ -38,7 +38,7 @@ That is not a room. That is a collection. And the collection grew exactly the wa
 collection grows when a person is buying one thing at a time and placing it, not storing
 it, for a purpose.
 
-[IMAGE 8.2 — a single album page: three photographs of the same six-mat, windowless room,
+[IMAGE 08.2 — a single album page: three photographs of the same six-mat, windowless room,
 taken from slightly different angles; the objects on the walls differ between the three
 photographs.]
 
@@ -64,7 +64,7 @@ centimetres above the tatami.
 
 A child of eleven, sitting behind a tansu, looking into a room she was not supposed to see.
 
-[IMAGE 8.3 — a hand-annotated contact sheet: the same print reproduced, with ruled overlay
+[IMAGE 08.3 — a hand-annotated contact sheet: the same print reproduced, with ruled overlay
 lines and a handwritten calculation in the margin dating the camera height to a child's eye
 level; the tansu is circled.]
 
@@ -91,7 +91,7 @@ Suzuki turned the print over. On the back, in the hand he had spent three days l
 
 *He was going to. I stopped him. Do not look for the blame in her.*
 
-[IMAGE 8.4 — the folded 1958 print: a bare six-mat room; a man on the floor; in the doorway,
+[IMAGE 08.4 — the folded 1958 print: a bare six-mat room; a man on the floor; in the doorway,
 the blurred figure of an adult and, behind her, partially hidden, the small outline of a
 child; the print is visibly creased and repaired with tape.]
 
@@ -121,7 +121,7 @@ and he told himself he would post it in the morning.
 
 The morning, when it came, was not one he was able to use.
 
-[IMAGE 8.5 — a proofreader's flat at night: an envelope on a shelf by the door, stamped; on
+[IMAGE 08.5 — a proofreader's flat at night: an envelope on a shelf by the door, stamped; on
 the table behind it, the fifty prints laid out in a grid; the camera's viewpoint print is
 centred and circled; a chair is pushed back from the table.]
 
@@ -156,7 +156,7 @@ said she kept the mirror instead.*
 Aoi sat in a dead man's flat in Nezu with a photograph of a servant in a doorway and
 understood, at last, whose grandmother the nurse next door had been.
 
-[IMAGE 8.6 — a photograph held in two hands: a young woman in the doorway of an old house,
+[IMAGE 08.6 — a photograph held in two hands: a young woman in the doorway of an old house,
 work clothes, no smile; beside her a cloth-wrapped bundle the height of a mirror; on the
 reverse edge of the print, a line in a careful hand.]
 
@@ -193,6 +193,6 @@ gone, and it had come to him anyway, at the top of a stairwell, in the wet, in t
 polite man with folded hands, and Aoi understood that the room did not require you to come to
 it. It required only that you read it, and then it came to you.
 
-[IMAGE 8.7 — a ruled sheet of paper, a proofreader's list of ten sentences, the last
+[IMAGE 08.7 — a ruled sheet of paper, a proofreader's list of ten sentences, the last
 underlined twice; the paper is held against a window; behind it, the blurred light of a Nezu
 street; a stamp lies on the table beside it, unused.]

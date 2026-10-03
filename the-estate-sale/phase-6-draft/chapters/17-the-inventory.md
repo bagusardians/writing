@@ -25,7 +25,7 @@ Ono read it in October, on a hunch, because a woman had come to the temple askin
 house on the lane, and because he was the kind of priest who answered a question by going to
 the record.
 
-[IMAGE 16.1 — a temple storehouse: a wooden box open on a low bench, papers in bundles,
+[IMAGE 17.1 — a temple storehouse: a wooden box open on a low bench, papers in bundles,
 incense in the cold air; one sheet is unfolded, in a careful brush hand, headed with a date
 in 1958 and the name of a house.]
 
@@ -56,7 +56,7 @@ Twenty-nine were still there. Two were already gone.
 
 Ono looked at the two, and one of them was the mirror.
 
-[IMAGE 16.2 — a brush-written inventory sheet, numbered lines, each object named in a column;
+[IMAGE 17.2 — a brush-written inventory sheet, numbered lines, each object named in a column;
 two lines are circled in later pencil, one of them reading "kagami" (mirror), with a margin
 note in a different hand indicating it was already removed.]
 
@@ -100,7 +100,7 @@ She had been doing what the priest did. She had been keeping a record of presenc
 she could not enter, and the only way she could hold the record was to buy the room's copies,
 and the copies were, to her, the room.
 
-[IMAGE 16.3 — Aoi's hand-drawn comparison: the priest's thirty-one objects on the left,
+[IMAGE 17.3 — Aoi's hand-drawn comparison: the priest's thirty-one objects on the left,
 the estate's two hundred and eleven on the right, lines joining each original to the
 replacement she bought for it; two originals have no replacement, and one replacement, the
 chest, has no origin; the chest is drawn at the crossing.]
@@ -139,7 +139,7 @@ She underlined the last line.
 And then, because she had by then understood what the chest in the warehouse was for, and who
 the blank tag belonged to, she went to Kuramae.
 
-[IMAGE 16.4 — a low table by lamplight: four documents laid side by side — a brush inventory,
+[IMAGE 17.4 — a low table by lamplight: four documents laid side by side — a brush inventory,
 a bound ledger, a photograph album, a box of tags — and a notebook open below them with a
 handwritten line; a black-lacquer mirror stands against the wall behind, turned to face the
 room.]

@@ -40,7 +40,7 @@ The phone has forty-one percent. The room has no doorway. The photograph has bot
 I take the fourth photograph again. The doorway is still there, smaller, as if it has
 noticed me noticing it.
 
-[IMAGE 2.1 — the fourth photograph: a woman's reflection in a cracked mirror; behind her,
+[IMAGE 01.1 — the fourth photograph: a woman's reflection in a cracked mirror; behind her,
 where the wall should be, a low pale doorway into a windowless six-mat room.]
 
 ---
@@ -117,7 +117,7 @@ I say nothing.
 
 "Read it again," he says.
 
-[IMAGE 2.2 — the flat's front room, wide: a low table, a shelf, the black-lacquer mirror
+[IMAGE 01.2 — the flat's front room, wide: a low table, a shelf, the black-lacquer mirror
 standing on the boards; a man in a grey coat stands behind the woman who is photographing;
 her phone is raised, and in the mirror the same man appears twice, once behind her and once
 further back, in the doorway.]
@@ -179,7 +179,7 @@ he was not cleaning the mirror.
 
 He was cleaning the window.
 
-[IMAGE 2.3 — close: a man's gloved hand wiping a mirror's surface in slow circles; the
+[IMAGE 01.3 — close: a man's gloved hand wiping a mirror's surface in slow circles; the
 reflection in the glass shows a six-mat room with a chest; the cloth leaves a faint
 milky smear.]
 
@@ -223,7 +223,7 @@ The second is that the mirror was not the point. The mirror was never the point.
 is the room, and I have seen it now, and the room is where I am going, and the room is not
 empty.
 
-[IMAGE 2.4 — the phone, later: a camera app open on the desk, screen showing the room with
+[IMAGE 01.4 — the phone, later: a camera app open on the desk, screen showing the room with
 no window; the desk chair is empty; a small white tag, blank, lies on the seat.]
 
 
@@ -256,6 +256,6 @@ be stood in.
 
 The flash goes one more time. I do not take it. The room takes it.
 
-[IMAGE 2.5 — the mirror at night, alone in the flat: the glass shows a six-mat room with a
+[IMAGE 01.5 — the mirror at night, alone in the flat: the glass shows a six-mat room with a
 child in the doorway and a row of tags on the wall; the final tag in the row is blank; the
 photographer is gone from the reflection.]

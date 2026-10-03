@@ -25,7 +25,7 @@ accepted it. His family had not known he had bought an album at an estate sale, 
 had been photographing rooms for nine years, or that he had spent the last month of his life
 reading the back of a photograph of a dead man and finding the one wrong word.
 
-[IMAGE 14.1 — an envelope on a low table, opened, two stamps, a Nezu return address with no
+[IMAGE 15.1 — an envelope on a low table, opened, two stamps, a Nezu return address with no
 name; eleven photographs fanned out beside it; the top one is a black-and-white print of a
 six-mat room.]
 
@@ -67,7 +67,7 @@ Aoi put the photograph down and understood that the collection had a timeline th
 forward as well as back. The tags named the dead. But the objects had a future too, and her
 mother's name and death were in it, and hers was at the end.
 
-[IMAGE 14.2 — the composite of album page four: three black-and-white prints of the same
+[IMAGE 15.2 — the composite of album page four: three black-and-white prints of the same
 six-mat room across three decades, the objects increasing; in all three, a black-lacquer
 mirror stands against the same wall.]
 
@@ -104,7 +104,7 @@ the mirror, and perhaps other objects, had never left.
 Mitsuko had made the album to be found. It was a witness statement written in photographs,
 folded and unfolded for sixty years.
 
-[IMAGE 14.3 — a hand-drawn diagram by Aoi: two timelines, one running backward from 2023 to
+[IMAGE 15.3 — a hand-drawn diagram by Aoi: two timelines, one running backward from 2023 to
 1958 and one running forward from 1958 to 2023, with the mirror drawn at the crossing point;
 annotations in her hand distinguish "what the tags say" from "what the album shows."]
 
@@ -150,7 +150,7 @@ She underlined *he*.
 
 Then she underlined it again.
 
-[IMAGE 14.4 — a stairwell landing at night, wet: a closed door with a seal, a bag of
+[IMAGE 15.7 — a stairwell landing at night, wet: a closed door with a seal, a bag of
 shopping on the floor, an envelope halfway under the door that has not been posted; the
 camera is at the top of the stairs looking down.]
 

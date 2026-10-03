@@ -20,7 +20,7 @@ myself it was anything else.
 
 I had come for one lot. I told myself that.
 
-[IMAGE 1.1 — wide photograph of the estate hall: eight trestle tables, hanging bulbs, cardboard,
+[IMAGE 00.1 — wide photograph of the estate hall: eight trestle tables, hanging bulbs, cardboard,
 a crowd of anonymous buyers. One tag, on the nearest table, in focus.]
 
 The tag on the mirror said:
@@ -52,7 +52,7 @@ was on the object. The tag named a person.
 At the time I assumed it named the previous owner. Estate sellers do this. *Tanaka — 1974 —
 Ueno.* Who had it, when, where. An object with a history sells faster than one with none.
 
-[IMAGE 1.2 — the anatomy of a tag, hand-drawn beside a photograph of one: three ruled fields
+[IMAGE 00.2 — the anatomy of a tag, hand-drawn beside a photograph of one: three ruled fields
 labelled NAME / YEAR / DISTRICT; over the year field, a pencilled note reads "the year the
 holder came to it"; the tag is creased and tea-stained.]
 
@@ -71,7 +71,7 @@ One was Kuroda.
 
 The other was my own.
 
-[IMAGE 1.3 — a photograph of a table of lots: lacquerware, a vase, folding fans, a brass clock;
+[IMAGE 00.3 — a photograph of a table of lots: lacquerware, a vase, folding fans, a brass clock;
 in the foreground, three tags legible, same small upright hand, name and year and district.]
 
 ---
@@ -159,7 +159,7 @@ had been moving away from the centre for sixty years and had never quite escaped
 
 That name was Kuroda.
 
-[IMAGE 1.4 — a hand-drawn map of central Tokyo with place-names plotted as dots; the dots form a
+[IMAGE 00.4 — a hand-drawn map of central Tokyo with place-names plotted as dots; the dots form a
 dense ring around Yanaka and Nezu, with seven points trailing north-east; annotated in pencil.]
 
 I asked Kei, on the fourth day, whether the name Kuroda meant anything to him.
@@ -206,7 +206,7 @@ first sentence in this account written to me.
 
 It says: *this one comes to the child.*
 
-[IMAGE 1.5 — a small soft-cover notebook, open, in a woman's hand: a numbered list of objects
+[IMAGE 00.5 — a small soft-cover notebook, open, in a woman's hand: a numbered list of objects
 with names and districts; the last entry, the mirror, underlined; below it, one short line.]
 
 ---
@@ -231,6 +231,6 @@ If you are reading this, it has been found twice.
 
 The second finder is you.
 
-[IMAGE 1.6 — a low table in a small flat: an open notebook, a folder tied with tape, a phone
+[IMAGE 00.6 — a low table in a small flat: an open notebook, a folder tied with tape, a phone
 face up; a mirror in the corner turned to the wall; morning light and a laundromat sign beyond
 the window.]
