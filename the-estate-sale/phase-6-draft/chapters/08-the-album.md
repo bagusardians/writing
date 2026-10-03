@@ -73,8 +73,8 @@ kitchen again.
 
 An adult does not photograph her own collection from forty-five centimetres for
 twenty-seven years. If the photographer was the collector, the collector was a child. If
-the collector was a child in 1962, she was born around 1951 — which made her eleven, if the
-room dates from 1958, and eleven is exactly the age at which a child hides behind the
+the collector was a child in 1962, she was born around 1947 — which made her eleven when the
+room was emptied in 1958, and eleven is exactly the age at which a child hides behind the
 tansu, and exactly the age at which the tag list in the ledger begins.
 
 Suzuki had not seen the ledger. He did not need to. The album was the ledger's other side:
@@ -154,7 +154,9 @@ died:
 said she kept the mirror instead.*
 
 Aoi sat in a dead man's flat in Nezu with a photograph of a servant in a doorway and
-understood, at last, whose grandmother the nurse next door had been.
+understood, at last, that the woman was Hana — her own grandmother — carrying the mirror out
+of the house in Yanaka, the same mirror that would end up in her mother's flat in Tateishi,
+and then in her own.
 
 [IMAGE 08.6 — a photograph held in two hands: a young woman in the doorway of an old house,
 work clothes, no smile; beside her a cloth-wrapped bundle the height of a mirror; on the

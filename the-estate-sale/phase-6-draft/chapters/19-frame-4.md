@@ -132,7 +132,9 @@ I had gone to bed with the flat clean. I am an appraiser; I do not leave a floor
 morning the room was there, in Tateishi, three kilometres from the warehouse, drawn the way you
 draw a room you are being invited into.
 
-I am going to Kuramae tomorrow with Mikami and the tape measure. I am going to the gap. I am going
+I am going back to Kuramae with Mikami and the tape measure. Not tonight, and not tomorrow —
+there was still the market in December to get through first, the tag box I would find there, the
+last three weeks of the year. But soon. I am going to the gap. I am going
 to let him measure the last piece, and then I am going to decide what to do about the fact that the
 last piece has my name on it.
 

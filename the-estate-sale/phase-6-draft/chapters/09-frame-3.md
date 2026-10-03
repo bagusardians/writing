@@ -15,8 +15,9 @@ been able to see.
 
 Here is what I had.
 
-Eleven stories. Eleven people who had held a tagged thing, or been named on one, or come close
-enough to the room to be given a tag of their own. Four were dead. Two — Mikami and Kubo — had
+The folder held the statements I had gathered. Each was a person who had held a tagged
+thing, or been named on one, or come close enough to the room to be given a tag of their
+own. Four were dead. Two — Mikami and Kubo — had
 been *filed*. That was Kubo's word. I adopted it because it was exact: kept alive, kept silent,
 kept in place like an object on a shelf.
 
@@ -29,8 +30,10 @@ the line on the back of the comb and on the back of Yano's photograph.
 A hand I had begun to call, in the folder, the hand of the *came-after*. The child's list in the
 doll had a thirteenth name below a line. *The one who came after.*
 
-I did not know whose hand it was. I know now. In October I did not, and I want the record to show
-how close I got and how wrong I was at the same time.
+The locksmith in Yanaka, who wrote his account in the room itself, was in the folder too — the
+only one of the eleven who never came to me and whose pages I never had to collect. I did not
+know whose hand it was. I know now. In October I did not, and I want the record to show how
+close I got and how wrong I was at the same time.
 
 [IMAGE 09.2 — three tags side by side on a dark bench, macro: the same small upright hand on each,
 name, year, district; on the third the strokes are steadier, the pressure different; a finger

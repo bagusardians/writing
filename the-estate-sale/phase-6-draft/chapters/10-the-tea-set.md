@@ -26,7 +26,7 @@ Steam is just beginning to rise.]
 I will tell the reader who I am, because the cup facing the wall has my grandfather's name
 and the cup facing the room has mine, and I want to be clear about which is which.
 
-I am Toyama Reiko. I am forty-one. I work in a bank in Asakusa and I have never hurt
+I am Toyama Reiko. I am sixty-two. I work in a bank in Asakusa and I have never hurt
 anyone, and this afternoon I am going to kill a man, and I have been preparing it the way
 you prepare a transfer: in order, in silence, with everything reconciled.
 
@@ -36,7 +36,7 @@ told me one thing, once, when I was fourteen and he was dying, and he told it th
 hand someone a live coal: quickly, with both hands, and then you let go.
 
 He said: "In 1958 there was a night at the Kanzaki house. I drove Kuroda there. I drove
-home alone. I was paid to say I was not there, and I have said it for thirty years, and I
+home alone. I was paid to say I was not there, and I have said it for twenty years, and I
 am telling you now because I do not want to die with only his version."
 
 He did not say what happened. He did not have to. A man who is paid to say he was not there

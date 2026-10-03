@@ -12,7 +12,7 @@ Two hundred lots on eight trestle tables. Every lot tagged, every tag in the sam
 and upright. The sale was in Kiyosumi-Shirakawa, in a warehouse someone had swept out and strung
 with bulbs.
 
-Kanzaki Mitsuko had died in March, at seventy-eight, in a house in Yanaka she had not left in
+Kanzaki Mitsuko had died in March, at seventy-six, in a house in Yanaka she had not left in
 eleven years. Her son had emptied the house into this room and was selling it by the piece.
 
 I buy estates. I price the dead for strangers. I am good at it, and I have never once told

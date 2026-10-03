@@ -7,7 +7,8 @@ I took the job because the mirror told me to.
 That is not true. I took it because Kanzaki Kei called three days after the sale and said he had
 two hundred lots still in the warehouse in Kuramae, unsold, and would I appraise them. I said yes
 before he finished the sentence, because a mirror had walked into my mother's flat in 2003 and
-walked out again wearing a stranger's name.
+walked out again wearing a stranger's name. I did not go until September. I told myself I was
+busy, and I was not busy; I was afraid of what the tags would say.
 
 Mikami told me not to. He said it twice. The second time he was repairing a joint on a tansu and
 would not look up.
@@ -63,7 +64,7 @@ hear the last one.
 [IMAGE 04.1 — inside the Kuramae warehouse: two hundred tagged lots on shelving, one hanging bulb,
 the tags catching light; in the foreground a cassette recorder on a crate, counter at 000.]
 
-On the tape, Kanzaki Mitsuko, seventy-eight, reads a purchase from 1991. Then she stops
+On the tape, Kanzaki Mitsuko, seventy-six, reads a purchase from 1991. Then she stops
 mid-sentence. Then, very quietly, one line, not for the tape:
 
 *"It was me. It has always been me. But she said it was her, and I let her."*
@@ -97,7 +98,8 @@ He looked at the floor.
 are the buyers dying?"
 
 He said the sale was in April. Thirty-one buyers. He had kept their names, because he keeps sales
-records. In the six months since, four of the thirty-one had died.
+records. In the months since — June, July, August, September — four of the thirty-one had died,
+one a month.
 
 "Four," I said.
 
@@ -145,7 +147,7 @@ know I was, in some way I could not yet prove, part of the estate.
 
 ---
 
-In May I read everything I could about the estate without asking anyone. The listing, the lot
+That September I read everything I could about the estate without asking anyone. The listing, the lot
 photographs, the terms. And twenty times, the two sentences Kei had given me:
 
 *she'd say, 'because it's not finished,'*
@@ -211,7 +213,7 @@ the marks of a person who sat down and stood up.]
 
 ---
 
-The dream came in June.
+The dream came in October.
 
 I was lying on a floor of six mats, low, at the height of a child. The room was full of objects on
 the walls. Through the doorway a woman stood with her back to me. She was not looking at me. She
@@ -219,7 +221,7 @@ was counting. The count was the objects. Then the count stopped, and she turned,
 face.
 
 That is the first dream and it is the one everyone has. The faceless woman counting. Mikami had it
-in October. The screen restorer had it in December. The locksmith wrote it down before he went to
+the same week I did. The screen restorer had it in December. The locksmith wrote it down before he went to
 Yanaka, though I did not find that until later, in his van, on a page torn from a notepad.
 
 The dream is not a warning. I have decided that. A warning would name the danger. The dream only

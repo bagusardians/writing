@@ -115,7 +115,8 @@ Aoi was quiet.
 
 "The same year the first tag is dated," Hoshino said. "1961. Your grandmother was discharged
 from the house the year Mitsuko started collecting. She had been paid — we know that from the
-mirror — and she had kept the mirror since the night, which was the weapon, and she never
+mirror — and she had been given the mirror on the night, as payment for her silence, and
+she kept it until she left the house in 1961, and she never
 spoke, and her daughter never spoke, and you grew up in Tateishi not knowing any of it. That's
 the last silence, and it's the one that kept you alive until April."
 

@@ -110,8 +110,8 @@ She wrote on the front of it, in her own hand, a name that was not a person.
 
 *THE READER.*
 
-Then she put it in the box with the others, and closed the lid, and called Mikami, and her
-voice did not shake, and that frightened her more than the tags had.
+Then she put the rest back in the box, and the blank one in her coat pocket, and called
+Mikami, and her voice did not shake, and that frightened her more than the tags had.
 
 [IMAGE 20.4 — the blank tag held to a lamp: a small white tag with a faint pencil drawing of
 a tansu and the words YANAKA, 1958; on its reverse, two small words in a steadier hand; on its

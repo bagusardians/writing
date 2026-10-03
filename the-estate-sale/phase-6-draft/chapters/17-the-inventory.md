@@ -39,7 +39,9 @@ assumed the collection was the room. It was not. The room, when the priest bless
 1958, had held thirty-one things, and the rest — the two hundred and eleven of the estate —
 were not the room.
 
-They were the *replacements*.
+They were the *replacements*. The estate had been catalogued as two hundred lots; the
+ledger's count was two hundred and eleven, because a single lot can hold more than one
+tagged thing.
 
 Mitsuko had not been buying back the room. She had been buying back the room *and* its
 absence: every object that was in it when the man died, and every object that had been taken
@@ -181,7 +183,7 @@ He said the record showed it was paid in 1961. By cash. By a woman.
 
 The same year as the first tag.
 
-Mitsuko had been thirteen in 1961. She had bought a lacquer tray in Asakusa and written a name
+Mitsuko had been fourteen in 1961. She had bought a lacquer tray in Asakusa and written a name
 on it, and she had also bought a stone for a child in the family that had killed her room, and
 she had left the death date blank, and she had kept it blank for sixty years.
 
@@ -211,7 +213,7 @@ The mother asked me to bless the chest, which was already gone, and I blessed th
 it had been. I have never been asked to bless a place before. I did it.*
 
 Aoi sat with that. The mother had asked the priest to bless the *place where the chest had
-been*, in 1958, in the week the chest went out with the servant, and the priest had done it,
+been*, in 1958, in the week the chest went out with the driver, and the priest had done it,
 and had noted it because it was strange, and the note had sat in a parish book for sixty-five
 years.
 

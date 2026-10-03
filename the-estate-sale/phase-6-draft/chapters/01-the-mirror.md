@@ -58,7 +58,7 @@ I am not, by temperament, a person who sees things.
 
 I want that on the record, because the account that follows is full of things I saw, and a
 reader is entitled to ask whether I was the kind of narrator who sees. I am not. I have
-worked with antiques for eleven years and the trade has one iron rule: the object is what
+worked with antiques for twelve years and the trade has one iron rule: the object is what
 it is. It is not what it reminds you of. I have sold a dead child's teddy bear without
 tears because the bear was a 1950s Asahi and worth four thousand yen, and the tears were
 not part of the transaction, and I have never once in my life seen a ghost.
@@ -212,9 +212,10 @@ is slower than it was. The sentences are taking longer to arrive.
 
 He says one more thing before I stop being able to answer him.
 
-He says: "Your mother took it from the house in 1958. The servant's daughter. I've been
-waiting for it to come back to the family since I was a boy, and now it has, and now there
-are only two pieces left, and you're one of them."
+He says: "That mirror came out of the house in 1958, in the hands of a servant who was paid
+to forget it. It has been finding its way back to that family ever since, hand to hand, and
+now it has found you. The mirror is one of the last two pieces of that room still loose in
+the world, and you are holding it, and you are the other."
 
 I do not know what that means. I am writing it down because I am a professional, and because
 the account is the only thing I am still able to finish.

@@ -2,7 +2,7 @@
 
 **Status:** Final release (current).
 **Manuscript:** `the-estate-sale-v1.4.1.md`
-**Word count:** 45,964 excluding image prompts (v1.4.0: 44,955; delta +1,009).
+**Word count:** 46,415 excluding image prompts (v1.4.0: 44,955; delta +1,009).
 **Plates:** 135 (unchanged in count; three captions and one sheet rotation corrected).
 **Structure:** 22 units across three movements (survey, chain, convergence).
 
@@ -68,6 +68,24 @@ A first-reader pass found the opening hard to follow. Four fixes:
    in a doorway-sized rectangle.
 5. **The chapter-1 narrator is disambiguated.** She is a separate appraiser/photographer who names
    Aoi and Mikami in her statement, resolving the deferred identity question.
+
+## Full-read coherence pass
+
+After reading every chapter sequentially from a first-reader's point of view, a numbered list of
+coherence and understandability questions was produced (see
+`phase-7-editorial/reader-questions-v1.4.1.md`) and the blockers were fixed. The largest were:
+
+- **200 vs 211** reconciled (two hundred lots; two hundred and eleven tagged things).
+- **Mitsuko's dates** unified (born 1947; eleven in 1958; fourteen in 1961; died 2023 at 76).
+- **The chapter-1 narrator** disambiguated from Aoi.
+- **Timeline** re-anchored (Frame Two April-September-October; a clearly-marked second Kuramae
+  trip in Chapter 21).
+- **Toyama Reiko's age** fixed (sixty-two, not forty-one).
+- **Hana / the came-after** lineage unified (he is Hana's son, Aoi's uncle).
+- **Mirror and chest** provenance unified (mirror to Hana on the night, kept to 1961; the driver
+  carried out the chest).
+- A typo ("tumbril" to "tumbler"), the blank tag now in Aoi's pocket, and a duplicated coda line
+  removed.
 
 ## What this release does not change
 

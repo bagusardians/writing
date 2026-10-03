@@ -7,6 +7,11 @@
 Mikami brought a tape measure, the ledger, the inventory, the album, and the nineteen tags
 in the box, and we drove to Kuramae in the dark because I did not want to be seen going in.
 
+This was the second time. We had come in November, in the daylight, and measured the
+arrangement and gone home with the numbers and no decision. It had taken the tag box, and the
+market, and the last weeks of December to make the decision. The room had waited sixty-five
+years; it could wait for me to be ready to read it.
+
 The warehouse was exactly as I had left it in my flat, drawn in dust: the two hundred
 objects laid out in the shape of a room, the mats sketched, the doorway marked by two posts,
 the gap in the centre, and in the corner, against the wall, the chest that no one could
@@ -376,7 +381,7 @@ and it was not a schedule.
 It was a *sentence*. She wrote it sixty years ago, one word at a time, and we were the words,
 and I was the last one, and the sentence has now been read.
 
-I am the last piece. I am the last piece because a testimony is not a testimony until someone
+I am the last of it. I am the last because a testimony is not a testimony until someone
 reads it, and I have read it, and I did not stand in it, and I am writing it down for you.
 
 She was eleven. She hit him first. Her mother finished it and took the blame, and the family

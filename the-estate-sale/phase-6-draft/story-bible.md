@@ -42,7 +42,7 @@ Mitsuko kept two hands, deliberately apart so neither knew the whole route:
 - **Toyama Reiko** (driver Toyama Kenji's granddaughter): handled the *living* who still held a
   piece — "the conversation" deaths (Yano, Sakai, Suzuki). She also poisons Kuroda Jun out of
   turn, believing he is the room's last word. She is the "hand" the Tea Set narrator claims.
-- **The came-after** (Hana's grandson, a records-keeper): handled the *witnesses who kept
+- **The came-after** (Hana's son, Aoi's uncle, a records-keeper): handled the *witnesses who kept
   records* — the ones who could not be talked to, only filed. He is the steadier hand on the tag
   backs (*still here?*, *the debt is not the name*, *she's you*). He leaves the keys on the hook,
   draws the room in Aoi's dust, and reveals the whole in the Unlock.
