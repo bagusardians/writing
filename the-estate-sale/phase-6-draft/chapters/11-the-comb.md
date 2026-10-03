@@ -14,7 +14,7 @@ Aoi was not with him. He had not told her he kept the tickets. It was one thing 
 ledger and another to have your own name in it, in your own hand, in a drawer you have
 opened every week for thirty years without reading.
 
-[IMAGE 10.1 — a workshop drawer open to the light: hundreds of repair tickets on loops of
+[IMAGE 11.1 — a workshop drawer open to the light: hundreds of repair tickets on loops of
 string, stacked; the camera isolates one ticket, dated 1991, for a lacquer comb, with the
 owner's surname legible as HANA in a small upright hand.]
 
@@ -47,7 +47,7 @@ write a name; it's how I know a job is done."
 
 "The week I gave it back."
 
-[IMAGE 10.2 — a lacquer comb on a bench, restored, one tooth replaced in slightly different
+[IMAGE 11.2 — a lacquer comb on a bench, restored, one tooth replaced in slightly different
 lacquer; beside it, a receipt book open to a page where the name HANA appears in pencil, in
 the workshop's own hand.]
 
@@ -81,7 +81,7 @@ Except in that estate sale. Except for the thirty-one buyers. Except for the fou
 years of it. She put every witness in a place where the others couldn't reach them, and
 then she waited, and then she sold it all at once, and the room met itself."
 
-[IMAGE 10.3 — a street map of Sendagi and Yanaka with a route drawn in pencil: from a
+[IMAGE 11.3 — a street map of Sendagi and Yanaka with a route drawn in pencil: from a
 timber row-house to a small apartment block three streets away; a date, 1991, and two
 names, MIKAMI and HANA, at either end.]
 
@@ -119,7 +119,7 @@ before and would hear only once more, in Kuramae, at the end, which was the soun
 who has just discovered that his whole careful life was a piece of evidence someone else
 was relying on.
 
-[IMAGE 10.4 — the underside of the comb box: a label pasted inside, in the small upright
+[IMAGE 11.4 — the underside of the comb box: a label pasted inside, in the small upright
 hand, listing eleven dates between 1991 and 2023, each with a name; the last line is blank
 except for a place — SENDAGI — and no date.]
 
@@ -152,7 +152,7 @@ this stairwell, when she was nine, when the visitor came and sat with her grandm
 left with the mirror, and she had been inside the room's route her whole life, and the estate
 sale had only been the moment the route named her.
 
-[IMAGE 10.5 — a stairwell in a small Sendagi apartment block: worn stone steps, a handrail;
+[IMAGE 11.5 — a stairwell in a small Sendagi apartment block: worn stone steps, a handrail;
 on the landing, a child's drawing in chalk, faded; a caretaker's door ajar; light from a
 high window.]
 
@@ -189,6 +189,6 @@ is the only copy of the mirror cover's tag that survives: a name, a year, a plac
 upright hand, sewn into the lining of a cloth cover, cut off and sewn back on, twenty times
 over, and never once thrown away.
 
-[IMAGE 10.6 — a dry cleaner's counter in Nezu, an old shop: a cloth mirror cover on the
+[IMAGE 11.6 — a dry cleaner's counter in Nezu, an old shop: a cloth mirror cover on the
 counter, the lining turned back, a tag half-sewn, thread and scissors; a woman's hands and an
 old man's hands; the shop's shelves of wrapped garments behind.]

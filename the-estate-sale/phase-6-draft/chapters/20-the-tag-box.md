@@ -42,7 +42,7 @@ And thirteen others, all living, all tagged, all with dates still to come.
 Aoi copied them onto the back of a market flyer and arranged them before she understood why. It
 took her an hour to see it. It is below.
 
-[IMAGE 20.1b — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
+[IMAGE 20.6 — a hand-drawn seating chart on the back of a Bōro-ichi flyer: nineteen
 surname-only labels with districts, set out like furniture around a central blank; no two
 related names adjacent; three labels ringed in red; a margin note reads "reads like a room, not
 a phone book."]

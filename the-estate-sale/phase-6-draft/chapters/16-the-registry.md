@@ -22,7 +22,7 @@ expected: a man, Kuroda Genji, listed not as family but as a temporary resident 
 household, for the year 1958, with a date of removal that matched the date he was found in
 the pond at Inokashira.
 
-[IMAGE 13.1 — a certified koseki document on an archive table under a lamp; columns of
+[IMAGE 16.1 — a certified koseki document on an archive table under a lamp; columns of
 names, dates, and places; one line is magnified in the composition, showing a temporary
 resident entry for 1958 and a removal date.]
 
@@ -50,7 +50,7 @@ died there in March.
 That is not grief. Grief leaves. That is a woman keeping watch over a document she could not
 change.
 
-[IMAGE 13.2 — a hand-drawn genealogy of the Kanzaki and Kuroda households in pencil: two
+[IMAGE 16.2 — a hand-drawn genealogy of the Kanzaki and Kuroda households in pencil: two
 family trees joined by a single dotted line marked 1958; beside the Kuroda side, a small
 tombstone symbol and the word INOKASHIRA.]
 
@@ -119,7 +119,7 @@ left, and she took the mirror, which was the weapon, and she never spoke, and he
 never spoke, and you grew up in Tateishi not knowing any of it. That's the last silence, and
 it's the one that kept you alive until April."
 
-[IMAGE 13.3 — two certified documents side by side on the archive table: the Kanzaki
+[IMAGE 16.3 — two certified documents side by side on the archive table: the Kanzaki
 register and the Kuroda register, each with a single line circled; between them, a small
 handwritten filing note dated 1961 with the word EMPLOYMENT underlined.]
 
@@ -150,7 +150,7 @@ pocket and did not call the police, because she did not yet have a crime, only a
 and because she had begun to understand that the room preferred its witnesses silent, and
 that being preferred was very close to being chosen.
 
-[IMAGE 13.4 — a kitchen table in the morning: a folder open, photographs face down in a
+[IMAGE 16.4 — a kitchen table in the morning: a folder open, photographs face down in a
 row; on the first photograph, a small handwritten tag taped in place, reading HOSHINO, 2023,
 MITAKA; a cup of tea gone cold.]
 

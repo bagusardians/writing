@@ -5,7 +5,7 @@
 By October I had a folder. The folder had a method, and the method was the only thing that made
 the nights bearable.
 
-[IMAGE 9.1 — a cardboard folder open on a workbench, seen from above, each document on its own
+[IMAGE 09.1 — a cardboard folder open on a workbench, seen from above, each document on its own
 sheet: a ledger leaf, a torn photograph, two tags, a repair ticket, a register extract; a pencil
 and a loupe lie across the edge; the light is a single bench lamp.]
 
@@ -32,7 +32,7 @@ doll had a thirteenth name below a line. *The one who came after.*
 I did not know whose hand it was. I know now. In October I did not, and I want the record to show
 how close I got and how wrong I was at the same time.
 
-[IMAGE 9.2 — three tags side by side on a dark bench, macro: the same small upright hand on each,
+[IMAGE 09.2 — three tags side by side on a dark bench, macro: the same small upright hand on each,
 name, year, district; on the third the strokes are steadier, the pressure different; a finger
 enters the frame at the edge, not yet touching.]
 
@@ -56,7 +56,7 @@ room. The eleven were the paperwork. You kept the repair tickets, Mikami. Hoshin
 registers. Ito kept the blades, and blades have tangs, and tangs carry marks. She bought silence
 by owning the people who filed things."
 
-[IMAGE 9.3 — the catalogue spread: a long sheet ruled into two hundred-odd lines, each a name, a
+[IMAGE 09.3 — the catalogue spread: a long sheet ruled into two hundred-odd lines, each a name, a
 year, a district; eleven lines ringed in pencil; a hand-drawn route on a map beside it, three
 roads running out to Mitaka, Fuchū, and Kasukabe; a cup has left a ring on the corner.]
 
@@ -112,7 +112,7 @@ thing that needed to be done, and I didn't want it in the sale."
 
 I asked him what it said.
 
-[IMAGE 9.4 — a charred tag held on an open palm: mostly gone, one surviving corner with two
+[IMAGE 09.4 — a charred tag held on an open palm: mostly gone, one surviving corner with two
 legible characters and the year 1958; the ash has smudged the lines beneath; the hand holding it
 is unsteady, out of focus at the edge.]
 
@@ -168,11 +168,11 @@ it was a name and a year and a place, and the name was not the name of the woman
 
 He said the woman who brought it was not the owner. She was keeping it for someone.
 
-[IMAGE 9.5 — a page from the folder held at an angle: the twelve-column ledger leaf, the twelfth
+[IMAGE 09.5 — a page from the folder held at an angle: the twelve-column ledger leaf, the twelfth
 column dated forward and rubbed out beside a surname; a hairline scratch runs across the page
 where the pen pressed too hard; the bench lamp throws the spine's shadow across the columns.]
 
-[IMAGE 9.6 — a dry cleaner's receipt, 2003, for one mirror cover, one hundred and twenty yen,
+[IMAGE 09.6 — a dry cleaner's receipt, 2003, for one mirror cover, one hundred and twenty yen,
 cash; on the reverse, in a hand that is not the shop's, a name and a year and a place; the
 receipt is creased from being carried in a wallet.]
 
@@ -225,6 +225,6 @@ She was not killing nineteen people. She was *mailing the room*, one package a m
 addresses. The deaths were the deliveries. I was the last address. The package was the account
 you are reading.
 
-[IMAGE 9.7 — a hand-drawn grid of nineteen names in two columns, twelve marked "room" and seven
+[IMAGE 09.7 — a hand-drawn grid of nineteen names in two columns, twelve marked "room" and seven
 marked "route," the columns joined by arrows; one name sits in both columns; a note reads
 "distribution, not deaths"; the grid is drawn on the back of a sale listing.]

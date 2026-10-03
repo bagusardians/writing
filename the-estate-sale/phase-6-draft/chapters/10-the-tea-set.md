@@ -17,7 +17,7 @@ the floor and he was not the woman in the doorway. He was the fourth person, the
 nobody counts, the one who was paid to keep the other three quiet, and he did keep them
 quiet, for sixty years, until the quiet killed him.
 
-[IMAGE 9.1 — a kitchen counter, close: a five-piece tea set arranged in a row, each cup
+[IMAGE 10.1 — a kitchen counter, close: a five-piece tea set arranged in a row, each cup
 with a small handwritten tag tied to its handle, tags turned to face away from the camera.
 Steam is just beginning to rise.]
 
@@ -49,7 +49,7 @@ ever looked.
 
 The water is ready.
 
-[IMAGE 9.2 — a hand tipping a measured spoonful of white powder into one cup, photographed
+[IMAGE 10.2 — a hand tipping a measured spoonful of white powder into one cup, photographed
 from above; the powder dissolves; four other cups are already filled; a tag hangs visible
 on the poisoned cup's handle, reading TOYAMA, 1958, YANAKA.]
 
@@ -109,7 +109,7 @@ looks at the tag, and he reads it, and he says one word, which is my grandfather
 
 "Yes," I say.
 
-[IMAGE 9.3 — the low table seen from the doorway: two men's cups and three untouched cups;
+[IMAGE 10.3 — the low table seen from the doorway: two men's cups and three untouched cups;
 one man seated, upright, both hands flat on the table; the narrator's hands are in the
 frame, holding a teapot, steady; the room is warm and ordinary.]
 
@@ -150,7 +150,7 @@ He does not finish the cup. He does not have to. He sits with his hands flat on 
 and the room goes quiet around him the way rooms do, and I pour the last of the tea into
 the three cups for the people he buried, and I sit down, and I wait.
 
-[IMAGE 9.4 — the tea set photographed after: four cups emptied, one full; the seated man is
+[IMAGE 10.4 — the tea set photographed after: four cups emptied, one full; the seated man is
 slumped forward, face down; a hand is reaching in from the frame's edge to turn the tag on
 his cup face-up, so the name shows — TOYAMA, 1958.]
 
@@ -183,7 +183,7 @@ there would be nothing left to read but his version.
 I could not out-collect him. I am a bank clerk. But I could take the one piece he could not
 buy back after I was done: the man himself. You cannot buy back a cup you have drunk from.
 
-[IMAGE 9.5 — a tea caddy on a counter in a shop in Nezu: a small ceramic caddy with a cloth
+[IMAGE 10.5 — a tea caddy on a counter in a shop in Nezu: a small ceramic caddy with a cloth
 binding and a handwritten tag; a middle-aged woman's hand rests beside it; the shop shelves
 behind hold dusty boxes.]
 
@@ -231,7 +231,7 @@ of it.
 She kept the two lists in one book and never let the columns touch. I have drawn them the way she
 ruled them.
 
-[IMAGE 9.7 — a two-column chart drawn on the ruled flyleaf of a bank ledger, in the tea
+[IMAGE 10.6 — a two-column chart drawn on the ruled flyleaf of a bank ledger, in the tea
 narrator's hand: the left column headed "the ones who held a piece," names in a firm upright
 hand, each struck through; the right column headed "the ones who kept the records," ruled off by
 a vertical double line, with a single unreadable signature at the foot; the two columns never
@@ -266,7 +266,7 @@ hands.
 
 The tea is ready.
 
-[IMAGE 9.6 — a two-column list in a steady adult hand on a bank ledger sheet: names, dates,
+[IMAGE 10.7 — a two-column list in a steady adult hand on a bank ledger sheet: names, dates,
 one a month; nine lines are struck through; the tenth line is a man's name; the sheet lies
 beside a tea service.]
 

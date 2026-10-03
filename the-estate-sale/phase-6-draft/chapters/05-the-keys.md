@@ -21,7 +21,7 @@ a wall. There is no door in it, and no seam, and when I put my palm on it the pl
 cold in one long rectangle the size of a doorway, as if the cold remembers where the hole
 used to be.
 
-[IMAGE 6.1 — photograph of a narrow timber passage in a Yanaka row-house: a plaster wall,
+[IMAGE 05.1 — photograph of a narrow timber passage in a Yanaka row-house: a plaster wall,
 a hand pressed flat against it; beside the wall, a floor plan drawn by hand with a storage
 room marked, and the wall on the plan crossed out in ink.]
 
@@ -80,7 +80,7 @@ person is meant to stand. But I understood it the instant I looked in — the ob
 arranged around a gap, and the gap was the size of a standing person, and the objects all
 faced it, the way furniture faces a bed, or a stage, or a grave.
 
-[IMAGE 6.2 — the interior of the room: walls lined floor-to-ceiling with tagged objects
+[IMAGE 05.2 — the interior of the room: walls lined floor-to-ceiling with tagged objects
 (mirror, coat, boxes, tea set, doll, combs); in the centre of the six mats, an empty
 standing-place; the doorway's light falls on the floor in a long rectangle.]
 
@@ -88,7 +88,7 @@ I sketched it on the back of the job sheet before the door closed, because that 
 with a lock, and a room like that is a lock. Keep the drawing. It is the only plan of the room
 ever made from the inside.
 
-[IMAGE 6.2b — a locksmith's pencil floor plan on the back of a printed job sheet: six mats ruled
+[IMAGE 05.3 — a locksmith's pencil floor plan on the back of a printed job sheet: six mats ruled
 to scale; a doorway slot at the bottom; a doorway-shaped blank at the exact centre; small ticks
 for each wall object clustered so that every one faces the centre; a pencilled arc from the door
 to the gap, labelled "sightline"; the paper is creased and smudged.]
@@ -131,7 +131,7 @@ The door closes.
 
 The key turns from the outside.
 
-[IMAGE 6.3 — from inside the room: the closing door, a slice of corridor light narrowing;
+[IMAGE 05.4 — from inside the room: the closing door, a slice of corridor light narrowing;
 a man's hand at the lock; beyond him, in the corridor, the client's folded hands; on the
 wall beside the door, tags beginning to catch the last light.]
 
@@ -173,7 +173,7 @@ Then I hear him walk away down the passage, unhurried, and I hear the front door
 house open, and close, and lock, and after that there is nothing in the house but the
 counting, and the objects, and the gap, which is shrinking.
 
-[IMAGE 6.4 — the phone's screen in the dark: a live camera view of the six-mat room from
+[IMAGE 05.5 — the phone's screen in the dark: a live camera view of the six-mat room from
 where the narrator stands; the walls tagged; the gap in the centre now occupied by the
 narrator's own silhouette; the doorway behind is closed.]
 
@@ -214,7 +214,7 @@ locksmith knows a thing about doors that no one else knows: a door that has been
 outside is not, by the time you are on the inside of it, a door any more. It is a wall with a
 history. And you do not run at walls.
 
-[IMAGE 6.5 — the phone screen in the dark, low battery: a notes app open, the text of a first-
+[IMAGE 05.6 — the phone screen in the dark, low battery: a notes app open, the text of a first-
 person account; behind the screen, in the room, the walls of tagged objects are in shadow; one
 blank tag lies on the mat in front of the narrator's feet.]
 
@@ -247,6 +247,6 @@ I am not the key. I have known that since the door closed. I was the *pick* — 
 test the shape, the one that fits a moment and then is set down. And I am writing this so that
 whoever comes next knows what the lock is, and does not mistake the pick for the key.
 
-[IMAGE 6.6 — a ring of keys in a dark hand, torchlight from below: twenty-two keys and one
+[IMAGE 05.7 — a ring of keys in a dark hand, torchlight from below: twenty-two keys and one
 empty hook where the twenty-third was; the keys are old, brass and iron; behind them, a door
 that is a wall, with a cold rectangular shadow.]

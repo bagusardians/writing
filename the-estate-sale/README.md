@@ -26,9 +26,9 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.3.0/the-estate-sale-v1.3.0.md`** (~44,955 words excl.
-image prompts; v1.3.0 is the page-turner prose pass on top of v1.2.0's continuity fix — see
-the release changelogs).
+The finished book is **`releases/v1.4.0/the-estate-sale-v1.4.0.md`** (~44,955 words excl.
+image prompts; v1.4.0 is the illustration-specification pass — unique plate labels and
+standalone prompts — on top of v1.3.0's page-turner pass and v1.2.0's continuity fix).
 See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
 
 ## Files
@@ -44,7 +44,7 @@ phase-6-draft/outline.md                  architecture and episode beats
 phase-6-draft/story-bible.md              continuity tracker
 phase-6-draft/chapters/*.md               editable source chapters (22 units)
 phase-7-editorial/edit-report.md          nine novelist/editor rounds
-phase-8-visuals/illustration-prompts.md   129 image plates, 5+ per chapter
+phase-8-visuals/illustration-prompts.md   135 image plates, 5+ per chapter
 ```
 
 ## Setting
@@ -61,9 +61,10 @@ the prose.
 
 ## Status
 
-- **Final, v1.3.0** — released to `releases/v1.3.0/` (v1.2.0 continuity revision; v1.3.0
-  page-turner pass).
+- **Final, v1.4.0** — released to `releases/v1.4.0/` (v1.2.0 continuity revision; v1.3.0
+  page-turner pass; v1.4.0 illustration-specification pass).
 - All eight phase artifacts complete; nine editorial rounds documented in
   `phase-7-editorial/edit-report.md`.
 - ~44,955 words excluding image prompts; target met.
-- Illustrations specified (134 plates) but not generated.
+- Illustrations specified (135 plates) but not generated. Each prompt in
+  `phase-8-visuals/illustration-prompts.md` is standalone and embeds the house style.

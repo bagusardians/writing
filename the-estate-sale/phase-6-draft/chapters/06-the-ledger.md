@@ -11,7 +11,7 @@ Two hundred and eleven entries. Mitsuko bought all her life, one object at a tim
 wrote down for each the purchase, the price, the place, and, in a column she did not label,
 a date that was not the purchase date.
 
-[IMAGE 7.1 — the open ledger on a workbench, two facing pages: columns of purchases in a
+[IMAGE 06.1 — the open ledger on a workbench, two facing pages: columns of purchases in a
 small upright hand; one column, unlabelled, holds dates that do not match the purchases;
 the earliest entry reads 1961.]
 
@@ -45,7 +45,7 @@ death list, and she needed it to be a distribution list."
 
 He stopped.
 
-[IMAGE 7.2 — a detail photograph of one ledger line, magnified: a purchase of a lacquer
+[IMAGE 06.2 — a detail photograph of one ledger line, magnified: a purchase of a lacquer
 comb in Sendagi, dated 1991; the unlabelled column reads 1991; in the margin, in pencil, a
 single small character that looks like a tally.]
 
@@ -84,7 +84,7 @@ voice had changed.
 returned it, and I told myself it was a coincidence, and I have told myself that every year
 since."
 
-[IMAGE 7.3 — a photograph of a workshop wall: dozens of repair tickets on strings, each
+[IMAGE 06.3 — a photograph of a workshop wall: dozens of repair tickets on strings, each
 dated; one from 1991 is centred and legible; beside it, a small photograph of a woman
 receiving a parcel, her face out of frame, her hands accepting the comb.]
 
@@ -102,7 +102,7 @@ pattern.
 Aoi drew it out as a chart and pinned it to the bench, because a pattern you can see is a
 pattern you cannot argue with.
 
-[IMAGE 7.4b — a hand-ruled chart in Aoi's notebook: a horizontal axis of years 1961 to 2023, a
+[IMAGE 06.4 — a hand-ruled chart in Aoi's notebook: a horizontal axis of years 1961 to 2023, a
 vertical axis of names; two hundred small crosses; the crosses march in a single file, one per
 year, and every seventh cross is circled; a red thread runs left to right along the file; the
 last circle is empty, its margin note reading "the one with no name yet."]
@@ -183,7 +183,7 @@ Mikami said nothing. He was looking at the line, and at the child's hand in it, 
 eleven when it was written and had not changed in sixty years, which is the thing about a
 hand: it is the last thing to change, and the first thing to be recognised.
 
-[IMAGE 7.4 — the inside cover of the ledger, lifted from the board: a single line in a small
+[IMAGE 06.5 — the inside cover of the ledger, lifted from the board: a single line in a small
 upright hand, written directly on the board, visible where the cover paper has come loose; a
 magnifying glass rests on the page.]
 
@@ -221,6 +221,6 @@ the older hand was the *testimony* and the younger hand was the *enforcement*, a
 whole thing had been a partnership, and that the partner — the hand — was still out there, and
 was, by the dates, about to reach the end of the list.
 
-[IMAGE 7.5 — two documents photographed side by side, raking light: a tag in the small
+[IMAGE 06.6 — two documents photographed side by side, raking light: a tag in the small
 upright hand, and the reverse of a tag in a steadier hand; a magnifying glass between them;
 the two hands are visibly different in age and pressure.]

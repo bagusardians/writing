@@ -27,7 +27,7 @@ wanted to know who I was. He had asked because he wanted me to tell him who she 
 had, and I had done it in one sentence, on my own step, at nine at night, to a stranger with
 his hands folded.
 
-[IMAGE 19.1 — a doorway at night from inside: a well-dressed older man on the step, hands
+[IMAGE 18.1 — a doorway at night from inside: a well-dressed older man on the step, hands
 folded, politely inclined; the narrator's hand is on the edge of the door; a hallway mirror
 behind her reflects the man at an angle that does not match the doorway.]
 
@@ -59,7 +59,7 @@ He says, "Your grandmother worked in that house. Hana. She took the mirror out, 
 paid, and she never spoke. That makes you family. And family is the only thing left to
 collect."
 
-[IMAGE 19.2 — the doorway from the hall: the visitor's shadow, long, crossing the threshold
+[IMAGE 18.2 — the doorway from the hall: the visitor's shadow, long, crossing the threshold
 into the flat; on the wall of the hall, the narrator's shadow is short and shrinking,
 smaller than she is.]
 
@@ -90,7 +90,7 @@ He is sixty or so. Grey coat, good shoulder. Shoes polished past their age. Hand
 does not smell of anything. He has the face of a man who is kind to strangers as a matter of
 policy.
 
-[IMAGE 19.3 — a shelf by a doorway: a single framed photograph of a young woman in a doorway,
+[IMAGE 18.3 — a shelf by a doorway: a single framed photograph of a young woman in a doorway,
 beside a wrapped, mirror-tall bundle leaning in the corner; the photograph is slightly out of
 focus and the narrator's hand is reaching toward it.]
 
@@ -126,7 +126,7 @@ Knock.
 If she hears this, she knows. If she does not, then this page is the only knock that ever
 reached her.
 
-[IMAGE 19.4 — a wall between two flats, close: a hand against the wall, three faint marks
+[IMAGE 18.4 — a wall between two flats, close: a hand against the wall, three faint marks
 where knuckles struck it; through the wall's other side, unseen, a black-lacquer mirror
 stands turned to face the room.]
 

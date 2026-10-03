@@ -42,7 +42,7 @@ twelve had been added and one had not been taken away — she counted a thirteen
 
 The thirteenth, I am now certain, was the room itself.
 
-[IMAGE 15.1 — a bedroom at night: a black-lacquer dressing mirror in the corner, turned to face
+[IMAGE 19.1 — a bedroom at night: a black-lacquer dressing mirror in the corner, turned to face
 the room; in the glass, faintly, a six-mat room and a small figure in the doorway; the bed is
 empty and the sheets pulled back.]
 
@@ -70,7 +70,7 @@ small upright hand, and the tag was blank.
 
 "Someone's been arranging," I said. "There's a difference."
 
-[IMAGE 15.2 — the Kuramae warehouse: two hundred tagged objects laid out on the floor in the
+[IMAGE 19.2 — the Kuramae warehouse: two hundred tagged objects laid out on the floor in the
 shape of a six-mat room; mats sketched in the dust; a doorway marked by two posts; a chest in the
 corner with a blank tag; two small figures at the edge with a tape measure.]
 
@@ -116,7 +116,7 @@ the person who sees it from the floor. She counted twelve and left a tag for the
 she left the tag blank because she didn't know the name yet. But the chest is in the corner. And
 the chest is where you stand."
 
-[IMAGE 15.3 — a hand-annotated floor plan: the eight-by-fourteen room and the seven-by-twelve
+[IMAGE 19.3 — a hand-annotated floor plan: the eight-by-fourteen room and the seven-by-twelve
 arrangement overlaid; the centre gap marked "set back half a mat"; a note measuring eye height at
 45 cm; a chest symbol in the corner with a blank tag drawn beside it.]
 

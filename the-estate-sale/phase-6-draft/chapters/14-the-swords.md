@@ -15,7 +15,7 @@ both in shirasaya, both unsigned, both with a small tag tied to the stand.
 
 Tag: *KURODA — 1958 — YANAKA*.
 
-[IMAGE 12.1 — a daishō stand on a workshop table, two swords in plain wooden shirasaya
+[IMAGE 14.1 — a daishō stand on a workshop table, two swords in plain wooden shirasaya
 resting on the hooks; a small handwritten tag tied to the stand reading KURODA, 1958,
 YANAKA; a loupe lies beside it.]
 
@@ -51,7 +51,7 @@ years ago. I wasn't allowed in the room. I heard him crying."
 "I was sixteen. I thought it was strange. I asked my mother afterward who he was, and she
 said a customer, and I said customers don't cry, and she said, 'This one does.'"
 
-[IMAGE 12.2 — a close photograph of a sword tang (nakago) with file marks, lit by a
+[IMAGE 14.2 — a close photograph of a sword tang (nakago) with file marks, lit by a
 loupe lamp; a faint second set of stone marks crosses the first at an angle; a small tag is
 tied to the tang.]
 
@@ -96,7 +96,7 @@ them back on the stand, and kept them, and cried, and brought them back to the w
 fifteen years ago. Because the room had a place for the blades. And because he could not finish
 keeping them alone.
 
-[IMAGE 12.3 — the tsuba's reverse: an iron guard photographed close, showing a worn plum
+[IMAGE 14.3 — the tsuba's reverse: an iron guard photographed close, showing a worn plum
 blossom and a family character incised at the edge; the light catches the worn metal.]
 
 ---
@@ -133,7 +133,7 @@ cannot bury.
 "You've been very helpful," said Kuroda Jun, and reached across the table, and put his hand
 flat on the sword, and did not let Ito lift it.
 
-[IMAGE 12.4 — a table from above: two hands, one old and one gloved, both resting on the
+[IMAGE 14.4 — a table from above: two hands, one old and one gloved, both resting on the
 same sword in shirasaya; the tag on the stand between them; the frame is otherwise empty and
 the room behind is dark.]
 
