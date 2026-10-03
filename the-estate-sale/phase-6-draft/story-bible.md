@@ -9,10 +9,17 @@
 | Kanzaki Mitsuko | Dead collector | Frame 1 | Dead 2023 |
 | Kanzaki Sada | Mitsuko's mother | Ep 10 | Dead (1971) |
 | Kuroda Genji | 1958 victim | Ep 2 | Dead 1958 |
+| Sakai Sakutaro | Restorer in the chain | Swords | Died in the sequence |
+| Ito | Appraiser in the chain | Swords | Died in the sequence |
+| Suzuki | Photographer in the chain | Photographs | Died in the sequence |
+| Hoshino | Filed, rescheduled | Inventory | Died later |
+| Sakaguchi | Filed, rescheduled | Inventory | Died later |
+| The Visitor | Neighbour; live POV | The Visitor | Died; absent from the paperwork |
 | Hana | Servant; Aoi's grandmother | Ep 6 | Dead (1989) |
 | Kanzaki Kei | Mitsuko's son | Frame 2 | Killed by Buyer (Ep 10 off-page) |
 | "The Buyer" (Kuroda Jun) | Present-day killer | Ep 4 | Exposed, Unlock |
 | The finder | Recovers the document | Unlock | Unnamed |
+| The second hand | Steadier hand on the enforcement tags | The Comb onward | Revealed in Unlock as another steward |
 
 ## Places
 
@@ -36,14 +43,17 @@
 | 1991 | Mikami restores the comb; owner dies | Ep 8 |
 | 2003 | Aoi's mother dies; mirror taken | Frame 2 |
 | 2023 | Mitsuko dies; estate sold | Frame 1 |
-| Present | Episodes 1–10 | — |
-| Present | Aoi completes the room; dies | Unlock |
+| June–Dec | The chain's scheduled deaths, one per month | Chain |
+| Present | The survey, chain, and convergence | 1–21 |
+| Present | Aoi completes the room; dies | The Room |
 
 ## Rules
 
 - Everything is explicable; nothing supernatural is confirmed.
-- The tags name the 1958 attendees.
-- Images must carry each solution.
+- The tags name the 1958 attendees; later tags name the living as heirs of the dead.
+- Two hands write: a small upright hand (Mitsuko) and a steadier hand (enforcement).
+- Images must carry each solution; the four resolving documents are the ledger, the album,
+  the family register, and the temple inventory.
 
 ## Terminology
 
@@ -63,20 +73,33 @@
 | 1991 repair | Ep 8 | Ep 10 / Unlock |
 | The tansu | Ep 1 | Unlock dimensions |
 | The Buyer's lineage | Ep 4 | Ep 10 |
-| Why present tense | Ep 1 | Unlock reveal |
+| Why present tense | Ep 1 | The Room |
+| The second hand | The Comb | The Room |
+| The count ("one left") | Frame 3 | The Room |
+| The Visitor's absence from the paperwork | The Visitor | The Room |
+| The four resolving documents | Ledger/text | The Room |
 
 ## Continuity log
 
-- Frame 1: establishes Aoi's trade, the mirror, Mikami; bracketed note.
-- Ep 1: mirror lot; live death; visitor for the mirror.
-- Ep 2: coat; first mention of Kuroda Genji.
-- Ep 3: music box; lullaby links to Yanaka.
-- Frame 2: Aoi's mother, 2003, the missing mirror.
-- Ep 4: Buyer appears at Nezu auction; locksmith death.
-- Ep 5: ledger; present-tense slip begins.
-- Ep 6: album; Hana named; camera angle = child.
-- Ep 7: tea set; a narrator kills.
-- Ep 8: comb; 1991 repair; Mikami's secret.
-- Ep 9: doll; tag names a living child.
-- Ep 10: tag box; Buyer revealed; Kei dies.
-- Unlock: room measured; child-view; Aoi dies; document found.
+- Frame One: the estate, Aoi's trade, the finder's note, the mirror lot.
+- The Mirror: mirror lot; live death; polite visitor for the mirror.
+- The Coat: the coat; first mention of Kuroda Genji; the family name on the tag.
+- The Music Box: the counting song; a voice names a father.
+- Frame Two: the warehouse; the cassette; the four dots for the four documents.
+- The Keys: the locksmith; a door that is a wall; a death behind him.
+- The Ledger: the unlabelled column; the frame's first present-tense slip.
+- Interlude: Aoi discloses she wanted the room.
+- The Album: fifty prints; the camera height of a child; Hana named.
+- Frame Three: the cataloguing; two hands identified; "one left."
+- The Tea Set: a narrator closes the room; a death served.
+- The Comb: the 1991 repair ticket; Hana's grave; Mikami filed.
+- The Doll: a child's list sewn into a sash; the room seeded.
+- The Screen: a blank fifth panel; a note on the back; a vigil.
+- The Swords: a family crest on a tang; the blades that did the talking.
+- The Photographs: Suzuki's envelope; the mirror in the album before it belonged.
+- The Registry: a resident removed; decline-to-state; the three silent cases.
+- The Inventory: a priest's list of presence; thirty-one objects; the chest.
+- The Visitor: a neighbour answers a door and is filed.
+- Frame Four: the arrangement; the chest; the drawn room.
+- The Tag Box: nineteen living tags; the edited schedule; the last date.
+- The Room: the confession; both hands revealed; the count completed; the document found.
