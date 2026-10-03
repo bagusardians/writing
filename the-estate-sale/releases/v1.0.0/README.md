@@ -17,7 +17,7 @@ prompt sheet) live in the sibling `phase-*` folders.
 - All eight pipeline phases produced an artifact.
 - Nine editorial rounds completed (see `../../phase-7-editorial/edit-report.md`).
 - Word count verified by the assembly script; no stray artifacts.
-- Illustrations are specified (120 plates) but not generated; see
+- Illustrations are specified (129 plates) but not generated; see
   `../../phase-8-visuals/illustration-prompts.md`.
 
 ## Known carried items

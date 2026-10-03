@@ -26,13 +26,13 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.0.0/the-estate-sale-v1.0.0.md`** (49,886 words).
+The finished book is **`releases/v1.1.0/the-estate-sale-v1.1.0.md`** (50,326 words).
 See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
 
 ## Files
 
 ```
-releases/v1.0.0/the-estate-sale-v1.0.0.md final manuscript (frozen)
+releases/v1.1.0/the-estate-sale-v1.1.0.md final manuscript (frozen, current)
 phase-1-worldbuilding/world-bible.md      cast, setting (real Tokyo districts), spine
 phase-2-style/style-guide.md              locked voice decisions and house rules
 phase-3-voice/style-fingerprint.md        feature-only voice profile
@@ -42,7 +42,7 @@ phase-6-draft/outline.md                  architecture and episode beats
 phase-6-draft/story-bible.md              continuity tracker
 phase-6-draft/chapters/*.md               editable source chapters (22 units)
 phase-7-editorial/edit-report.md          nine novelist/editor rounds
-phase-8-visuals/illustration-prompts.md   120 image plates, 5+ per story
+phase-8-visuals/illustration-prompts.md   129 image plates, 5+ per chapter
 ```
 
 ## Setting
@@ -53,14 +53,14 @@ Kagurazaka, and the Setagaya Bōro-ichi market. All families, houses, and busine
 
 ## Illustrations
 
-Every story ships with at least five image plates: photographs (primary), floor plans,
+Every chapter ships with at least five image plates: photographs (primary), floor plans,
 hand-drawn maps and diagrams, and document photographs. The images are the clue medium; each is decodable from
 the prose.
 
 ## Status
 
-- **Final, v1.0.0** — released to `releases/v1.0.0/`.
+- **Final, v1.1.0** — released to `releases/v1.1.0/`.
 - All eight phase artifacts complete; nine editorial rounds documented in
   `phase-7-editorial/edit-report.md`.
-- 49,886 words excluding image prompts; target met.
-- Illustrations specified (120 plates) but not generated.
+- 50,326 words excluding image prompts; target met.
+- Illustrations specified (129 plates) but not generated.

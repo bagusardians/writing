@@ -135,7 +135,7 @@ captions match the prose.
 
 **Novelist.** Trimmed the Unlock's four-documents passage to a single provenance paragraph
 and let the confession land on its own. Regenerated the illustration sheet from the
-manuscript so all 120 inline plates are represented; every story now carries five or more
+manuscript; every chapter now carries five or more
 plates, with photographs as the primary medium and floor plans, maps, and hand-drawn
 diagrams distributed across the frames and clue stories.
 
@@ -163,5 +163,15 @@ Visitor; Frame Four; The Tag Box; The Room. Word count ~49,900 excluding image p
 | Prose | 5 | Present-tense episodes disciplined; no drift |
 | Fair play | 5 | Images and documents carry every solution |
 | Coherence | 5 | Dates, hands, and objects reconcile |
-| Voice fidelity | 4 | Register holds across 120 plates |
+| Voice fidelity | 4 | Register holds across 129 plates |
 | Theme | 5 | Testimony vs. filing; the reader as last piece |
+
+
+## Post-release note (v1.1.0)
+
+Two chapters sat below the five-plate floor: the Interlude (one plate) and Frame Three
+(two plates). Twelve captions were written into those chapters — four for the Interlude,
+five for Frame Three, plus the three pre-existing Frame Three plates renumbered — so every
+chapter now carries five or more plates and the "five or more per chapter" claim is
+literally true. The image sheet was regenerated to 129 plates with unique labels and
+per-plate camera and lighting. No narrative prose changed; the additions are captions only.
