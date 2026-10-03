@@ -12,15 +12,17 @@ reassembled from memory, one murder at a time.
 
 ## Structure
 
-Ten standalone episodes — each with its own murder and its own images — that secretly
-assemble one larger story, followed by a chronological unlock chapter.
+Three movements, 22 units, told through interlocking testimonies, followed by a
+chronological unlock. Each story has its own trade, its own document, and its own images.
 
-- **Frame:** first person, past tense, presented as the narrator's account.
-- **Live-POV episodes (1, 4, 7):** first person, present tense — narrators being killed,
-  or killing, as they speak.
-- **Case episodes (2, 3, 5, 6, 8, 9, 10):** close third, past.
+- **Frame:** the appraiser's own account, past and present.
+- **Live-POV episodes:** first person, present tense — narrators killed, or killing, as
+  they speak. The reader meets the narrator first and feels the death firsthand.
+- **Case episodes:** close third, past — a different trade and document each time (reuse
+  shop, sound engineer, locksmith, mending, proofreading, banking, antiques, doll repair,
+  screen restoration, sword fittings, genealogy, the priesthood).
 - **Unlock (The Room):** the frame is revealed to be a document written during the
-  narrator's own murder.
+  narrator's own death, and the reader's place in the count is shown.
 
 ## Files
 
@@ -32,26 +34,27 @@ phase-4-research/research-brief.md        real places and trade, sourced and mar
 phase-5-genre/genre-playbook.md           conventions, tropes, comparables
 phase-6-draft/outline.md                  architecture and episode beats
 phase-6-draft/story-bible.md              continuity tracker
-phase-6-draft/chapters/*.md               the draft (13 units)
+phase-6-draft/chapters/*.md               the draft (22 units)
 phase-6-draft/manuscript.md               assembled manuscript (word-counted)
-phase-7-editorial/edit-report.md          four novelist/editor rounds
-phase-8-visuals/illustration-prompts.md   image prompts, 4+ per story
+phase-7-editorial/edit-report.md          nine novelist/editor rounds
+phase-8-visuals/illustration-prompts.md   120 image plates, 5+ per story
 ```
 
 ## Setting
 
 Real Tokyo districts anchor the book: Yanaka, Nezu, and Sendagi ("Yanesen"), Kiyosumi-
-Shirakawa and Kuramae, the Sumida River, Tateishi, Ueno, Asakusa, Kappabashi, and the
-Setagaya Bōro-ichi market. All families, houses, and businesses are fictional.
+Shirakawa and Kuramae, the Sumida River, Tateishi, Ueno, Asakusa, Kappabashi, Mitaka,
+Kagurazaka, and the Setagaya Bōro-ichi market. All families, houses, and businesses are fictional.
 
 ## Illustrations
 
-Each story ships with at least four image prompts: photographs (primary), floor plans,
-hand-drawn sketches, and diagrams. The images are the clue medium; each is decodable from
+Every story ships with at least five image plates: photographs (primary), floor plans,
+hand-drawn maps and diagrams, and document photographs. The images are the clue medium; each is decodable from
 the prose.
 
 ## Status
 
 - Phases 1–8 artifacts complete.
-- Draft is a structural first pass (~8,300 words). The target is ~90,000; expansion is
-  the next task. See `phase-7-editorial/edit-report.md` for carried issues.
+- Manuscript expanded to ~49,900 words excluding image prompts.
+- Nine editorial rounds documented in `phase-7-editorial/edit-report.md`.
+- The current length meets the ~50,000-word target; further expansion is possible.

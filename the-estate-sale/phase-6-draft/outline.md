@@ -1,60 +1,54 @@
-# The Estate Sale — Outline (Phase 6)
+# The Estate Sale — Outline (Phase 6, expanded)
 
 ## Architecture
 
-- **11 units:** 10 episodes + 1 unlock chapter.
-- **Frame:** first person, past tense, presented as Aoi's living account. Revealed after
-  Episode 5 to be a recovered document of her own murder.
-- **Live-POV episodes:** 1, 4, 7 (first person, present).
-- **Case episodes:** 2, 3, 5, 6, 8, 9, 10 (close third, past).
-- **Unlock:** The Room (first person, past → present for the death).
+- **22 units:** 4 frame chapters, 17 stories/interludes, 1 unlock chapter.
+- **Frame:** the appraiser's own account, past and present. Revealed to be a recovered
+  document of her own death.
+- **Live-POV episodes:** The Mirror, The Keys, The Tea Set, The Visitor, The Room
+  (first person, present).
+- **Case episodes:** close third, past, each a different trade and document.
+- **Unlock:** The Room (present; the frame resolves and the reader's place is shown).
 
 ## Act structure
 
 | Act | Units | Movement |
 |---|---|---|
-| I | Frame 1, Ep 1–3, Frame 2 | Aoi takes the job; first death; the trade; provenance reaches 1958 |
-| II | Ep 4–7 | The Buyer appears; direct links; Aoi's mirror; a killing narrated |
-| III | Ep 8–10, Frames | The tags name the living; the Buyer unmasked; Aoi assembles the room |
-| Unlock | The Room | Chronological truth; Aoi's death; the document revealed |
+| I | Frame 1; Mirror; Coat; Music Box; Frame 2; Keys; Ledger; Interlude | Survey: Aoi takes the job, reads the trade, meets the first deaths |
+| II | Album; Frame 3; Tea Set; Comb; Doll; Screen; Swords | Chain: the documents and the two hands emerge |
+| III | Photographs; Registry; Inventory; Visitor; Frame 4; Tag Box; Room | Convergence: the route, the chest, the schedule, the reader |
 
-## The frame reveal
+## Unit beats
 
-- Frames 1–3 read as a present-day investigation. Present tense withheld.
-- **After Episode 5**, the narration slips: a frame scene is written in present tense and
-  does not resume. From there, the reader suspects the account is posthumous.
-- **Unlock** completes it: the account was written while Aoi died. The finder's bracketed
-  note opens the manuscript.
-
-## Episode beats
-
-1. **The Mirror** — live POV. An estate buyer photographs a dressing mirror for a listing;
-   the buyer's own reflection in the photo shows the room from behind. A visitor arrives
-   for the mirror. The narration continues through the killing.
-2. **The Coat** — third past. A reuse shop owner traces a woollen coat's tag to Yanaka,
-   1958; the previous two owners are dead; his third reading of the tag is fatal.
-3. **The Music Box** — third past. A cylinder box plays a lullaby a man has heard only in
-   a childhood house; the tune ties Yanaka to a 1958 night.
-4. **The Keys** — live POV. A locksmith narrates as he opens a locked storage room in a
-   Yanaka house and finds the room arranged inside; the person who hired him is behind him.
-5. **The Ledger** — third past. Mikami reads Mitsuko's ledger: each purchase is dated to
-   the death of its previous owner. The frame slips into present tense here.
-6. **The Album** — third past. A photo album shows the collection photographed in a room
-   that no longer exists; from the camera angle, the photographer was a child.
-7. **The Tea Set** — live POV. A woman narrates, in present tense, laying a tea service and
-   poisoning it, then serving the man who buried 1958.
-8. **The Comb** — third past. A lacquer comb's repair date (1991) matches the year its
-   owner died; Mikami's secret surfaces.
-9. **The Doll** — third past. A child's doll was in the room; its tag names a living child.
-10. **The Tag Box** — third past. Loose tags name the living, including Aoi and Kei; the
-    Buyer is revealed as a Kuroda.
-- **The Room** — Aoi completes the arrangement; Mikami measures the child-view dimensions;
-    the Buyer arrives; Aoi is killed; the document ends and is found.
+1. **Frame One — The Tag** — the estate and the account, with the finder's note.
+2. **The Mirror** — live POV. A doorway in the fourth photograph; a polite visitor.
+3. **The Coat** — a reuse shop owner traces a coat to 1958.
+4. **The Music Box** — a cylinder box plays a counting song; a voice names a father.
+5. **Frame Two — The Estate** — the warehouse, the cassette confession, the four dots.
+6. **The Keys** — live POV. A locksmith opens a door that is a wall.
+7. **The Ledger** — the unlabelled column; the first present-tense slip in the frame.
+8. **Interlude — The Slip** — Aoi discloses that she wanted the room.
+9. **The Album** — fifty prints; the camera height of a child; the wrong word.
+10. **Frame Three — The Method** — the cataloguing; the two hands; "one left."
+11. **The Tea Set** — live POV. A killer narrates the closing of the room.
+12. **The Comb** — the 1991 repair ticket; Hana; Mikami filed.
+13. **The Doll** — a child's list sewn into a sash; the room seeded.
+14. **The Screen** — a blank fifth panel; the note on the back; a vigil.
+15. **The Swords** — a family crest on a tang; the blades that did the talking.
+16. **The Photographs** — Suzuki's envelope; the mirror in the album before it belonged.
+17. **The Registry** — a resident removed; decline-to-state; the three silent cases.
+18. **The Inventory** — a priest's list of presence; thirty-one objects; the chest.
+19. **The Visitor** — live POV. A neighbour answers a door and is filed.
+20. **Frame Four — The Measure** — the arrangement, the chest, the drawn room.
+21. **The Tag Box** — nineteen living tags; the edited schedule; the last date.
+22. **The Room** — the confession, the two hands revealed, the count completed, the
+    document found.
 
 ## Continuity anchors
 
-- The tag hand: small, upright, written to outlast.
+- The tag hand: small, upright; a second, steadier hand for the enforcement.
 - The mirror travels: Yanaka → Sumida → Hana → Aoi's mother → Aoi.
-- Repair date 1991 recurs (Ep 8, Ep 10).
-- The tansu appears in Ep 1 photo, Ep 6 album, Ep 8 memory, Unlock dimensions.
+- The chest: in the room in 1958, removed with Hana, returned to Kuramae.
+- Repair date 1991 recurs (The Comb, The Ledger).
 - Present tense marks death; past tense marks trust.
+- Four documents resolve the crime: ledger, album, register, inventory.
