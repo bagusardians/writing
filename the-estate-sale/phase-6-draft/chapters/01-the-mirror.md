@@ -45,6 +45,15 @@ where the wall should be, a low pale doorway into a windowless six-mat room.]
 
 ---
 
+I should say who I am, because this account will be read by someone who never knew me, and the
+reader will want to know whether I was anyone in particular. I was not. I am an appraiser and
+estate photographer, the same trade as the woman whose account this belongs to — Shirai Aoi, who
+I met twice at sales and who will one day read these pages — and we knew each other the way
+people in a small trade know each other: by our work, and by a restorer in Sendagi we both used,
+a man named Mikami, who repairs what the rest of us only price. This is my statement. It is not
+hers, and it is not about the mirror, and I am writing it on a phone in a flat in Nezu while a
+polite man cleans a mirror that does not need cleaning.
+
 I am not, by temperament, a person who sees things.
 
 I want that on the record, because the account that follows is full of things I saw, and a
@@ -145,9 +154,9 @@ through the upper half I could see the flat.
 The flash goes.
 
 I am still holding the pose when I understand the shutter has taken something I cannot get
-back. The photographer asks me to tilt my chin. I tilt my chin. The crack in the glass runs
-down between us, and in it, small, the room with no window, and a child standing in the
-doorway, watching me price her house.
+back. He tells me to tilt my chin. I tilt my chin. The crack in the glass runs down between
+us, and in it, small, the room with no window, and a child standing in the doorway, watching
+me price her house.
 
 I set the phone down.
 

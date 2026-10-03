@@ -209,3 +209,20 @@ clarification in Frame One or the finder's note would resolve it, but it is left
 
 Applied. Prose delta +575 words, all in the ending and the continuity threads. Captions remain
 135 and unique; the illustration sheet and manuscript reconcile one-to-one.
+
+## Clarity pass (same release, after first-reader notes)
+
+A first reader could not answer three questions from Frame One: what Aoi's job actually is,
+who the named people are, and how a room can have no door. Fixes:
+
+- **Aoi's job:** Frame One now defines the trade (families sell the whole contents, or pay her to
+  clear, price, photograph and resell piece by piece), and states she attended the Kanzaki sale
+  as a *buyer*, not as anyone's agent.
+- **Names on first appearance:** "My name is Shirai Aoi"; Mikami Toru (restorer, Sendagi, friend);
+  Kanzaki Kei (Mitsuko's son, 49, ran the sale).
+- **The room with no door:** the storage-room doorway was plastered and papered flat; a finger-wide
+  gap under the wall let small items be swept through; the wall runs cold in a doorway rectangle.
+- **Chapter-1 narrator:** fixed as a separate appraiser/photographer who names Aoi and Mikami in
+  her statement, resolving the deferred F9 identity question.
+
+Prose delta for the clarity pass: +434 words (total v1.4.1 delta: +1,009).

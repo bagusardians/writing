@@ -20,7 +20,15 @@ eleven years. Her son had emptied the house into this room and was selling it by
 I buy estates. I price the dead for strangers. I am good at it, and I have never once told
 myself it was anything else.
 
-I had come for one lot. I told myself that.
+My name is Shirai Aoi, and the work is simple to say and hard to do. When someone dies and the
+family cannot face the house, they call a person like me. Some families sell me the whole
+contents for one price and walk away. Others keep the house and pay me to clear it, price it,
+photograph it, and sell it piece by piece on the resale platforms. Either way the pricing is
+called an appraisal, and either way the question is the same: what is a dead person's life
+worth, and to whom. I have been answering it for eleven years.
+
+At the Kanzaki sale I was not working for anyone. I was a buyer, and I had come for one lot.
+I told myself that.
 
 [IMAGE 00.1 — wide photograph of the estate hall: eight trestle tables, hanging bulbs, cardboard,
 a crowd of anonymous buyers. One tag, on the nearest table, in focus.]
@@ -78,10 +86,10 @@ in the foreground, three tags legible, same small upright hand, name and year an
 
 ---
 
-That night I called Mikami.
+That night I called Mikami Toru.
 
-He restores furniture out of a timber row-house in Sendagi. He will not tell you what a thing is
-worth. He will tell you what it is made of, and when, and who repaired it, and from that you can
+He restores furniture out of a timber row-house in Sendagi, and he is the closest thing I have
+to a friend. He will not tell you what a thing is worth. He will tell you what it is made of, and when, and who repaired it, and from that you can
 price the world. His shop smells of shellac and cold tea. He knew Kanzaki Mitsuko as a customer
 for thirty years and had never once been inside her house.
 
@@ -164,7 +172,9 @@ That name was Kuroda.
 [IMAGE 00.4 — a hand-drawn map of central Tokyo with place-names plotted as dots; the dots form a
 dense ring around Yanaka and Nezu, with seven points trailing north-east; annotated in pencil.]
 
-I asked Kei, on the fourth day, whether the name Kuroda meant anything to him.
+I asked Kanzaki Kei, on the fourth day, whether the name Kuroda meant anything to him. Kei was
+Mitsuko's son, forty-nine, the man who had emptied the house and run the sale; he answered every
+question I put to him, always a little too fast.
 
 He was quiet longer than the question deserved.
 
@@ -183,6 +193,15 @@ He said he didn't know. Then he said the first sentence in this account that was
 I did not know it.
 
 He said: "She swept them into the storage room. She swept them under the wall."
+
+I did not understand. A room has a door; that is what makes it a room.
+
+"The storage room was walled off years ago," Kei said. "Before I was born. There was a doorway
+once, and someone plastered it over and papered it flat, so the room stayed and the way in went.
+The plaster never reached the floor, though. There is a gap under the wall, a finger's width,
+and my mother swept things through it — letters, a deed, whatever she wanted gone and kept. The
+whole family called it the room with no door. You could stand in the passage and put your hand
+where the doorway had been and the wall was cold in a rectangle, as if the cold remembered."
 
 Under the wall. Into the one room in the house that had no door.
 
@@ -287,6 +306,15 @@ where the wall should be, a low pale doorway into a windowless six-mat room.]
 
 ---
 
+I should say who I am, because this account will be read by someone who never knew me, and the
+reader will want to know whether I was anyone in particular. I was not. I am an appraiser and
+estate photographer, the same trade as the woman whose account this belongs to — Shirai Aoi, who
+I met twice at sales and who will one day read these pages — and we knew each other the way
+people in a small trade know each other: by our work, and by a restorer in Sendagi we both used,
+a man named Mikami, who repairs what the rest of us only price. This is my statement. It is not
+hers, and it is not about the mirror, and I am writing it on a phone in a flat in Nezu while a
+polite man cleans a mirror that does not need cleaning.
+
 I am not, by temperament, a person who sees things.
 
 I want that on the record, because the account that follows is full of things I saw, and a
@@ -387,9 +415,9 @@ through the upper half I could see the flat.
 The flash goes.
 
 I am still holding the pose when I understand the shutter has taken something I cannot get
-back. The photographer asks me to tilt my chin. I tilt my chin. The crack in the glass runs
-down between us, and in it, small, the room with no window, and a child standing in the
-doorway, watching me price her house.
+back. He tells me to tilt my chin. I tilt my chin. The crack in the glass runs down between
+us, and in it, small, the room with no window, and a child standing in the doorway, watching
+me price her house.
 
 I set the phone down.
 

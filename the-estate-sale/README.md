@@ -26,7 +26,7 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.4.1/the-estate-sale-v1.4.1.md`** (~45,530 words excl.
+The finished book is **`releases/v1.4.1/the-estate-sale-v1.4.1.md`** (~45,964 words excl.
 image prompts; v1.4.1 is the post-review ending-and-continuity revision — the narrator now
 refuses the gap and completes the testimony by reading it — on top of v1.4.0's
 illustration-specification pass, v1.3.0's page-turner pass and v1.2.0's continuity fix).
@@ -67,6 +67,6 @@ the prose.
   revision from the reviewer-critic appraisal).
 - All eight phase artifacts complete; nine editorial rounds documented in
   `phase-7-editorial/edit-report.md`.
-- ~45,530 words excluding image prompts; target met.
+- ~45,964 words excluding image prompts; target met.
 - Illustrations specified (135 plates) but not generated. Each prompt in
   `phase-8-visuals/illustration-prompts.md` is standalone and embeds the house style.

@@ -2,7 +2,7 @@
 
 **Status:** Final release (current).
 **Manuscript:** `the-estate-sale-v1.4.1.md`
-**Word count:** 45,530 excluding image prompts (v1.4.0: 44,955; delta +575).
+**Word count:** 45,964 excluding image prompts (v1.4.0: 44,955; delta +1,009).
 **Plates:** 135 (unchanged in count; three captions and one sheet rotation corrected).
 **Structure:** 22 units across three movements (survey, chain, convergence).
 
@@ -52,6 +52,22 @@ in the ending and in the continuity threads the review found inconsistent.
    labels ran out of reading sequence. Both are fixed, so every caption and its prompt now
    correspond one-to-one. The three edited captions (20.4, 21.4, 21.6, 21.8) are updated to
    match the new ending.
+
+## Clarity pass (same release)
+
+A first-reader pass found the opening hard to follow. Four fixes:
+
+1. **Aoi's job is defined on first appearance.** Frame One now states plainly what an estate
+   buyer/appraiser does, the two ways families hire her, and that at the Kanzaki sale she was a
+   *buyer* working for no one, present for one lot.
+2. **The narrator is named on first appearance.** Frame One now says "My name is Shirai Aoi."
+3. **Mikami and Kei are introduced, not name-dropped.** Mikami Toru gets name, trade, and
+   relationship; Kanzaki Kei gets name, age, role, and the fact that he ran the sale.
+4. **The "room with no door" is explained.** The storage room's doorway was plastered and papered
+   flat; a finger-wide gap under the wall let small objects be swept through; the wall runs cold
+   in a doorway-sized rectangle.
+5. **The chapter-1 narrator is disambiguated.** She is a separate appraiser/photographer who names
+   Aoi and Mikami in her statement, resolving the deferred identity question.
 
 ## What this release does not change
 

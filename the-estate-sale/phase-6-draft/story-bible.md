@@ -4,7 +4,7 @@
 
 | Name | Role | First seen | Status |
 |---|---|---|---|
-| Shirai Aoi | Frame narrator, buyer | Frame 1 | Survives; refuses the gap (v1.4.1) |
+| Shirai Aoi | Frame narrator; estate buyer/appraiser, 31 | Frame 1 | Survives; refuses the gap (v1.4.1) |
 | Mikami Toru | Restorer, specialist | Frame 1 | Survives; confesses |
 | Kanzaki Mitsuko | Dead collector | Frame 1 | Dead 2023 |
 | Kanzaki Sada | Mitsuko's mother | Ep 10 | Dead (1971) |
@@ -16,11 +16,24 @@
 | Sakaguchi | Filed, rescheduled | Inventory | Died later |
 | The Visitor | Neighbour; live POV | The Visitor | Died; absent from the paperwork |
 | Hana | Servant; Aoi's grandmother; keeper of the mirror | Ep 6 | Dead (c.2008; Aoi aged 14) |
-| Kanzaki Kei | Mitsuko's son | Frame 2 | Alive; last custodian of the house |
+| Kanzaki Kei | Mitsuko's son, 49; ran the estate sale | Frame 1 (named Frame 2) | Alive; last custodian of the house |
 | Kuroda Jun | Kuroda grandson; buys the estate back | Coat/Swords/Tea Set | Killed by Toyama Reiko (Tea Set) |
 | Toyama Reiko | Driver's granddaughter; clears the living | The Tea Set | One of two hands; dies before the room closes |
 | "The came-after" | Hana's son (Aoi's uncle); steadies the records | The Comb onward | Second hand; reveals the whole in Unlock; alive |
 | The finder | Recovers the document | Unlock | Unnamed |
+| Mirror narrator (ch.1) | Appraiser/photographer; separate statement | The Mirror | Dies in Nezu |
+
+## Clarity note (v1.4.1b)
+- Aoi is a freelance estate buyer/appraiser: families sell her the whole contents, or pay her to
+  clear, price, photograph and resell piece by piece. At the Kanzaki sale she was a *buyer*,
+  working for no one, present for one lot.
+- She is named on first appearance (Frame One). Mikami and Kei are introduced (name, trade, role)
+  on first appearance.
+- The "room with no door" is a storage room whose doorway was plastered and papered flat, with a
+  finger-wide gap under the wall that small objects were swept through; its wall runs cold in a
+  doorway-sized rectangle.
+- The chapter-1 narrator is a *separate* appraiser/photographer (not Aoi, not Naoko); she names
+  Aoi and Mikami in her statement. This resolves the deferred F9 ambiguity.
 
 ## The two hands (revision note)
 
