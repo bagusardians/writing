@@ -84,6 +84,15 @@ faced it, the way furniture faces a bed, or a stage, or a grave.
 (mirror, coat, boxes, tea set, doll, combs); in the centre of the six mats, an empty
 standing-place; the doorway's light falls on the floor in a long rectangle.]
 
+I sketched it on the back of the job sheet before the door closed, because that is what I do
+with a lock, and a room like that is a lock. Keep the drawing. It is the only plan of the room
+ever made from the inside.
+
+[IMAGE 6.2b — a locksmith's pencil floor plan on the back of a printed job sheet: six mats ruled
+to scale; a doorway slot at the bottom; a doorway-shaped blank at the exact centre; small ticks
+for each wall object clustered so that every one faces the centre; a pencilled arc from the door
+to the gap, labelled "sightline"; the paper is creased and smudged.]
+
 ---
 
 I said, "There's a room."
@@ -198,10 +207,12 @@ finished, and that a finished count is a kind of permission.
 The client, through the door, said something I could not hear.
 
 I am writing this in the gap, with the phone at six percent, and I am going to write until the
-count does whatever a finished count does, and I want whoever reads this to know that I did
-not run, not because I was brave, but because a locksmith knows a thing about doors that no
-one else knows: a door that has been opened from the outside is not, by the time you are on
-the inside of it, a door any more. It is a wall with a history. And you do not run at walls.
+count does whatever a finished count does.
+
+I want whoever reads this to know that I did not run. Not because I was brave. Because a
+locksmith knows a thing about doors that no one else knows: a door that has been opened from the
+outside is not, by the time you are on the inside of it, a door any more. It is a wall with a
+history. And you do not run at walls.
 
 [IMAGE 6.5 — the phone screen in the dark, low battery: a notes app open, the text of a first-
 person account; behind the screen, in the room, the walls of tagged objects are in shadow; one

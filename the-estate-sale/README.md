@@ -24,9 +24,17 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 - **Unlock (The Room):** the frame is revealed to be a document written during the
   narrator's own death, and the reader's place in the count is shown.
 
+## Final release
+
+The finished book is **`releases/v1.3.0/the-estate-sale-v1.3.0.md`** (~44,955 words excl.
+image prompts; v1.3.0 is the page-turner prose pass on top of v1.2.0's continuity fix — see
+the release changelogs).
+See `releases/README.md` for the version table. Working drafts live in `phase-6-draft/`.
+
 ## Files
 
 ```
+releases/v1.1.0/the-estate-sale-v1.1.0.md final manuscript (frozen, current)
 phase-1-worldbuilding/world-bible.md      cast, setting (real Tokyo districts), spine
 phase-2-style/style-guide.md              locked voice decisions and house rules
 phase-3-voice/style-fingerprint.md        feature-only voice profile
@@ -34,10 +42,9 @@ phase-4-research/research-brief.md        real places and trade, sourced and mar
 phase-5-genre/genre-playbook.md           conventions, tropes, comparables
 phase-6-draft/outline.md                  architecture and episode beats
 phase-6-draft/story-bible.md              continuity tracker
-phase-6-draft/chapters/*.md               the draft (22 units)
-phase-6-draft/manuscript.md               assembled manuscript (word-counted)
+phase-6-draft/chapters/*.md               editable source chapters (22 units)
 phase-7-editorial/edit-report.md          nine novelist/editor rounds
-phase-8-visuals/illustration-prompts.md   120 image plates, 5+ per story
+phase-8-visuals/illustration-prompts.md   129 image plates, 5+ per chapter
 ```
 
 ## Setting
@@ -48,13 +55,15 @@ Kagurazaka, and the Setagaya Bōro-ichi market. All families, houses, and busine
 
 ## Illustrations
 
-Every story ships with at least five image plates: photographs (primary), floor plans,
+Every chapter ships with at least five image plates: photographs (primary), floor plans,
 hand-drawn maps and diagrams, and document photographs. The images are the clue medium; each is decodable from
 the prose.
 
 ## Status
 
-- Phases 1–8 artifacts complete.
-- Manuscript expanded to ~49,900 words excluding image prompts.
-- Nine editorial rounds documented in `phase-7-editorial/edit-report.md`.
-- The current length meets the ~50,000-word target; further expansion is possible.
+- **Final, v1.3.0** — released to `releases/v1.3.0/` (v1.2.0 continuity revision; v1.3.0
+  page-turner pass).
+- All eight phase artifacts complete; nine editorial rounds documented in
+  `phase-7-editorial/edit-report.md`.
+- ~44,955 words excluding image prompts; target met.
+- Illustrations specified (134 plates) but not generated.

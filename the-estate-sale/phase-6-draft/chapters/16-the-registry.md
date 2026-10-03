@@ -218,7 +218,7 @@ circumstances of the death, and that the circumstances were: an assault upon a m
 the Kanzaki residence; the intervention of the minor's mother; and the death of Kuroda Genji by
 misadventure in the course of that intervention. The Kanzaki register records a resident removed
 on the same date, and a child of eleven in the household, and the child's mother later
-confessed to the death and was never charged. This researcher makes no finding of law. This
+accepted responsibility for the act and was never charged. This researcher makes no finding of law. This
 researcher records only that both registers declined, and that a register that declines is still
 a document, and that a document is still a promise, and that the promise was to the public, and
 that the public has not been told.*
@@ -227,11 +227,20 @@ That is the whole of it, in the language of the archive: the two families declin
 public was never told, and a child grew up inside the refusal and spent sixty years buying it
 back so that someone would read it.
 
-Aoi folded the note into the folder and looked out the window at the lights of Mitaka and
-understood that she had, at last, the one thing the account had been missing since April: a
-document, in an official file, in a government archive, that a stranger could read, that did
-not rely on a ghost or a curse or a room, and that said, in plain bureaucratic Japanese, that a
-man had attacked a child and the child's mother had stopped him and the world had agreed not to
+Aoi read the note twice and set it down, and understood the thing a winter of documents had
+taught her: Hoshino's note is the *state's* version, and the state's version is the last silence
+of all. It says a man died by misadventure and a mother took the blame. It does not say what the
+child did, because the child was never asked, and because a note a researcher is permitted to
+file can only hold what the registers were willing to admit. The whole truth of the blow was not
+in any archive. It was on the inside cover of a ledger, in a child's hand, and Aoi would not find
+it until she stood in the room.
+
+Aoi folded the note into the folder and looked out the window at the lights of Mitaka. She had,
+at last, the one thing the account had been missing since April.
+
+A document. In an official file, in a government archive. Something a stranger could read, that
+did not rely on a ghost or a curse or a room. It said, in plain bureaucratic Japanese, that a man
+had attacked a child and the child's mother had stopped him, and that the world had agreed not to
 say so.
 
 It was not justice. It was a note in a file.

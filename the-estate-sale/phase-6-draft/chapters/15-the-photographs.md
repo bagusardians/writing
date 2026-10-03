@@ -235,12 +235,13 @@ Aoi stood in the empty house with the torch on the list and the phone to her ear
 last pieces together, the way an appraiser closes a provenance.
 
 The chest went out with Hana, the servant, the same night the mirror did. The mirror went to
-Hana as payment. The chest went with the mirror, because the chest was where the child hid,
-and the servant who carried the child out could not carry the mirror *and* the chest, and
-chose — or was told — to take the chest, and the chest went down the Sumida and into the hands
-of whichever family member kept it for sixty years, and it surfaced in a warehouse in Kuramae
-in the autumn, placed by someone who knew exactly what it was, in the corner of the room,
-where it had always stood.
+Hana as payment. The chest went too, because the chest was where the child hid.
+
+Hana could not carry the mirror *and* the chest. She chose — or was told — to take the chest.
+
+The chest went down the Sumida and into the hands of whichever family member kept it for sixty
+years. It surfaced in a warehouse in Kuramae in the autumn, placed by someone who knew exactly
+what it was, in the corner of the room, where it had always stood.
 
 Somebody had kept the chest. Somebody had brought it back. And the only person who could have
 had it, if it went out with Hana, was the person on the other end of the mirror's line.

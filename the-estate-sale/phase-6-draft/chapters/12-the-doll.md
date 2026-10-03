@@ -22,12 +22,15 @@ The doll's face is turned away from the camera.]
 
 ---
 
-Kubo was sixty-eight and he had repaired dolls for forty-one years, and he could tell you
-that a doll is not a toy. A doll is a stand-in. A child gives a doll a name and a history
-and a set of injuries, and the child keeps the doll, and the doll keeps the child's
-childhood, and when the child grows up and cannot bear it, the doll comes to Kubo, and he
-mends it, and it goes back into a box, and the box goes into a cupboard, and that is the
-whole trade: mending the stand-in so the original can rest.
+Kubo was sixty-eight and he had repaired dolls for forty-one years, and he could tell you that a
+doll is not a toy.
+
+A doll is a stand-in. A child gives a doll a name and a history and a set of injuries. The child
+keeps the doll. The doll keeps the child's childhood. And when the child grows up and cannot
+bear it, the doll comes to Kubo, and he mends it, and it goes back into a box, and the box goes
+into a cupboard.
+
+That is the whole trade: mending the stand-in so the original can rest.
 
 He had four hundred dolls in his shop, in boxes, named on the boxes, waiting.
 
@@ -50,6 +53,19 @@ paper is water-stained and sewn-edge frayed.]
 On it, in a child's hand, a list of names. The names on the tags. All twelve of them, in the
 order they appear in the room, with a thirteenth written apart, below a line: *the one who
 came after.*
+
+Kubo spread it flat and copied it, because a mender keeps a record of what he touches. The
+copy is below, in his hand, the way he set it out.
+
+[IMAGE 11.2b — a hand-copied table on a repair-shop memo slip: two columns headed ORDER and
+NAME; twelve numbered rows in a child's rounded script traced faithfully; a ruled line drawn
+across the full width beneath the twelfth; a thirteenth line below the rule in a different,
+steadier hand, with a blank left for the year.]
+
+He set the copy down, and then he understood two things at once. The list was the room, in
+order, from the first object to the last. And the last object on the list was not an object.
+It was a name, and the name had no order number, because the list had run out of numbers at
+twelve, and the thirteenth was waiting for something that had not happened yet.
 
 The thirteenth was a child's name. Kubo looked it up because he could not stop himself,
 which is the whole disease of his trade and hers.
@@ -203,12 +219,13 @@ She had asked: "Is there any way to make a thing that has been read *unread*?"
 Kubo had told her no. You cannot unread a thing. You can only read it differently, or keep it
 from someone else.
 
-And the woman had nodded, and had said, "Then I will keep it from someone else," and had left,
-and Kubo had thought about it for years, and had never understood — until the Hana doll came
-into his shop this spring, with the child's list sewn into its sash, and he had understood that
-the woman in 1993 had been looking for the other slip of paper, the second one, the one he had
-found in the *other* sleeve, and had not found it, and had gone away believing the doll was
-clean.
+And the woman had nodded, and had said, "Then I will keep it from someone else," and had left.
+Kubo had thought about it for years and never understood.
+
+Then the Hana doll came into his shop this spring, with the child's list sewn into its sash. He
+understood then. The woman in 1993 had been looking for the other slip of paper — the second
+one, the one he had found in the *other* sleeve. She had not found it. She had gone away
+believing the doll was clean.
 
 Which meant the doll had been carrying the truth since 1958, and someone had been searching for
 it for thirty-five years, and it had come to Kubo, and he had found it, and he had read it, and

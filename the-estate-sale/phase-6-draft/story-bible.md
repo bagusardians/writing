@@ -16,10 +16,26 @@
 | Sakaguchi | Filed, rescheduled | Inventory | Died later |
 | The Visitor | Neighbour; live POV | The Visitor | Died; absent from the paperwork |
 | Hana | Servant; Aoi's grandmother | Ep 6 | Dead (1989) |
-| Kanzaki Kei | Mitsuko's son | Frame 2 | Killed by Buyer (Ep 10 off-page) |
-| "The Buyer" (Kuroda Jun) | Present-day killer | Ep 4 | Exposed, Unlock |
+| Kanzaki Kei | Mitsuko's son | Frame 2 | Alive; last custodian of the house |
+| Kuroda Jun | Kuroda grandson; buys the estate back | Coat/Swords/Tea Set | Killed by Toyama Reiko (Tea Set) |
+| Toyama Reiko | Driver's granddaughter; clears the living | The Tea Set | One of two hands; dies in the room |
+| "The came-after" | Hana's son (Aoi's uncle); steadies the records | The Comb onward | Second hand; reveals the whole in Unlock |
 | The finder | Recovers the document | Unlock | Unnamed |
-| The second hand | Steadier hand on the enforcement tags | The Comb onward | Revealed in Unlock as another steward |
+
+## The two hands (revision note)
+
+Mitsuko kept two hands, deliberately apart so neither knew the whole route:
+
+- **Toyama Reiko** (driver Toyama Kenji's granddaughter): handled the *living* who still held a
+  piece — "the conversation" deaths (Yano, Sakai, Suzuki). She also poisons Kuroda Jun out of
+  turn, believing he is the room's last word. She is the "hand" the Tea Set narrator claims.
+- **The came-after** (Hana's grandson, a records-keeper): handled the *witnesses who kept
+  records* — the ones who could not be talked to, only filed. He is the steadier hand on the tag
+  backs (*still here?*, *the debt is not the name*, *she's you*). He leaves the keys on the hook,
+  draws the room in Aoi's dust, and reveals the whole in the Unlock.
+- Neither is Kuroda Jun. Kuroda Jun is the Kuroda grandson buying the estate back to keep the
+  family's version; Reiko kills him for it, and the came-after lets her believe she closed the
+  account.
 
 ## Places
 
@@ -36,7 +52,7 @@
 
 | Date | Event | Chapter |
 |---|---|---|
-| 1958 | Kuroda dies; Mitsuko strikes; Sada confesses | Unlock |
+| 1958 | Kuroda dies; Mitsuko strikes; Sada takes responsibility | Unlock |
 | 1959 | Hana paid the mirror; leaves down the Sumida | Ep 6 |
 | 1971 | Sada dies | Ep 10 |
 | 1989 | Hana dies | Ep 6 |

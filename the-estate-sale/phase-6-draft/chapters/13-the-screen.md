@@ -38,11 +38,10 @@ He knew what the mark was. He was fifty-three and he had restored screens for th
 and he had seen the mark three times, always on a panel that had been replaced without
 repainting, and every time it had been a death.
 
-Someone had bled on the fifth panel of the Kuroda screen in Yanaka in 1958, and someone had
-replaced the panel and never painted it, and the screen had been kept by the Kanzakis for
-sixty-five years with a blank fifth panel, and Mitsuko had bought it back and tagged it, and
-it had come to Yamamura, who was now looking at the mark of a man's death on a screen that
-was supposed to be a river.
+Someone had bled on the fifth panel of the Kuroda screen in Yanaka in 1958. Someone had replaced
+the panel and never painted it. The Kanzakis had kept the screen sixty-five years with a blank
+fifth panel. Mitsuko had bought it back and tagged it, and it had come to Yamamura, who was now
+looking at the mark of a man's death on a screen that was supposed to be a river.
 
 Yamamura called the estate. He got Kei, who was tired, and who said the screen had been in
 the storage room his whole childhood and that he had been told never to open it, and that he

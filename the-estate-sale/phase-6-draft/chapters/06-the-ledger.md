@@ -31,6 +31,18 @@ She looked at the ledger, then at him.
 "Look at the pattern. She buys in 1961, the seller dies in 1961. She buys in 1974, the date
 is 1974. She buys in 1991—"
 
+He stopped, and turned the book, and pointed at the top of the page, where the columns were
+ruled. The ledger ran to two columns on every line, and only one of them was ever labelled.
+The ruled heading over the first column read *bought*; over the second, the heading was a year,
+and the years in it ran one ahead of the purchases, and the year at the very top of the second
+column was not a date at all.
+
+"There are two years on every tag," he said. "The one the object remembers and the one the
+person came to. The front is where the object was, in 1958, in the house. The back is when the
+holder arrived — when they died, or when they were filed, or when they were left with the piece.
+She ruled the column for it in 1961 and never named it, because naming it would have made it a
+death list, and she needed it to be a distribution list."
+
 He stopped.
 
 [IMAGE 7.2 — a detail photograph of one ledger line, magnified: a purchase of a lacquer
@@ -86,6 +98,14 @@ She asked him to go through the ledger with her, page by page, and they did, and
 until midnight, and by the end they had a table in her notebook: two hundred and eleven
 objects, two hundred and eleven names, two hundred and eleven dates of death, and a
 pattern.
+
+Aoi drew it out as a chart and pinned it to the bench, because a pattern you can see is a
+pattern you cannot argue with.
+
+[IMAGE 7.4b — a hand-ruled chart in Aoi's notebook: a horizontal axis of years 1961 to 2023, a
+vertical axis of names; two hundred small crosses; the crosses march in a single file, one per
+year, and every seventh cross is circled; a red thread runs left to right along the file; the
+last circle is empty, its margin note reading "the one with no name yet."]
 
 The pattern was a chain. Each name on a tag was the previous holder of an object, and each
 death cleared the object for the next purchase, and each purchase moved the object one step

@@ -84,14 +84,16 @@ She cried when I told her. It's the only time I saw her cry."
 
 The swords that did the talking.
 
-Ito looked at the two blades in their plain scabbards and understood, the way you understand
-a valuation before you can name it, that these were not weapons of the night. They were the
-Kuroda family's formal pair, the pair a patron wears when he goes to a house to be
+Ito looked at the two blades in their plain scabbards and understood, the way you understand a
+valuation before you can name it, that these were not weapons of the night.
+
+They were the Kuroda family's formal pair. The pair a patron wears when he goes to a house to be
 important and to be seen. Kuroda Genji had gone to the Kanzaki house in 1958 carrying the
-family's pride, and had done something unspeakable while wearing it, and someone — not the
-Kanzakis, who had no swords — had polished the blades afterward, and had put them back on
-the stand, and had kept them, and had cried, and had brought them back to the woman's room
-fifteen years ago because the room had a place for the blades and he could not finish
+family's pride, and had done something unspeakable while wearing it.
+
+And someone — not the Kanzakis, who had no swords — had polished the blades afterward, and put
+them back on the stand, and kept them, and cried, and brought them back to the woman's room
+fifteen years ago. Because the room had a place for the blades. And because he could not finish
 keeping them alone.
 
 [IMAGE 12.3 — the tsuba's reverse: an iron guard photographed close, showing a worn plum
@@ -159,27 +161,26 @@ a date, and the date was today.
 She put it in her pocket and did not read it until she was home.
 
 Then she went to the storage room behind the shop, because the door was unlocked and because
-she had become the kind of person who tries doors, and inside there were the blades, in
-shirasaya, on the stand, and the stand was the one from the estate, and the two blades were
-on it, and on the stand there was a tag, and the tag said KURODA — 1958 — YANAKA, and it was
-the original tag, which the estate had sold with the stand, which meant the blades had been
-brought back.
+she had become the kind of person who tries doors.
 
-Which meant the Buyer had already been here.
+Inside were the blades, in shirasaya, on the stand. The stand was from the estate. On it there
+was a tag, and the tag said KURODA — 1958 — YANAKA. It was the original tag, which the estate
+had sold with the stand. Which meant the blades had been brought back.
 
-Which meant the Buyer had stood in this room and put the blades back on the stand that the
-dead woman had tagged, and had left them, and had left the shop open, and had left a tag under
-the door with no name and today's date.
+Which meant Kuroda Jun had already been here. He had stood in this room and put the blades back
+on the stand that the dead woman had tagged, and had left them, and had left the shop open, and
+had left a tag under the door with no name and today's date.
 
-Aoi understood, standing in the storage room with the blades, that the Buyer was not tidying.
+Aoi understood, standing in the storage room with the blades, that Kuroda Jun was not tidying.
 He was *returning*. He had been returning the pieces to the room for years — the coat, the
-sit, the blades — and the deaths were not the point of the returns. The returns were the point
-of the returns. He was putting the room back together the only way a man who believes he is
-the victim's heir can: by owning it.
+stand, the blades — and the deaths were not the point of the returns. The returns were the
+point of the returns. He was putting the room back together the only way a man who believes he
+is the victim's heir can: by owning it.
 
-And then Aoi understood the thing she would not understand fully until Kuramae: that the Buyer
-and the collector had the same project, from opposite ends, and that the tags were the hinge,
-and that whoever stood in the gap would settle it.
+And then Aoi understood the thing she would not understand fully until Kuramae: that Kuroda
+Jun and the collector had the same project, from opposite ends, and that the tags were the
+hinge, and that a third party — the one who had been clearing the witnesses — was walking the
+same road with neither of them, and that whoever stood in the gap would settle it.
 
 [IMAGE 14.5 — a storage room behind a Nezu shop: a daishō stand with two blades in shirasaya,
 the original tag tied on; a dealer's ledger gone from the table, the dust showing its
@@ -197,33 +198,35 @@ no return address, and inside, wrapped in cloth, were the two blades on the dais
 the original tag, and a letter.
 
 The letter is the document Aoi read most often in December, and it is the document that made
-her certain the hand was not a monster in the way a reader wants a monster to be.
+her certain the ones who did the tidying were not monsters in the way a reader wants a monster
+to be.
 
 It read:
 
-*You have the folder. You will have worked out that there were two hands. Her hand and mine.
-Hers is the testimony. Mine is the tidying. I am not sorry for the tidying, but I am going to
-tell you why, because you are the only person who has read the whole of it and a reader is
-owed a reason.*
+*You have the folder. You will have worked out that she kept more than one of us. Hers is the
+testimony. Mine is the record-keeping: the tickets, the registers, the files that let a death be
+closed as an accident. I am not sorry for it, but I am going to tell you why, because you are
+the only person who has read the whole of it and a reader is owed a reason.*
 
-*In 1958 my grandfather drove a man to a house and drove home alone and was paid to be silent
-for thirty years. He came to tell me when he was dying, and he told me because he could not
-die with the silence, and then he died, and I was fourteen, and I understood two things. First,
-that a silence can be paid for and passed down. Second, that the only cure for a paid silence
-is an unpaid truth.*
+*In 1958 my mother carried a mirror out of that house and was paid to be silent for thirty
+years. She never told me; I found it in a register, the way I find everything, in the year she
+died, when I was fourteen, and I understood two things. First, that a silence can be paid for
+and passed down. Second, that the only cure for a paid silence is an unpaid truth.*
 
 *Kanzaki Mitsuko spent her life buying the truth back, object by object, and she could not
 speak it, because she was eleven when it happened and because her mother had signed it away in
 a register and because a woman in a house in Yanaka cannot accuse a Kuroda. She could only
-build. So she built, for sixty years, and then in 1989 she wrote to me and asked me to carry
-it, and I did, because I was her grandfather's shame and she was my family's, and between us we
-could make one true thing.*
+build. So she built, for sixty years, and then in 1989 she wrote to two families whose
+elder had carried her night and been paid to forget it — the driver's line and mine — and she
+asked us to carry it, and we did, because I was my mother's shame and she was my family's, and
+between us we could make one true thing.*
 
-*The deaths were not her design. They were mine, and I want that exact. She wrote the list and
-I walked it. She never asked me to kill anyone. She asked me to clear the route, and I
-interpreted "clear" the way a man with a grandfather's debt interprets a word, and I was wrong,
-and it is too late, and I am putting it in writing because a reader is owed a reason and because
-a confession is the only object I have left that she did not tag.*
+*The deaths were not her design. They were ours, and I want that exact — mine among them. She
+wrote the list and we walked it; the living she left to the other hand, the records to me. She
+never asked either of us to kill anyone. She asked us to clear the route, and I interpreted
+"clear" the way a family with a bought silence interprets a word, and I was wrong, and it is too
+late, and I am putting it in writing because a reader is owed a reason and because a confession
+is the only object I have left that she did not tag.*
 
 *The blades belong to the room. The room is nearly closed. If you are reading this, you are
 inside it, and I am sorry, and I am not coming.*

@@ -189,8 +189,8 @@ Aoi understood, standing in the lane, that the collection was not only a testimo
 Kuroda. It was an *obligation to him*. The two families had each buried half the night, and
 Mitsuko had spent her life buying the room back so that the other family would not be left
 holding only the silence. She had built a room that would hold *both* versions, and the stone
-with the blank date was the room's other half, and the blank date was not waiting for the
-Buyer.
+with the blank date was the room's other half, and the blank date was not waiting for anyone
+else.
 
 It was waiting for her.
 

@@ -137,7 +137,7 @@ the doorway, backlit by the corridor; the chest in the foreground corner with th
 
 ---
 
-The Buyer came in without hurrying, because he never hurried.
+The came-after came in without hurrying, because he never hurried.
 
 He was not what I had expected. I had expected a man in a grey coat with his hands folded,
 and he had that, but he also had, that night, something I had not seen in any of the eleven
@@ -149,40 +149,50 @@ He sat down on the floor at the edge of the arrangement, the way an old man sits
 been carrying something for too long, and he said, before I could say anything, the first true
 thing anyone had said to me about the room.
 
-"I'm not a killer," he said. "I want that on your record, because you're writing it. I'm
-Hana's grandson. I'm the came-after. Everything your tags say about the deaths is true. Every
-one of them is true. But I didn't do it for the collection. I did it because she asked me
-to."
+"I'm not a killer," he said. "I want that on your record, because you're writing it. I keep
+the records. There was another of us, for the ones who held a piece in their hands, and that
+one is not mine to speak for. But the filings, the shop doors, the stairwells — that is my
+work, and I am Hana's son, and I am the came-after, and I did what she asked."
 
-And then Kuroda Jun — the grandson, the polite man, the one who had bought the coat and the
-sit and stood at the top of a stairwell in the wet — told me the thing that the whole
-account had been missing, and I am going to write it down exactly, because it is the reason
-this book is not a murder story.
+And then the man who had bought the coat and the sit and stood at the top of a stairwell in
+the wet — the second hand, the one Mitsuko had kept apart from the first so that neither
+would ever know the whole of it — told me the thing that the whole account had been missing,
+and I am going to write it down exactly, because it is the reason this book is not a murder
+story.
 
-He said: "Kanzaki Mitsuko hired me in 1989. She was sixty-two. She had been collecting for
-thirty years, and she had realised that the collection was not going to be enough, because
-the collection is only the room. The room is only the room. What she needed was the *route* —
-the people who held the pieces, and the people who held the paperwork, and the person who
-would finally stand in the gap. She could not kill them herself; an old woman in a house in
-Yanaka cannot travel the city. So she wrote to my father, who was a Kuroda, and she told him
-the truth about his father, and she asked him for help, and my father would not. And then in
-1989 my father died, and she wrote to me."
+He said: "Kanzaki Mitsuko wrote to me in 1989. She was sixty-two. She had been collecting for
+thirty years, and she had realised that the collection was not going to be enough, because the
+collection is only the room. The room is only the room. What she needed was the *route* — the
+people who held the pieces, the people who held the paperwork, and the person who would
+finally stand in the gap. She could not walk it herself; an old woman in a house in Yanaka
+cannot travel the city. She wrote to two families whose grandfathers had carried her night and
+been paid to forget it. One was the driver's line. The other was mine."
 
-He said: "She asked me to be the hand. She said she would do the rest. She said she would
-build the room and she would leave the tags, and all I had to do was clear the route, one
-person a month, quietly, and file the ones who mattered, and leave the last one alone until
-the room was finished. And I said yes."
+He said: "I am not a Kuroda. It matters that you know that. The Kurodas were buying the pieces
+back all this time, quietly, to keep the story theirs — Kuroda Jun, the grandson, was the one
+who bought the coat and the blades and asked after every tagged lot. She had not accounted for
+him. But I am Hana's line, and Hana carried the mirror out and was paid, and that is the
+silence I inherited, and it is mine to pay down."
+
+He said: "She divided the work like a ledger. The living who still held a piece: that was the
+driver's grandchild, the bank clerk, the one who wrote the tea. The ones who kept the
+*records*: the menders, the genealogist, the dealers — that was me, because a person who files
+things cannot be talked to, only filed. She said she would build the room and leave the tags,
+and all I had to do was clear the route, one a month, and leave the last one alone until the
+room was finished. And I said yes."
 
 I asked him why.
 
-He said: "Because she was right about my grandfather. He did what she said he did. And
-because she paid me in the only currency that matters to a Kuroda, which is the truth about
-our own name, told to us by the one person who saw it. She gave me the room, and the room gave
-me back my grandfather as he actually was, and I have spent thirty-five years making sure no
-one ever reads it differently."
+He said: "Because she was right about what my grandmother did. Hana took the mirror out of
+that house and took the money and never spoke, and her daughter never spoke, and you grew up
+in Tateishi not knowing any of it. She paid me in the only currency that matters to a family
+that bought its own silence, which is the truth about our own name, told to us by the one
+person who saw it. She gave me the room, and the room gave me back my grandmother as she
+actually was, and I have spent thirty-five years making sure no one ever reads it
+differently."
 
 [IMAGE 21.5 — two figures at the edge of the arranged room: the narrator standing in the
-central gap; the Buyer seated on the floor, hands still folded; between them, on the floor,
+central gap; the came-after seated on the floor, hands still folded; between them, on the floor,
 the four documents laid side by side; the doorway open behind him.]
 
 ---
@@ -190,16 +200,22 @@ the four documents laid side by side; the doorway open behind him.]
 And there it was. The whole account, turned over one last time.
 
 Kanzaki Mitsuko, the collector. The woman who bought a room back one object at a time. The
-witness who could not speak. And — the thing no one had seen, not Aoi, not Mikami, not me —
-the *author*. She had not just built the room. She had built the *route*. She had spent
-thirty-five years, through a hired hand, moving the pieces of her testimony into the only
-arrangement that could deliver it: a chain of people who each held one document, and one
-person, at the end, who held none, and who would have to walk into the room and read it, and
-the room would be complete, and the truth would be told.
+witness who could not speak.
+
+And the thing no one had seen, not Aoi, not Mikami, not me: the *author*.
+
+She had not just built the room. She had built the *route*. She had spent thirty-five years,
+through two hired hands she kept from ever meeting, moving the pieces of her testimony into the
+only arrangement that could deliver it.
+
+A chain of people who each held one document. And one person, at the end, who held none — who
+would have to walk into the room and read it. Then the room would be complete, and the truth
+would be told.
 
 The deaths were not the crime. The deaths were the *delivery*. And the man in the grey coat
-was not the villain. He was the messenger, and he had been carrying the message for
-thirty-five years, and he was tired, and he had come to the room, that night, to hand it over.
+was not the villain in the way the account had wanted one. He was half a messenger, and he had
+been carrying half a message for thirty-five years, and he was tired, and he had come to the
+room, that night, to hand it over.
 
 He said the last thing, and it was the politest thing anyone has ever said to me.
 
@@ -229,13 +245,13 @@ name, and he said the tape measure, and he said we could leave, and I did the th
 trained my whole life to do, which was to hold still while a thing is handled, and let the
 room finish the valuation.
 
-The Buyer did not touch me. He sat on the floor with his hands folded and he watched, and he
+The came-after did not touch me. He sat on the floor with his hands folded and he watched, and he
 said nothing, and that was his mercy, and I understood it as mercy though I cannot prove it
 was.
 
 The room became the room. The mats contracted the way they had contracted for the locksmith,
 and the air thickened the way it had thickened for the nurse on her step, and my hand on the
-phone slowed, and the doorway of the warehouse — the real one, the one the Buyer had come
+phone slowed, and the doorway of the warehouse — the real one, the one the came-after had come
 through — became the doorway of the room in 1958, and through it I could see a child being
 carried out, and a mother in the doorway, and a priest with his inventory, and the fifth panel
 of a screen, blank.

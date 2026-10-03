@@ -6,6 +6,10 @@ I am writing this at Mikami's bench in Sendagi because my flat no longer feels s
 because his shop has a lock I do not have to think about, and because he has gone home and
 left me the kettle and the light.
 
+[IMAGE 7.1 — a repairer's bench at night, a single lamp: a notebook open under the light, a
+kettle steaming on a small gas ring, shellac tins and brushes pushed to the edge; the shop
+beyond the lamp is deep shadow; the bench shows the ghost-rings of many cups.]
+
 I want to record the hour, because I have started to distrust my own sense of time. It is
 just after one. The lane outside is empty. The shop smells of shellac and cold tea, which I
 have described before in this account, and which I am describing again, because I find that
@@ -16,16 +20,21 @@ reason I have taken the ledger home with me: I do not think I am going to surviv
 
 I do not mean that as fear. I mean it as an appraisal.
 
-I have spent eleven years pricing things, and the trade gives you one gift, which is
-judgement without attachment. You look at a lacquer box with a cracked lid and you see the
-crack, and you see the box, and you do not confuse the two. I have been looking at this
-account the way I look at a box. There is a crack in it. The crack is not me. But the crack
-runs from the first page to this one, and I have begun to think it was there before I
-started writing, and that I have merely been tracing it.
+I have spent eleven years pricing things. The trade gives you one gift: judgement without
+attachment. You look at a lacquer box with a cracked lid and you see the crack, and you see the
+box, and you do not confuse the two.
+
+I have been looking at this account the way I look at a box. There is a crack in it. The crack is
+not me. But it runs from the first page to this one, and I have begun to think it was there before
+I started writing, and that I have only been tracing it.
 
 The ledger says my name. The tags say my name. The mirror came back to me. A woman I never
 met, dead in March, arranged her whole estate around my mother, and my mother's mirror, and
 my mother's death, and she has been dead for six months and she is still arranging.
+
+[IMAGE 7.2 — the open ledger on the bench under the lamp: two facing pages of a small upright
+hand, one unlabelled column of dates; on the verso, a name written, rubbed out, and written
+again, the paper furred from erasure; a thumb rests on the line, holding the page flat.]
 
 I keep thinking about the boy at the estate. Kei. He said his mother never wrote anything
 down about the room — the dimensions, she never wrote them. She only ever bought, and
@@ -62,6 +71,10 @@ Somewhere in this shop, in a drawer I have not opened, are thirty years of repai
 Mikami showed me one from 1991. He did not show me the rest. I have not asked to see them
 because I already know what I will find, and I am not ready, tonight, to be right.
 
+[IMAGE 7.3 — a shallow drawer pulled open a hand's width, seen from above: packed paper repair
+tickets with dates in the corner, a bound stub-book, a rubber stamp; the drawer's runners
+show bare wood; the light comes from the lamp behind, leaving the drawer's far end dark.]
+
 The water is in the pot. I am pouring it. The tag on the tea caddy is turned away from me,
 the way Mikami turns the tags of his own things, out of respect or out of fear, I have never
 asked which.
@@ -72,6 +85,10 @@ sixty years for someone to stand in it has, I think, already chosen who.
 
 I am standing in it now. That is the sentence. I have written it, and it is true, and I am
 not going to cross it out.
+
+[IMAGE 7.4 — the notebook page itself, close, under the lamp: a line in a firm upright hand,
+the last two words freshly written and the ink still wet; above it, the same line struck
+through twice and corrected; the page's shadow falls across the ledger beside it.]
 
 
 ---
@@ -94,6 +111,15 @@ want the answer more than the object, and then it teaches you to want the answer
 the people, and then one day you are standing in a dead woman's warehouse at midnight with a
 tape measure, and you are not afraid of the room. You are *curious* about it. And curiosity,
 in a room like that, is the same as consent.
+
+I have to write the rest of it, because I have been careful with every disclosure but this one.
+The want did not begin with the mirror. It began when I was nine, on a landing, outside a door
+a landlord had locked against me. I decided that year that I would be the one who held the key,
+and I have been holding keys ever since — other people's flats, other people's locked rooms,
+other people's dead. The room in Yanaka is the first door I have ever been *offered*, and I do
+not know if what I feel when I stand at it is the child's want to be let in, or the child's
+want never to be locked out again, and I am afraid they are the same want, and I am afraid I
+will not find out which until I have opened it.
 
 I did not consent to the deaths. I want that on the record. But I consented to the *room*, and
 the room had a place for me, and it had been waiting for someone who would come to it
