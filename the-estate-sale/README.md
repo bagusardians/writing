@@ -26,7 +26,7 @@ chronological unlock. Each story has its own trade, its own document, and its ow
 
 ## Final release
 
-The finished book is **`releases/v1.4.1/the-estate-sale-v1.4.1.md`** (~46,415 words excl.
+The finished book is **`releases/v1.4.2/the-estate-sale-v1.4.2.md`** (EPUB: `releases/v1.4.2/the-estate-sale-v1.4.2.epub`; ~46,498 words excl.
 image prompts; v1.4.1 is the post-review ending-and-continuity revision — the narrator now
 refuses the gap and completes the testimony by reading it — on top of v1.4.0's
 illustration-specification pass, v1.3.0's page-turner pass and v1.2.0's continuity fix).
@@ -35,7 +35,8 @@ See `releases/README.md` for the version table. Working drafts live in `phase-6-
 ## Files
 
 ```
-releases/v1.4.1/the-estate-sale-v1.4.1.md final manuscript (frozen, current)
+releases/v1.4.2/the-estate-sale-v1.4.2.md final manuscript (frozen, current)
+releases/v1.4.2/the-estate-sale-v1.4.2.epub EPUB 3 ebook (rebuilt by tools/build_epub.py)
 phase-1-worldbuilding/world-bible.md      cast, setting (real Tokyo districts), spine
 phase-2-style/style-guide.md              locked voice decisions and house rules
 phase-3-voice/style-fingerprint.md        feature-only voice profile

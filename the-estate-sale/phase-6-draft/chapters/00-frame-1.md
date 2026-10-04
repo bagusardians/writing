@@ -126,10 +126,17 @@ I said it was probably nothing. Old women keep things.
 
 I want to be honest about the thing I have been least honest about.
 
-I hung up and opened my laptop and found out. It took four minutes. The listing had a buyer's
-initial and a deposit date. That was all. But four minutes told me the buyer had paid in cash,
-in person, an hour after I left, and had asked for the tag to be left on the mirror. Buyers do
-not ask that. A tag on a mirror is ugly.
+I hung up and opened my laptop. The listing was still up, and a sale record is a public thing,
+so far as it goes: a lot number, a buyer's initial, a deposit date. The mirror was marked SOLD
+with a single letter where a name should be. That was all the platform would ever show me.
+
+So I called the sale. The son answered, and I asked him, buyer to seller, who had taken the
+mirror and when. He told me without thinking: paid in cash, in person, an hour after I left,
+and asked for the tag to be left on. He told me because to him it was nothing. A buyer's name
+and a buyer's habit are not secrets in a cleared estate.
+
+It was the habit that stayed with me. Buyers do not ask for a tag to be left on. A tag on a
+mirror is ugly.
 
 I told myself I was protecting an interest. If the mirror had been stolen from my mother, I had a
 stake. That was both true and false.
