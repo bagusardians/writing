@@ -4,7 +4,7 @@ Final, frozen manuscripts of *The Estate Sale*. One folder per version.
 
 | Version | Date | Word count | Status | File |
 |---|---|---|---|---|
-| v1.4.2 | 2026-10-03 | 46,498 (excl. prompts) | Final (current) | `v1.4.2/the-estate-sale-v1.4.2.md` |
+| v1.4.2 | 2026-10-03 | 46,498 (excl. prompts) | Final (current) | `v1.4.2/the-estate-sale-v1.4.2.md` + `.epub` |
 | v1.4.1 | 2026-10-03 | 46,415 (excl. prompts) | Superseded | `v1.4.1/the-estate-sale-v1.4.1.md` |
 | v1.4.0 | 2026-10-03 | 44,955 (excl. prompts) | Superseded | `v1.4.0/the-estate-sale-v1.4.0.md` |
 | v1.3.0 | 2026-10-03 | 44,955 (excl. prompts) | Superseded | `v1.3.0/the-estate-sale-v1.3.0.md` |

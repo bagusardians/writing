@@ -1,6 +1,8 @@
 # The Estate Sale — v1.4.2
 
 **Manuscript:** `the-estate-sale-v1.4.2.md`
+**EPUB:** `the-estate-sale-v1.4.2.epub` (EPUB 3; rebuilt from the markdown by
+`tools/build_epub.py`)
 **Word count:** 46,498 excluding image prompts
 **Plates:** 135 (all unique)
 
