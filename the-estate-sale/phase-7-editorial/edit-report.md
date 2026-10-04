@@ -226,3 +226,7 @@ who the named people are, and how a room can have no door. Fixes:
   her statement, resolving the deferred F9 identity question.
 
 Prose delta for the clarity pass: +434 words (total v1.4.1 delta: +1,009).
+
+## Post-merge fix (v1.4.2) — buyer-information source
+
+Reader note on Frame One: Aoi is established as a *buyer* working for no one, yet she learns from the sale listing that the mirror buyer "paid in cash, in person, an hour after I left, and asked for the tag to be left on." A public listing cannot show that. Fix: the listing gives only a lot number, a buyer initial, and a deposit date; the insider detail now comes from a phone call to the sale, where the son who ran it tells her, buyer to seller.
